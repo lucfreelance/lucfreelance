@@ -1,0 +1,139 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* Header Styles */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+}
+
+.button li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.button li:last-child {
+    margin-right: 0;
+}
+
+.button li button {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.button li button:hover {
+    background-color: #ccc;
+}
+
+.toggle-btn {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    background-color: transparent;
+    border: 1px solid #333;
+    cursor: pointer;
+}
+
+.toggle-btn:hover {
+    background-color: #333;
+    color: #f2f2f2;
+}
+
+/* Content Styles */
+.router-container {
+    padding: 0px;
+}
+
+.title {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.paragraph {
+    margin-bottom: 20px;
+}
+
+/* Footer Styles */
+footer {
+    padding: 10px;
+    text-align: center;
+    background-color: #333;
+}
+
+/* Dark Mode Styles */
+.dark-mode {
+    background-color: #333;
+    color: #f2f2f2;
+}
+
+.dark-mode header {
+    background-color: #333;
+}
+
+.dark-mode .button li button {
+    color: #f2f2f2;
+}
+
+.dark-mode .toggle-btn {
+    color: #f2f2f2;
+    background-color: transparent;
+    border: 1px solid #f2f2f2;
+}
+
+.dark-mode .toggle-btn:hover {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.dark-mode .router-container {
+    color: #f2f2f2;
+}
+
+.dark-mode .title {
+    color: #f2f2f2;
+}
+
+.dark-mode .subtitle {
+    color: #f2f2f2;
+}
+
+.dark-mode .paragraph {
+    color: #f2f2f2;
+}
+
+.dark-mode footer {
+    background-color: #333;
+    color: #f2f2f2;
+}
