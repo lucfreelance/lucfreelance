@@ -1,45 +1,43 @@
-¡Hola! 👋 Soy [Soe Lucas]
-gif
+Hello! 👋 Check out [Soe Lucas]'s portfolio.
 
-Soy un desarrollador web y diseñador web freelance apasionado por crear experiencias digitales asombrosas. Me encanta combinar la belleza del diseño con la funcionalidad del desarrollo para ofrecer soluciones únicas y atractivas.
+I am a passionate freelance web developer and designer, dedicated to creating amazing digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and appealing solutions.
 
-🔥 Lo que hago
-Desarrollo sitios web responsivos utilizando HTML, CSS y JavaScript.
-Diseño interfaces de usuario intuitivas y atractivas.
-Creo animaciones y efectos visuales para mejorar la experiencia del usuario.
-Optimizo el rendimiento y la velocidad de los sitios web para una carga rápida.
-Implemento soluciones de comercio electrónico utilizando plataformas como Shopify y WooCommerce.
-Colaboro con equipos multidisciplinarios para lograr resultados excepcionales.
-⚡ Habilidades
-Aquí hay una lista de algunas de mis habilidades destacadas:
+🔥 What I do:
 
-💻 HTML5, CSS3 y JavaScript
-🎨 Diseño de interfaces de usuario (UI)
-📱 Diseño responsivo y móvil
-🚀 Optimización de rendimiento web
-💼 Desarrollo de comercio electrónico
-🎥 Animaciones y efectos visuales
-⚙️ Frameworks y bibliotecas como React y Bootstrap
-📊 SEO y estrategias de marketing digital
-🌍 Proyectos Destacados
-Aquí hay una muestra de algunos de mis proyectos más destacados:
+Develop responsive websites using HTML, CSS, and JavaScript.
+Design intuitive and attractive user interfaces.
+Create animations and visual effects to enhance the user experience.
+Optimize website performance and speed for fast loading.
+Implement e-commerce solutions using platforms like Shopify and WooCommerce.
+Collaborate with multidisciplinary teams to achieve exceptional results.
+⚡ Skills:
+Here's a list of some of my key skills:
 
-Proyecto 1: Breve descripción del proyecto y captura de pantalla.
-Proyecto 2: Breve descripción del proyecto y captura de pantalla.
-Proyecto 3: Breve descripción del proyecto y captura de pantalla.
-¡Puedes ver más proyectos en mi sitio web!
+💻 HTML5, CSS3, and JavaScript.
+🎨 User Interface (UI) design.
+📱 Responsive and mobile design.
+🚀 Web performance optimization.
+💼 E-commerce development.
+🎥 Animations and visual effects.
+⚙️ Frameworks and libraries like React and Bootstrap.
+📊 SEO and digital marketing strategies.
+🌍 Featured Projects:
+Here are a few of my standout projects:
 
-📫 ¡Hablemos!
-Si estás interesado en trabajar juntos o simplemente quieres decir hola, ¡no dudes en contactarme!
+1st project: eldorado-digital.netlify.app
+2nd project: ultracobra.netlify.app
+3rd project: oportunidadesilimitadas.com
+📫 Let's Connect:
+If you're interested in working together or just want to say hello, feel free to reach out!
 
-Sitio web: www.tusitio.com
-Correo electrónico: correo@ejemplo.com
-LinkedIn: Tu Nombre
-Twitter: @tu_usuario_de_twitter
-¡Espero con ansias trabajar contigo en proyectos increíbles! 😊
+Website: www.github.com/lucfreelance/lucfreelance/
+Email: lucfreelance@gmail.com
+LinkedIn: Soe Lucas
+Twitter: @soelucas
+I look forward to collaborating on incredible projects with you! 😊
 
-🎉 ¡Gracias!
-Un agradecimiento especial a todos los que han apoyado y contribuido a mi trayectoria hasta ahora. ¡Sin ustedes, nada de esto sería posible!
+🎉 Thank You!
+A special thank you to everyone who has supported and contributed to my journey so far. Without you, none of this would be possible!
 
-📄 Licencia
-Este proyecto está bajo la Licencia Nombre de la Licencia.
+📄 License:
+This project is licensed under [License Name].
