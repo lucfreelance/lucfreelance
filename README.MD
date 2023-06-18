@@ -14,28 +14,38 @@ Here's a list of some of my key skills:
 
 💻 HTML5, CSS3, and JavaScript.
 🎨 User Interface (UI) design.
-📱 Responsive and mobile design.
+📱 Responsive design.
 🚀 Web performance optimization.
-💼 E-commerce development.
-🎥 Animations and visual effects.
+🎥 CSS Animations and visual effects.
 ⚙️ Frameworks and libraries like React and Bootstrap.
-📊 SEO and digital marketing strategies.
+📊 SEO writing and strategies.
+
+## ⚡ Technologies I'm experienced with:
+⚡️ Node
+⚡️ Vite
+⚡️ Jekyll
+⚡️ Bootstrap
+⚡️ LocalWP
+⚡️ WordPress
+⚡️ ReactJS
+⚡️ Flask
+⚡️ Docker
 
 ## 🌍 Featured Projects:
 Here are a few of my standout projects:
 
-1st project: eldorado-digital.netlify.app
-2nd project: ultracobra.netlify.app
-3rd project: oportunidadesilimitadas.com
+🌐 1st project: eldorado-digital.netlify.app
+🌐 2nd project: ultracobra.netlify.app
+🌐 3rd project: oportunidadesilimitadas.com
 
 ### 📫 Let's Connect:
-If you're interested in working together or just want to say hello, feel free to reach out!
+If you're interested in working together or just want to say hello, feel free to reach out. I look forward to collaborating on incredible projects with you!
 
-Website: www.github.com/lucfreelance/lucfreelance/
-Email: lucfreelance@gmail.com
-LinkedIn: Soe Lucas
-Twitter: @soelucas
-I look forward to collaborating on incredible projects with you!
+🎯 Website: www.github.com/lucfreelance/lucfreelance/
+📫 Email: lucfreelance@gmail.com
+📫 LinkedIn: Soe Lucas
+📫 Twitter: @soelucas
+
 
 ### 🎉 Thank You!
 A special thank you to everyone who has supported and contributed to my journey so far. Without you, none of this would be possible!
