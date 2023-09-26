@@ -6,6 +6,8 @@
 > - 📫 Email: lucfreelance@gmail.com
 > - 🐦 X: @lucfreelance
 
+![](https://avatars.githubusercontent.com/u/98495308?v=4)
+
 ## ⚡ What I do:
 💻 Develop responsive websites using HTML, CSS, and JavaScript.
 💻 Design intuitive and attractive user interfaces.
