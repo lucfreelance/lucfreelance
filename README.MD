@@ -69,7 +69,7 @@
 
 | Stack        | Description                                                                                                             |
 |--------------|-------------------------------------------------------------------------------------------------------------------------|
-| **PERN Stack** | 
+| **PERN Stack** | | 
                - **Platform:** PERN stands for "Python, Express.js, React.js, Node.js, and PostgreSQL." It's a full-stack web development stack that combines these technologies for building robust web applications.
                - **PostgreSQL:** A powerful open-source relational database management system.
                - **Express.js:** A Node.js framework for building server-side applications.
@@ -77,7 +77,7 @@
                - **Node.js:** A runtime environment for server-side JavaScript.
                - **Benefits:** PERN Stack offers [benefits description].
 
-| **JAM Stack**  | 
+| **JAM Stack**  | | 
                - **Architecture:** The JAM (JavaScript, APIs, and Markup) Stack is a modern web development architecture that decouples the frontend and backend.
                - **Components:**
                  - **JavaScript:** Used for frontend interactivity.
