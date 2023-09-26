@@ -40,8 +40,8 @@
 | ⚡️ Astro             | Knowledge of Astro for efficient web development.    |
 | ⚡️ Bootstrap         | Skillful in utilizing Bootstrap for web design.      |
 | ⚡️ Eleventy          | Proficiency in Eleventy for static site generation.  |
-| ⚡️ NextJS            | Familiarity with Next.js for modern web applications. |
 | ⚡️ Gatsby            | Competent in building blazing-fast websites with Gatsby. |
+| ⚡️ NextJS            | Familiarity with Next.js for modern web applications. |
 
 ## ⚙️ Technologies:
 
@@ -65,6 +65,19 @@
 | ⚡️ HTML     | Mastery in HTML for structuring web content.         |
 | ⚡️ CSS      | Expertise in CSS for styling and layout design.      |
 
+| Stack        | Description                                                                                                                                                                      |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PERNN Stack  | - **Platform**: PERNN stands for "Python, Express.js, React.js, Node.js, and PostgreSQL." It's a full-stack web development stack that combines these technologies for building robust web applications. The components are:
+                - **Python**: Often used for server-side scripting.
+                - **Express.js**: A Node.js framework for building server-side applications.
+                - **React.js**: A popular JavaScript library for building user interfaces.
+                - **Node.js**: A runtime environment for server-side JavaScript.
+                - **PostgreSQL**: A powerful open-source relational database management system.
+| JAM Stack    | - **Architecture**: The JAM (JavaScript, APIs, and Markup) Stack is a modern web development architecture that decouples the frontend and backend. It consists of:
+                - **JavaScript**: Used for frontend interactivity.
+                - **APIs**: Services or microservices that handle server-side logic and data retrieval.
+                - **Markup**: Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
+              - **Benefits**: JAM Stack offers better security, scalability, and performance, as well as simplifies development and deployment processes. It's suitable for various types of websites, including blogs, e-commerce, and single-page applications.
 
 # 🎯 Featured Projects
 
