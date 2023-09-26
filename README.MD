@@ -5,9 +5,9 @@
 > - 🎯 Website: lucfreelance.vercel.app
 > - 📫 Email: lucfreelance@gmail.com
 > - 🐦 X: @lucfreelance
-
-![](https://avatars.githubusercontent.com/u/98495308?v=4)
-
+>
+>![](https://i.imgur.com/Vp82E1D.jpg)
+>
 ## ⚡ What I do:
 💻 Develop responsive websites using HTML, CSS, and JavaScript.
 💻 Design intuitive and attractive user interfaces.
