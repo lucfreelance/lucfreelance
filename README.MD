@@ -1,4 +1,4 @@
-# Hello all you! 👋 Check out [Lucfreelance showcase / portfolio]
+# Hello all you! 👋 This is Lucfreelance [[showcase][portfolio]]
 
 > I am a passionate freelance web developer and designer, dedicated to creating amazing digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and appealing solutions.
 >
@@ -9,11 +9,14 @@
 >![](https://i.imgur.com/Vp82E1D.jpg)
 >
 ## ⚡ What I do:
-💻 Develop responsive websites using HTML, CSS, and JavaScript.
-💻 Design intuitive and attractive user interfaces.
-📊 Create animations and visual effects to enhance the user experience.
-🚀 Optimize website performance and speed for fast loading.
-⚙️ Collaborate with multidisciplinary teams to achieve exceptional results.
+| Task                                                      | Description                                        |
+|-----------------------------------------------------------|----------------------------------------------------|
+| 💻 Develop responsive websites using HTML, CSS, and JavaScript.  | Create websites that adapt to different devices and screen sizes. |
+| 💻 Design intuitive and attractive user interfaces.            | Craft user interfaces that are easy to navigate and visually appealing. |
+| 📊 Create animations and visual effects to enhance the user experience. | Add engaging animations and effects to make websites more interactive. |
+| 🚀 Optimize website performance and speed for fast loading.    | Ensure websites load quickly and efficiently for a smooth user experience. |
+| ⚙️ Collaborate with multidisciplinary teams to achieve exceptional results. | Work with diverse teams to deliver outstanding web projects. |
+
 
 ## ⚡ Skills:
 Here's a list of some of my key skills:
