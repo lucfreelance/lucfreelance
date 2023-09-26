@@ -1,4 +1,5 @@
-# Hello all you! 👋 This is Lucfreelance [[showcase][portfolio]]
+![Your Corporate Banner Image](insert_image_url_here)
+# Hello all you! 👋 This is Lucfreelance's Showcase/Portfolio
 
 > I am a passionate freelance web developer and designer, dedicated to creating amazing digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and appealing solutions.
 >
@@ -8,6 +9,19 @@
 >
 >![](https://i.imgur.com/Vp82E1D.jpg)
 >
+
+## ⚡ Skills:
+
+| Skill                                       | Description                                                             |
+|---------------------------------------------|-------------------------------------------------------------------------|
+| 💻 Proficient in HTML5, CSS3, and JavaScript | Mastery in web development using HTML5, CSS3, and JavaScript.           |
+| 🎨 User Interface (UI) Design               | Crafting intuitive and visually appealing user interfaces.              |
+| 📱 Responsive Design                        | Creating websites that adapt seamlessly to various screen sizes.         |
+| 🚀 Web Performance Optimization             | Optimizing websites for lightning-fast loading and exceptional user experience. |
+| 🎥 CSS Animations and Visual Effects        | Adding engaging animations and visual effects using CSS.                 |
+| ⚙️ Frameworks and Libraries                | Proficiency in using frameworks like React and Bootstrap for efficient development. |
+| 📊 SEO Writing and Strategies               | Implementing SEO writing techniques and strategies to enhance website visibility. |
+
 ## ⚡ What I do:
 | Task                                                      | Description                                        |
 |-----------------------------------------------------------|----------------------------------------------------|
@@ -17,48 +31,52 @@
 | 🚀 Optimize website performance and speed for fast loading.    | Ensure websites load quickly and efficiently for a smooth user experience. |
 | ⚙️ Collaborate with multidisciplinary teams to achieve exceptional results. | Work with diverse teams to deliver outstanding web projects. |
 
+## ⚡ Frameworks and Libraries:
 
-## ⚡ Skills:
-Here's a list of some of my key skills:
-💻 HTML5, CSS3, and JavaScript.
-🎨 User Interface (UI) design.
-📱 Responsive design.
-🚀 Web performance optimization.
-🎥 CSS Animations and visual effects.
-⚙️ Frameworks and libraries like React and Bootstrap.
-📊 SEO writing and strategies.
+| Framework / Library | Description                                           |
+|----------------------|-------------------------------------------------------|
+| ⚡️ Hugo              | Proficient in building static websites with Hugo.    |
+| ⚡️ Jekyll            | Experienced in creating websites using Jekyll.      |
+| ⚡️ Astro             | Knowledge of Astro for efficient web development.    |
+| ⚡️ Bootstrap         | Skillful in utilizing Bootstrap for web design.      |
+| ⚡️ Eleventy          | Proficiency in Eleventy for static site generation.  |
+| ⚡️ NextJS            | Familiarity with Next.js for modern web applications. |
+| ⚡️ Gatsby            | Competent in building blazing-fast websites with Gatsby. |
 
-## ⚡ Frameworks that I can handle some frames for this:
-⚡️ Hugo
-⚡️ Jekyll
-⚡️ Astro
-⚡️ Bootstrap
-⚡️ Eleventy
-⚡️ NextJS
-⚡️ Gatsby
+## ⚙️ Technologies:
 
-## ⚙️ Technologies I'm experienced or expertise with:
-⚡️ Node
-⚡️ Vite
-⚡️ Jekyll
-⚡️ Bootstrap
-⚡️ LocalWP
-⚡️ WordPress
-⚡️ ReactJS
-⚡️ Flask
-⚡️ MySQL
+| Technology    | Description                                           |
+|---------------|-------------------------------------------------------|
+| ⚡️ Node        | Experienced in server-side scripting with Node.js.   |
+| ⚡️ Vite        | Proficient in using Vite for frontend development.    |
+| ⚡️ Jekyll      | Skilled in working with Jekyll for web projects.     |
+| ⚡️ Bootstrap   | Competent in integrating Bootstrap for web design.    |
+| ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress development. |
+| ⚡️ WordPress   | Expertise in WordPress for content management.        |
+| ⚡️ ReactJS     | Proficient in developing web apps with ReactJS.      |
+| ⚡️ Flask       | Capable of building web applications with Flask.      |
+| ⚡️ MySQL       | Experienced in database management with MySQL.       |
 
-## ⚙️ Languajes capable to handle
-⚡️ ReactJS
-⚡️ HTML
-⚡️ CSS
+## ⚙️ Programming Languages:
 
-## 🎯 Featured Projects: Here are a few of my standout projects:
-⚡️ Colaboradores
-⚡️ Komensales
+| Language   | Description                                           |
+|------------|-------------------------------------------------------|
+| ⚡️ ReactJS  | Proficient in using ReactJS for building web interfaces. |
+| ⚡️ HTML     | Mastery in HTML for structuring web content.         |
+| ⚡️ CSS      | Expertise in CSS for styling and layout design.      |
 
-### ⚡ Let's Connect:
+
+# 🎯 Featured Projects
+
+Here are a few of my standout projects:
+- ⚡️ **Pragma**
+- ⚡️ **Komensales**
+- ⚡️ **Colaboradores**
+
+## ⚡ Let's Connect
+
 If you're interested in working together or just want to say hello, feel free to reach out. I look forward to collaborating on incredible projects with you!
 
-### 🎉 Thank You!
+## 🎉 Thank You!
+
 A special thank you to everyone who has supported and contributed to my journey so far. Without you, none of this would be possible!
