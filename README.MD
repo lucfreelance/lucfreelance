@@ -2,9 +2,9 @@
 
 > I am a passionate freelance web developer and designer, dedicated to creating amazing digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and appealing solutions.
 
-> 🎯 Website: lucfreelance.vercel.app
-> 📫 Email: lucfreelance@gmail.com
-> 🐦 X: @lucfreelance
+- > 🎯 Website: lucfreelance.vercel.app
+- > 📫 Email: lucfreelance@gmail.com
+- > 🐦 X: @lucfreelance
 
 ## ⚡ What I do:
 💻 Develop responsive websites using HTML, CSS, and JavaScript.
