@@ -1,4 +1,4 @@
-![Your Corporate Banner Image](insert_image_url_here)
+![](insert_image_url_here)
 # Hello all you! 👋 This is Lucfreelance's Showcase/Portfolio
 
 > I am a passionate freelance web developer and designer, dedicated to creating amazing digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and appealing solutions.
