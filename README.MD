@@ -66,12 +66,12 @@
 
 | Language      | Description                                               |
 |---------------|-----------------------------------------------------------|
+| ⚡️ JavaScript | Skilled in JavaScript for client-side interactivity.      |
 | ⚡️ HTML       | Mastery in HTML for structuring web content.              |
 | ⚡️ CSS        | Expertise in CSS for styling and layout design.           |
-| ⚡️ Markdown   | Advance capability for build MD documents and blogging    |
-| ⚡️ PHP        | Proficient in PHP for server-side scripting.              |
-| ⚡️ JavaScript | Skilled in JavaScript for client-side interactivity.      |
+| ⚡️ MarkDown   | Advance capability for build MD documents and blogging    |
 | ⚡️ Liquid     | Familiar with Liquid for customizing Shopify themes.      |
+| ⚡️ PHP        | Proficient in PHP for server-side scripting.              |
 
 ## ⚙️ Stacks To Bundle On:
 
