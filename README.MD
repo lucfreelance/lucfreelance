@@ -1,5 +1,5 @@
 ![](insert_image_url_here)
-# Hello all you! 👋 This is Lucfreelance's Showcase/Portfolio
+# 👋 Hello all you! This is Lucfreelance's Showcase/Portfolio
 
 > I am a passionate freelance web developer and designer, dedicated to creating amazing digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and appealing solutions.
 >
@@ -85,18 +85,18 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 
-# 🎯 Featured Projects
+## 🎯 Featured Projects
 
 Here are a few of my standout projects that I'm working on or recently worked:
 - ⚡️ **Pragma**
 - ⚡️ **Komensales**
 - ⚡️ **Colaboradores**
 
-## ⚡ Let's Connect
+### ⚡ Let's Connect
 
 If you're interested in [working](https://wa.me/3157742332?text=Hello%2C%20I%20came%20from%20your%20GitHub%20repository,)
 together or just want to say [hello](mailto:lucfreelance@gmail.com), feel free to reach out. I look forward to collaborating on incredible projects with you!
 
-## 🎉 Thank You!
+### 🎉 Thank You!
 
-A special thank you to everyone who has supported and contributed to my journey so far. Without you, none of this would be possible!
+"A special thank you to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!"
