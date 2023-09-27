@@ -76,14 +76,15 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **React.js:** A popular JavaScript library for building user interfaces.
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Node.js:** A runtime environment for server-side JavaScript.
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Benefits:** PERN Stack offers [benefits description].
-|>
+||
 | **JAM Stack**  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The JAM (JavaScript, APIs, and Markup) stack is a modern web development architecture that decouples the frontend and backend.
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **JavaScript:** Used for frontend interactivity.
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **APIs:** Services or microservices that handle server-side logic and data retrieval.
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Benefits:** JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications.
-|----------------------------------------------------------------------------------------------------------------------------------------|
+||
+
 
 # 🎯 Featured Projects
 
