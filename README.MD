@@ -99,4 +99,4 @@ together or just want to say [hello](mailto:lucfreelance@gmail.com), feel free t
 
 ### 🎉 Thank You!
 
-"A special thank you to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!"
+Thanks for getting this far, and... A special thanks to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!
