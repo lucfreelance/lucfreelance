@@ -53,18 +53,18 @@
 
 ## ⚙️ Technologies:
 
-| Technology     | Description                                              |
-|----------------|----------------------------------------------------------|
-| ⚡️ Node.js     | Experienced in server-side scripting with Node.js.       |
-| ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.       |
-| ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress development.    |
-| ⚡️ WordPress   | Expertise in WordPress for content management.           |
-| ⚡️ Flask       | Capable of building web applications with Flask.         |
-| ⚡️ MySQL       | Experienced in database management with MySQL.           |
-| ⚡️ GitHub      | Proficient in version control with GitHub.               |
-| ⚡️ cPanel      | Familiar with web hosting management via cPanel.         |
-| ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.     |
-| ⚡️ OAuth       | Experience in implementing OAuth for authentication.     |
+| Technology     | Description                                                    |
+|----------------|----------------------------------------------------------------|
+| ⚡️ Node.js     | Experienced in server-side scripting with Node.js.             |
+| ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.             |
+| ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress build and develop.    |
+| ⚡️ WordPress   | Expertise in WordPress for content management.                 |
+| ⚡️ Flask       | Capable of building web applications with Flask.               |
+| ⚡️ MySQL       | Experienced in database management with MySQL.                 |
+| ⚡️ GitHub      | Proficient in version control with GitHub.                     |
+| ⚡️ cPanel      | Familiar with web hosting management via cPanel.               |
+| ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.           |
+| ⚡️ OAuth       | Experience in implementing OAuth for authentication.           |
 
 ## ⚙️ Programming & Markup Languages:
 
@@ -73,12 +73,12 @@
 | ⚡️ JavaScript | Skilled in JavaScript for client-side interactivity.               |
 | ⚡️ HTML       | Mastery in HTML for structuring web content.                       |
 | ⚡️ CSS        | Expertise in CSS for styling and layout design.                    |
-| ⚡️ MarkDown   | Advance capability for build MD documents and blogging.             |
-| ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites.       |
+| ⚡️ MarkDown   | Advance capability for build MD documents and blogging.            |
+| ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites.      |
 | ⚡️ PHP        | Capable to work with PHP data structure and databases.             |
 | ⚡️ Astro      | For building apps with Astro framework + Astro language.           |
-| ⚡️ Ruby       | For building apps with frameworks like Jekyll and Ruby on Rails .   |
-| ⚡️ Go         | For building apps and integrations with Hugo framework.   |
+| ⚡️ Ruby       | For building apps with frameworks like Jekyll and Ruby on Rails .  |
+| ⚡️ Go         | For building apps and integrations with Hugo framework.            |
 
 ## ⚡ Frameworks and Libraries:
 
