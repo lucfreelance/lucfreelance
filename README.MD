@@ -62,9 +62,9 @@
 | ⚡️ Flask       | Capable of building web applications with Flask.                |
 | ⚡️ MySQL       | Experienced in database management with MySQL.                  |
 | ⚡️ GitHub      | Proficient in version control with GitHub.                      |
-| ⚡️ cPanel      | Familiar with web hosting management via cPanel.                |
+| ⚡️ cPanel      | Experience with web hosting management via cPanel.              |
 | ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.            |
-| ⚡️ OAuth       | Experience in implementing OAuth for authentication.            |
+| ⚡️ OAuth       | Familiar in implementing OAuth for authentication.              |
 
 ## ⚙️ Programming & Markup Languages:
 
