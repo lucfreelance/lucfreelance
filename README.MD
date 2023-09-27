@@ -23,7 +23,7 @@
 
 ## ⚡ Stacks for Modern Web Design:
 
-| Stacks that I handle for                                                                                                               |
+| Stacks for modern web design stacks that I handle for |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **PERN Stack** | 
 | PostgreSQL, Express.js, React.js and Node.js. It's a full-stack web development stack that combines these technologies for building robust web applications.
