@@ -85,7 +85,6 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Benefits:** JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications.
 
-
 # 🎯 Featured Projects
 
 Here are a few of my standout projects:
