@@ -21,6 +21,8 @@
 | 🚀 Optimize website performance and speed for fast loading.    | Ensure websites load quickly and efficiently for a smooth user experience. |
 | ⚙️ Collaborate with multidisciplinary teams to achieve exceptional results. | Work with diverse teams to deliver outstanding web projects. |
 
+## ⚡ Stacks for Modern Web Design:
+
 | Stacks that I handle for                                                                                                               |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **PERN Stack** | 
