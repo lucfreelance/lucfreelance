@@ -23,8 +23,8 @@
 | ⚙️ Frameworks and Libraries                | Proficiency in using frameworks like React and Bootstrap for efficient development. |
 | 📊 SEO Writing and Strategies               | Implementing SEO writing techniques and strategies to enhance website visibility. |
 
-## ⚡ What I do:
-| Task                                                      | Description                                        |
+## ⚡ What I can do:
+| Task type                                                      | Description                                        |
 |-----------------------------------------------------------|----------------------------------------------------|
 | 💻 Develop responsive websites using HTML, CSS, and JavaScript.  | Create websites that adapt to different devices and screen sizes. |
 | 💻 Design intuitive and attractive user interfaces.            | Craft user interfaces that are easy to navigate and visually appealing. |
