@@ -89,7 +89,7 @@
 | ⚡️ CSS        | Expertise in CSS for styling and layout design.              |
 | ⚡️ MarkDown   | Advance capability for build MD documents and blogging       |
 | ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites |
-| ⚡️ PHP        | Capable to work with PHP data structure.                     |
+| ⚡️ PHP        | Capable to work with PHP data structure and databases.       |
 
 ## ⚙️ Stacks To Bundle On Nice Websites:
 
