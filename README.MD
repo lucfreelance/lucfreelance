@@ -24,6 +24,7 @@
 | 📊 SEO Writing and Strategies               | Implementing SEO writing techniques and strategies to enhance website visibility. |
 
 ## ⚡ What I can do:
+
 | Task type                                                      | Description                                        |
 |-----------------------------------------------------------|----------------------------------------------------|
 | 💻 Develop responsive websites using HTML, CSS, and JavaScript.  | Create websites that adapt to different devices and screen sizes. |
@@ -63,7 +64,7 @@
 
 ## ⚙️ Programming & Markup Languages:
 
-| Language --   | Description                                               |
+| Language      | Description                                               |
 |---------------|-----------------------------------------------------------|
 | ⚡️ HTML       | Mastery in HTML for structuring web content.              |
 | ⚡️ CSS        | Expertise in CSS for styling and layout design.           |
@@ -74,7 +75,7 @@
 
 ## ⚙️ Stacks To Bundle On:
 
-| Stack                                                                                                                                  |
+| Stacks                                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **PERN Stack** | 
 | PostgreSQL, Express.js, React.js and Node.js. It's a full-stack web development stack that combines these technologies for building robust web applications.
