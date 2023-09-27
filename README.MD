@@ -73,12 +73,12 @@
 | ⚡️ JavaScript | Skilled in JavaScript for client-side interactivity.               |
 | ⚡️ HTML       | Mastery in HTML for structuring web content.                       |
 | ⚡️ CSS        | Expertise in CSS for styling and layout design.                    |
-| ⚡️ MarkDown   | Advance capability for build MD documents and blogging             |
-| ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites       |
+| ⚡️ MarkDown   | Advance capability for build MD documents and blogging.             |
+| ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites.       |
 | ⚡️ PHP        | Capable to work with PHP data structure and databases.             |
 | ⚡️ Astro      | For building apps with Astro framework + Astro language.           |
-| ⚡️ Ruby       | For building apps with frameworks like Jekyll and Ruby on Rails    |
-| ⚡️ Go         | For building apps and integrations with Hugo framework by Google   |
+| ⚡️ Ruby       | For building apps with frameworks like Jekyll and Ruby on Rails .   |
+| ⚡️ Go         | For building apps and integrations with Hugo framework.   |
 
 ## ⚡ Frameworks and Libraries:
 
