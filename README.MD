@@ -27,7 +27,7 @@
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **PERN Stack** | 
 | PostgreSQL, Express.js, React.js and Node.js. It's a full-stack web development stack that combines these technologies for building robust web applications.
-| &nbsp;&nbsp;&nbsp;- 🅟 **PostgreSQL:** A powerful open-source relational database management system.
+| &nbsp;&nbsp;&nbsp; 🅟 **PostgreSQL:** A powerful open-source relational database management system.
 | &nbsp;&nbsp;&nbsp;- 🅔 **Express.js:** A Node.js framework for building server-side applications.
 | &nbsp;&nbsp;&nbsp;- 🅡 **React.js:** A popular JavaScript library for building user interfaces.
 | &nbsp;&nbsp;&nbsp;- 🅝 **Node.js:** A runtime environment for server-side JavaScript.
