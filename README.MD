@@ -90,7 +90,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The JAM (JavaScript, APIs, and Markup) stack is a modern web development architecture that decouples the frontend and backend.
 | &nbsp;&nbsp;&nbsp;- **JavaScript:** Used for frontend interactivity.
 | &nbsp;&nbsp;&nbsp;- **APIs:** Services or microservices that handle server-side logic and data retrieval.
-| &nbsp;&nbsp;&nbsp; **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
+| &nbsp;&nbsp;&nbsp;- **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 
