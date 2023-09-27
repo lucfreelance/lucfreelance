@@ -67,7 +67,7 @@
 
 ## ⚙️ Stacks To Bundle On:
 
-| ### Stack                                                                                                                                  |
+| Stack                                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **PERN Stack** | 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PERN stands for "PostgreSQL, Express.js, React.js and Node.js. " It's a full-stack web development stack that combines these technologies for building robust web applications.
@@ -87,14 +87,14 @@
 
 # 🎯 Featured Projects
 
-Here are a few of my standout projects:
+Here are a few of my standout projects that I'm working on or recently worked:
 - ⚡️ **Pragma**
 - ⚡️ **Komensales**
 - ⚡️ **Colaboradores**
 
 ## ⚡ Let's Connect
 
-If you're interested in working together or just want to say hello, feel free to reach out. I look forward to collaborating on incredible projects with you!
+If you're interested in working together or just want to say [hello](mailto:lucfreelance@gmail.com), feel free to reach out. I look forward to collaborating on incredible projects with you!
 
 ## 🎉 Thank You!
 
