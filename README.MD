@@ -37,20 +37,20 @@
 
 | Framework / Library | Description                                            |
 |----------------------|-------------------------------------------------------|
+| ⚡️ Next              | Familiarity with Next.js for modern web applications. |
 | ⚡️ Hugo              | Proficient in building static websites with Hugo.     |
-| ⚡️ Jekyll            | Experienced in creating websites using Jekyll.        |
 | ⚡️ Astro             | Knowledge of Astro for efficient web development.     |
+| ⚡️ ReactJS        | Proficient in using ReactJS for building web interfaces. |
 | ⚡️ Bootstrap         | Skillful in utilizing Bootstrap for web design.       |
 | ⚡️ Eleventy          | Proficiency in Eleventy for static site generation.   |
 | ⚡️ Gatsby            | Competent in building fast websites with Gatsby.      |
+| ⚡️ Jekyll            | Experienced in creating websites using Jekyll.        |
 | ⚡️ Vite              | Proficient in using Vite for frontend development.    |
-| ⚡️ NextJS            | Familiarity with Next.js for modern web applications. |
 
 ## ⚙️ Technologies:
 
 | Technology     | Description                                              |
 |----------------|----------------------------------------------------------|
-| ⚡️ ReactJS     | Proficient in using ReactJS for building web interfaces. |
 | ⚡️ Node.js     | Experienced in server-side scripting with Node.js.       |
 | ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.       |
 | ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress development.    |
