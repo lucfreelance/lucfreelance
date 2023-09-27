@@ -104,7 +104,7 @@
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
 | ⚡️ Notion  | For task management, documentation, and collaboration.             |
-| ⚡️ Figma   | Design network platform colliding design at graphic and web level. |
+| ⚡️ Figma   | Design network platform colliding design at graphic and web. |
 | ⚡️ Trello  | Card-based project management that simplifies organization.        |
 | ⚡️ Asana   | Project and task management tool for teams and businesses.         |
 | ⚡️ Slack   | Team communication and collaboration, channels, messaging.         |
