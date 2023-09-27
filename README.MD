@@ -82,14 +82,14 @@
 | &nbsp;&nbsp;&nbsp;- **Express.js:** A Node.js framework for building server-side applications.
 | &nbsp;&nbsp;&nbsp;- **React.js:** A popular JavaScript library for building user interfaces.
 | &nbsp;&nbsp;&nbsp;- **Node.js:** A runtime environment for server-side JavaScript.
-| PERN Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
+| _PERN Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 | **JAM Stack**  |
 | The JAM (JavaScript, APIs, and Markup) stack is a modern web development architecture that decouples the frontend and backend.
 | &nbsp;&nbsp;&nbsp;- **JavaScript:** Used for frontend interactivity.
 | &nbsp;&nbsp;&nbsp;- **APIs:** Services or microservices that handle server-side logic and data retrieval.
 | &nbsp;&nbsp;&nbsp;- **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
-| JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
+| _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 
 ## 🎯 Featured Projects
