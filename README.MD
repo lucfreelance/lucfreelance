@@ -101,10 +101,10 @@
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
-| ⚡️ Notion  | Used for task management, documentation, and collaboration.   |
-| ⚡️ Trello  | Card-based project management tool that simplifies organization.      |
-| ⚡️ Asana   | Project and task management platform for teams and businesses. |
-| ⚡️ Slack   | For team communication and collaboration, channels and messaging. |
+| ⚡️ Notion  | For task management, documentation, and collaboration.   |
+| ⚡️ Trello  | Card-based project management that simplifies organization.      |
+| ⚡️ Asana   | Project and task management tool for teams and businesses. |
+| ⚡️ Slack   | Team communication and collaboration, channels, messaging. |
 
 ## 🎯 Featured Projects
 
