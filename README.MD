@@ -67,8 +67,8 @@
 
 ## ⚙️ Stacks To Bundle On:
 
-| Stack        | Description                                                                                                             |
-|--------------|-------------------------------------------------------------------------------------------------------------------------|
+| Stack                                                                                                                                  |
+|----------------------------------------------------------------------------------------------------------------------------------------|
 | **PERN Stack** | 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- PERN stands for "PostgreSQL, Express.js, React.js and Node.js. " It's a full-stack web development stack that combines these technologies for building robust web applications.
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **PostgreSQL:** A powerful open-source relational database management system.
@@ -76,7 +76,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **React.js:** A popular JavaScript library for building user interfaces.
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Node.js:** A runtime environment for server-side JavaScript.
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Benefits:** PERN Stack offers [benefits description].
-|
+|>
 | **JAM Stack**  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The JAM (JavaScript, APIs, and Markup) stack is a modern web development architecture that decouples the frontend and backend.
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Components:**
