@@ -34,37 +34,45 @@
 
 ## ⚡ Frameworks and Libraries:
 
-| Framework / Library | Description                                           |
+| Framework / Library | Description                                            |
 |----------------------|-------------------------------------------------------|
-| ⚡️ Hugo              | Proficient in building static websites with Hugo.    |
-| ⚡️ Jekyll            | Experienced in creating websites using Jekyll.      |
-| ⚡️ Astro             | Knowledge of Astro for efficient web development.    |
-| ⚡️ Bootstrap         | Skillful in utilizing Bootstrap for web design.      |
-| ⚡️ Eleventy          | Proficiency in Eleventy for static site generation.  |
-| ⚡️ Gatsby            | Competent in building blazing-fast websites with Gatsby. |
+| ⚡️ Hugo              | Proficient in building static websites with Hugo.     |
+| ⚡️ Jekyll            | Experienced in creating websites using Jekyll.        |
+| ⚡️ Astro             | Knowledge of Astro for efficient web development.     |
+| ⚡️ Bootstrap         | Skillful in utilizing Bootstrap for web design.       |
+| ⚡️ Eleventy          | Proficiency in Eleventy for static site generation.   |
+| ⚡️ Gatsby            | Competent in building fast websites with Gatsby.      |
+| ⚡️ Vite              | Proficient in using Vite for frontend development.    |
 | ⚡️ NextJS            | Familiarity with Next.js for modern web applications. |
 
 ## ⚙️ Technologies:
 
-| Technology    | Description                                           |
-|---------------|-------------------------------------------------------|
-| ⚡️ Node        | Experienced in server-side scripting with Node.js.   |
-| ⚡️ Vite        | Proficient in using Vite for frontend development.    |
-| ⚡️ Jekyll      | Skilled in working with Jekyll for web projects.     |
-| ⚡️ Bootstrap   | Competent in integrating Bootstrap for web design.    |
-| ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress development. |
-| ⚡️ WordPress   | Expertise in WordPress for content management.        |
-| ⚡️ ReactJS     | Proficient in developing web apps with ReactJS.      |
-| ⚡️ Flask       | Capable of building web applications with Flask.      |
-| ⚡️ MySQL       | Experienced in database management with MySQL.       |
+| Technology     | Description                                              |
+|----------------|----------------------------------------------------------|
+| ⚡️ ReactJS     | Proficient in using ReactJS for building web interfaces. |
+| ⚡️ Node.js     | Experienced in server-side scripting with Node.js.       |
+| ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.       |
+| ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress development.    |
+| ⚡️ WordPress   | Expertise in WordPress for content management.           |
+| ⚡️ Flask       | Capable of building web applications with Flask.         |
+| ⚡️ MySQL       | Experienced in database management with MySQL.           |
+| ⚡️ GitHub      | Proficient in version control with GitHub.               |
+| ⚡️ cPanel      | Familiar with web hosting management via cPanel.         |
+| ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.     |
+| ⚡️ OAuth       | Experience in implementing OAuth for authentication.     |
 
-## ⚙️ Programming Languages:
 
-| Language   | Description                                           |
-|------------|-------------------------------------------------------|
-| ⚡️ ReactJS  | Proficient in using ReactJS for building web interfaces. |
-| ⚡️ HTML     | Mastery in HTML for structuring web content.         |
-| ⚡️ CSS      | Expertise in CSS for styling and layout design.      |
+
+## ⚙️ Programming & Markup Languages:
+
+| Language --   | Description                                               |
+|---------------|-----------------------------------------------------------|
+| ⚡️ HTML       | Mastery in HTML for structuring web content.              |
+| ⚡️ CSS        | Expertise in CSS for styling and layout design.           |
+| ⚡️ Markdown   | Advance capability for build MD documents and blogging    |
+| ⚡️ PHP        | Proficient in PHP for server-side scripting.              |
+| ⚡️ JavaScript | Skilled in JavaScript for client-side interactivity.      |
+| ⚡️ Liquid     | Familiar with Liquid for customizing Shopify themes.      |
 
 ## ⚙️ Stacks To Bundle On:
 
