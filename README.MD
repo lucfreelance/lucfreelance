@@ -65,6 +65,7 @@
 | ⚡️ cPanel      | Experience with web hosting management via cPanel.              |
 | ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.            |
 | ⚡️ OAuth       | Familiar in implementing OAuth for authentication.              |
+| ⚡️ Airtable | Database tool for creating and collaborating on custom databases.  |
 
 ## ⚙️ Programming & Markup Languages:
 
@@ -95,6 +96,15 @@
 | ⚡️ Vite              | Proficient in using Vite for frontend development.    |
 
 ## ⚙️ Stacks To Bundle On Nice Websites:
+
+## ⚙️ Administrative Tools
+
+| Tool      | Description                                                          |
+|-----------|----------------------------------------------------------------------|
+| ⚡️ Notion  | Used for task management, documentation, and collaboration.   |
+| ⚡️ Trello  | Card-based project management tool that simplifies organization.      |
+| ⚡️ Asana   | Project and task management platform for teams and businesses. |
+| ⚡️ Slack   | For team communication and collaboration, channels and messaging. |
 
 ## 🎯 Featured Projects
 
