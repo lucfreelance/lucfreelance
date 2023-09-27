@@ -11,18 +11,6 @@
 >![](https://i.imgur.com/Vp82E1D.jpg) [Art by Shayna Fernandez]
 >
 
-## ⚡ Skills:
-
-| Skill                                       | Description                                                             |
-|---------------------------------------------|-------------------------------------------------------------------------|
-| 💻 Proficient in HTML5, CSS3, and JavaScript | Mastery in web development using HTML5, CSS3, and JavaScript.           |
-| 🎨 User Interface (UI) Design               | Crafting intuitive and visually appealing user interfaces.              |
-| 📱 Responsive Design                        | Creating websites that adapt seamlessly to various screen sizes.         |
-| 🚀 Web Performance Optimization             | Optimizing websites for lightning-fast loading and exceptional user experience. |
-| 🎥 CSS Animations and Visual Effects        | Adding engaging animations and visual effects using CSS.                 |
-| ⚙️ Frameworks and Libraries                | Proficiency in using frameworks like React and Bootstrap for efficient development. |
-| 📊 SEO Writing and Strategies               | Implementing SEO writing techniques and strategies to enhance website visibility. |
-
 ## ⚡ What I can do:
 
 | Task type                                                      | Description                                        |
@@ -50,6 +38,18 @@
 | &nbsp;&nbsp;&nbsp;- **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
 | _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
+
+## ⚡ Skills:
+
+| Skill                                       | Description                                                             |
+|---------------------------------------------|-------------------------------------------------------------------------|
+| 💻 Proficient in HTML5, CSS3, and JavaScript | Mastery in web development using HTML5, CSS3, and JavaScript.           |
+| 🎨 User Interface (UI) Design               | Crafting intuitive and visually appealing user interfaces.              |
+| 📱 Responsive Design                        | Creating websites that adapt seamlessly to various screen sizes.         |
+| 🚀 Web Performance Optimization             | Optimizing websites for lightning-fast loading and exceptional user experience. |
+| 🎥 CSS Animations and Visual Effects        | Adding engaging animations and visual effects using CSS.                 |
+| ⚙️ Frameworks and Libraries                | Proficiency in using frameworks like React and Bootstrap for efficient development. |
+| 📊 SEO Writing and Strategies               | Implementing SEO writing techniques and strategies to enhance website visibility. |
 
 ## ⚙️ Technologies:
 
@@ -101,10 +101,11 @@
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
-| ⚡️ Notion  | For task management, documentation, and collaboration.   |
-| ⚡️ Trello  | Card-based project management that simplifies organization.      |
-| ⚡️ Asana   | Project and task management tool for teams and businesses. |
-| ⚡️ Slack   | Team communication and collaboration, channels, messaging. |
+| ⚡️ Notion  | For task management, documentation, and collaboration.             |
+| ⚡️ Figma   | Design network platform colliding design at graphic and web level. |
+| ⚡️ Trello  | Card-based project management that simplifies organization.        |
+| ⚡️ Asana   | Project and task management tool for teams and businesses.         |
+| ⚡️ Slack   | Team communication and collaboration, channels, messaging.         |
 
 ## 🎯 Featured Projects
 
