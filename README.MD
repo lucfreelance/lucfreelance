@@ -8,7 +8,7 @@
 > - 📷 Instagram: [@lucfreelance](https://www.instagram.com/lucfreelance/)
 > - 🐦 X: [@lucfreelance](https://twitter.com/lucfreelance)
 >
->![](https://i.imgur.com/Vp82E1D.jpg)[Art by Shayna Fernandez]
+>![](https://i.imgur.com/Vp82E1D.jpg) [Art by Shayna Fernandez]
 >
 
 ## ⚡ Skills:
