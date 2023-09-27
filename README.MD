@@ -66,6 +66,20 @@
 | ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.     |
 | ⚡️ OAuth       | Experience in implementing OAuth for authentication.     |
 
+## ⚙️ Programming & Markup Languages:
+
+| Language      | Description                                                        |
+|---------------|--------------------------------------------------------------------|
+| ⚡️ JavaScript | Skilled in JavaScript for client-side interactivity.               |
+| ⚡️ HTML       | Mastery in HTML for structuring web content.                       |
+| ⚡️ CSS        | Expertise in CSS for styling and layout design.                    |
+| ⚡️ MarkDown   | Advance capability for build MD documents and blogging             |
+| ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites       |
+| ⚡️ PHP        | Capable to work with PHP data structure and databases.             |
+| ⚡️ Astro      | For building apps with Astro framework + Astro language.           |
+| ⚡️ Ruby       | For building apps with frameworks like Jekyll and Ruby on Rails    |
+| ⚡️ Go         | For building apps and integrations with Hugo framework by Google   |
+
 ## ⚡ Frameworks and Libraries:
 
 | Framework / Library | Description                                            |
@@ -79,17 +93,6 @@
 | ⚡️ Gatsby            | Competent in building fast websites with Gatsby.      |
 | ⚡️ Jekyll            | Experienced in creating websites using Jekyll.        |
 | ⚡️ Vite              | Proficient in using Vite for frontend development.    |
-
-## ⚙️ Programming & Markup Languages:
-
-| Language      | Description                                                  |
-|---------------|--------------------------------------------------------------|
-| ⚡️ JavaScript | Skilled in JavaScript for client-side interactivity.         |
-| ⚡️ HTML       | Mastery in HTML for structuring web content.                 |
-| ⚡️ CSS        | Expertise in CSS for styling and layout design.              |
-| ⚡️ MarkDown   | Advance capability for build MD documents and blogging       |
-| ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites |
-| ⚡️ PHP        | Capable to work with PHP data structure and databases.       |
 
 ## ⚙️ Stacks To Bundle On Nice Websites:
 
