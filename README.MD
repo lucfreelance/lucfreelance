@@ -65,7 +65,7 @@
 | ⚡️ cPanel      | Experience with web hosting management via cPanel.              |
 | ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.            |
 | ⚡️ OAuth       | Familiar in implementing OAuth for authentication.              |
-| ⚡️ Airtable | Database tool for creating and collaborating on custom databases.  |
+| ⚡️ Airtable | Database tool for creating and collaborating custom databases.  |
 
 ## ⚙️ Programming & Markup Languages:
 
