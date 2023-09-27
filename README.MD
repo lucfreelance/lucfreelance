@@ -5,7 +5,7 @@
 >
 > - 🎯 Website: [lucfreelance.vercel.app](https://lucfreelance.vercel.app)
 > - 📫 Email: [lucfreelance@gmail.com](mailto:lucfreelance@gmail.com)
-> - 📷 Instagram: [Instagram](https://www.instagram.com/lucfreelance/)
+> - 📷 Instagram: [@lucfreelance](https://www.instagram.com/lucfreelance/)
 > - 🐦 X: [@lucfreelance](https://twitter.com/lucfreelance)
 >
 >![](https://i.imgur.com/Vp82E1D.jpg)
