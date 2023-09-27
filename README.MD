@@ -1,7 +1,7 @@
 ![](insert_image_url_here)
 # 👋 Hello all you! This is Lucfreelance's Showcase/Portfolio
 
-> I am a passionate freelance web developer and designer, dedicated to creating amazing digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and appealing solutions.
+> I am a passionate frontend web developer with backend bases. Dedicated to creating involving digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and suitable solutions.
 >
 > - 🎯 Website: [www.lucfreelance.vercel.app](https://lucfreelance.vercel.app)
 > - 📫 Email: [lucfreelance@gmail.com](mailto:lucfreelance@gmail.com)
@@ -73,7 +73,7 @@
 | ⚡️ Liquid     | Familiar with Liquid for customizing Shopify themes.      |
 | ⚡️ PHP        | Proficient in PHP for server-side scripting.              |
 
-## ⚙️ Stacks To Bundle On:
+## ⚙️ Stacks To Bundle On Nice Websites:
 
 | Stacks                                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------|
