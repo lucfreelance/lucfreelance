@@ -33,7 +33,7 @@
 | 🚀 Optimize website performance and speed for fast loading.    | Ensure websites load quickly and efficiently for a smooth user experience. |
 | ⚙️ Collaborate with multidisciplinary teams to achieve exceptional results. | Work with diverse teams to deliver outstanding web projects. |
 
-| Stacks                                                                                                                                  |
+| Stacks that I handle for                                                                                                               |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **PERN Stack** | 
 | PostgreSQL, Express.js, React.js and Node.js. It's a full-stack web development stack that combines these technologies for building robust web applications.
