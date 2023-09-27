@@ -58,7 +58,7 @@
 | ⚡️ Node.js     | Experienced in server-side scripting with Node.js.              |
 | ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.              |
 | ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress build and develop.     |
-| ⚡️ WordPress   | Expertise in WordPress for develop themes with Elementor by ex. |
+| ⚡️ WordPress   | Expertise in WordPress for develop themes with Elementor.       |
 | ⚡️ Flask       | Capable of building web applications with Flask.                |
 | ⚡️ MySQL       | Experienced in database management with MySQL.                  |
 | ⚡️ GitHub      | Proficient in version control with GitHub.                      |
