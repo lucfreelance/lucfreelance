@@ -57,15 +57,15 @@
 
 | Technology     | Description                                                     |
 |----------------|-----------------------------------------------------------------|
+| ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.            |
 | ⚡️ Node.js     | Experienced in server-side scripting with Node.js.              |
+| ⚡️ MySQL       | Experienced in database management with MySQL.                  |
+| ⚡️ GitHub      | Proficient in version control with GitHub.                      |
+| ⚡️ cPanel      | Experience with web hosting management via cPanel.              |
 | ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.              |
 | ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress build and develop.     |
 | ⚡️ WordPress   | Expertise in WordPress for develop themes with Elementor.       |
 | ⚡️ Flask       | Capable of building web applications with Flask.                |
-| ⚡️ MySQL       | Experienced in database management with MySQL.                  |
-| ⚡️ GitHub      | Proficient in version control with GitHub.                      |
-| ⚡️ cPanel      | Experience with web hosting management via cPanel.              |
-| ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.            |
 | ⚡️ OAuth       | Familiar in implementing OAuth for authentication.              |
 | ⚡️ Airtable | Database tool for creating and collaborating custom databases.  |
 
