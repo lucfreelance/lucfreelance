@@ -53,18 +53,18 @@
 
 ## ⚙️ Technologies:
 
-| Technology     | Description                                                    |
-|----------------|----------------------------------------------------------------|
-| ⚡️ Node.js     | Experienced in server-side scripting with Node.js.             |
-| ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.             |
-| ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress build and develop.    |
-| ⚡️ WordPress   | Expertise in WordPress for content management.                 |
-| ⚡️ Flask       | Capable of building web applications with Flask.               |
-| ⚡️ MySQL       | Experienced in database management with MySQL.                 |
-| ⚡️ GitHub      | Proficient in version control with GitHub.                     |
-| ⚡️ cPanel      | Familiar with web hosting management via cPanel.               |
-| ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.           |
-| ⚡️ OAuth       | Experience in implementing OAuth for authentication.           |
+| Technology     | Description                                                     |
+|----------------|-----------------------------------------------------------------|
+| ⚡️ Node.js     | Experienced in server-side scripting with Node.js.              |
+| ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.              |
+| ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress build and develop.     |
+| ⚡️ WordPress   | Expertise in WordPress for develop themes with Elementor by ex. |
+| ⚡️ Flask       | Capable of building web applications with Flask.                |
+| ⚡️ MySQL       | Experienced in database management with MySQL.                  |
+| ⚡️ GitHub      | Proficient in version control with GitHub.                      |
+| ⚡️ cPanel      | Familiar with web hosting management via cPanel.                |
+| ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.            |
+| ⚡️ OAuth       | Experience in implementing OAuth for authentication.            |
 
 ## ⚙️ Programming & Markup Languages:
 
