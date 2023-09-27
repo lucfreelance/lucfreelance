@@ -33,48 +33,6 @@
 | 🚀 Optimize website performance and speed for fast loading.    | Ensure websites load quickly and efficiently for a smooth user experience. |
 | ⚙️ Collaborate with multidisciplinary teams to achieve exceptional results. | Work with diverse teams to deliver outstanding web projects. |
 
-## ⚡ Frameworks and Libraries:
-
-| Framework / Library | Description                                            |
-|----------------------|-------------------------------------------------------|
-| ⚡️ Next              | Familiarity with Next.js for modern web applications. |
-| ⚡️ Hugo              | Proficient in building static websites with Hugo.     |
-| ⚡️ Astro             | Knowledge of Astro for efficient web development.     |
-| ⚡️ ReactJS        | Proficient in using ReactJS for building web interfaces. |
-| ⚡️ Bootstrap         | Skillful in utilizing Bootstrap for web design.       |
-| ⚡️ Eleventy          | Proficiency in Eleventy for static site generation.   |
-| ⚡️ Gatsby            | Competent in building fast websites with Gatsby.      |
-| ⚡️ Jekyll            | Experienced in creating websites using Jekyll.        |
-| ⚡️ Vite              | Proficient in using Vite for frontend development.    |
-
-## ⚙️ Technologies:
-
-| Technology     | Description                                              |
-|----------------|----------------------------------------------------------|
-| ⚡️ Node.js     | Experienced in server-side scripting with Node.js.       |
-| ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.       |
-| ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress development.    |
-| ⚡️ WordPress   | Expertise in WordPress for content management.           |
-| ⚡️ Flask       | Capable of building web applications with Flask.         |
-| ⚡️ MySQL       | Experienced in database management with MySQL.           |
-| ⚡️ GitHub      | Proficient in version control with GitHub.               |
-| ⚡️ cPanel      | Familiar with web hosting management via cPanel.         |
-| ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.     |
-| ⚡️ OAuth       | Experience in implementing OAuth for authentication.     |
-
-## ⚙️ Programming & Markup Languages:
-
-| Language      | Description                                               |
-|---------------|-----------------------------------------------------------|
-| ⚡️ JavaScript | Skilled in JavaScript for client-side interactivity.      |
-| ⚡️ HTML       | Mastery in HTML for structuring web content.              |
-| ⚡️ CSS        | Expertise in CSS for styling and layout design.           |
-| ⚡️ MarkDown   | Advance capability for build MD documents and blogging    |
-| ⚡️ Liquid     | Familiar with Liquid for customizing Shopify themes.      |
-| ⚡️ PHP        | Proficient in PHP for server-side scripting.              |
-
-## ⚙️ Stacks To Bundle On Nice Websites:
-
 | Stacks                                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **PERN Stack** | 
@@ -92,6 +50,48 @@
 | &nbsp;&nbsp;&nbsp;- **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
 | _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
+
+## ⚙️ Technologies:
+
+| Technology     | Description                                              |
+|----------------|----------------------------------------------------------|
+| ⚡️ Node.js     | Experienced in server-side scripting with Node.js.       |
+| ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.       |
+| ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress development.    |
+| ⚡️ WordPress   | Expertise in WordPress for content management.           |
+| ⚡️ Flask       | Capable of building web applications with Flask.         |
+| ⚡️ MySQL       | Experienced in database management with MySQL.           |
+| ⚡️ GitHub      | Proficient in version control with GitHub.               |
+| ⚡️ cPanel      | Familiar with web hosting management via cPanel.         |
+| ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.     |
+| ⚡️ OAuth       | Experience in implementing OAuth for authentication.     |
+
+## ⚡ Frameworks and Libraries:
+
+| Framework / Library | Description                                            |
+|----------------------|-------------------------------------------------------|
+| ⚡️ Next              | Familiarity with Next.js for modern web applications. |
+| ⚡️ Hugo              | Proficient in building static websites with Hugo.     |
+| ⚡️ Astro             | Knowledge of Astro for efficient web development.     |
+| ⚡️ ReactJS        | Proficient in using ReactJS for building web interfaces. |
+| ⚡️ Bootstrap         | Skillful in utilizing Bootstrap for web design.       |
+| ⚡️ Eleventy          | Proficiency in Eleventy for static site generation.   |
+| ⚡️ Gatsby            | Competent in building fast websites with Gatsby.      |
+| ⚡️ Jekyll            | Experienced in creating websites using Jekyll.        |
+| ⚡️ Vite              | Proficient in using Vite for frontend development.    |
+
+## ⚙️ Programming & Markup Languages:
+
+| Language      | Description                                               |
+|---------------|-----------------------------------------------------------|
+| ⚡️ JavaScript | Skilled in JavaScript for client-side interactivity.      |
+| ⚡️ HTML       | Mastery in HTML for structuring web content.              |
+| ⚡️ CSS        | Expertise in CSS for styling and layout design.           |
+| ⚡️ MarkDown   | Advance capability for build MD documents and blogging    |
+| ⚡️ Liquid     | Familiar with Liquid for customizing Shopify themes.      |
+| ⚡️ PHP        | Proficient in PHP for server-side scripting.              |
+
+## ⚙️ Stacks To Bundle On Nice Websites:
 
 ## 🎯 Featured Projects
 
