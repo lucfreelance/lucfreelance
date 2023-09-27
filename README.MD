@@ -88,8 +88,8 @@
 | ⚡️ HTML       | Mastery in HTML for structuring web content.              |
 | ⚡️ CSS        | Expertise in CSS for styling and layout design.           |
 | ⚡️ MarkDown   | Advance capability for build MD documents and blogging    |
-| ⚡️ Liquid     | Familiar with Liquid for customizing Shopify themes.      |
-| ⚡️ PHP        | Proficient in PHP for server-side scripting.              |
+| ⚡️ Liquid     | Familiar with Liquid for customizing modern frames.      |
+| ⚡️ PHP        | Capable to work with PHP data structure.                  |
 
 ## ⚙️ Stacks To Bundle On Nice Websites:
 
