@@ -5,7 +5,7 @@
 >
 > ![](https://i.imgur.com/Vp82E1D.jpg)
 > > [Art by Shayna Fernandez]
-> > > <a> 🎯 [Showcase](https://lucfreelance.vercel.app) <i class="fas fa-desktop"></i>
+> > > <a> 💼 [Showcase](https://lucfreelance.vercel.app) <i class="fas fa-desktop"></i>
 
 ## ⚙️ Stacks for Modern Web Design:
 
