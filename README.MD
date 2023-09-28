@@ -6,7 +6,7 @@
 >
 >
 > ![](https://i.imgur.com/Vp82E1D.jpg)
-> > > [Art by Shayna Fernandez]
+> [Art by Shayna Fernandez]
 > - 🎯 Website: [www.lucfreelance.vercel.app](https://lucfreelance.vercel.app)
 > - 📫 Email: [lucfreelance@gmail.com](mailto:lucfreelance@gmail.com)
 > - 📷 Instagram: [@lucfreelance](https://www.instagram.com/lucfreelance/)
@@ -60,7 +60,7 @@
 
 ## ⚙️ Stacks To Bundle On Nice Websites:
 
-## ⚙️ Administrative Tools
+### ⚙️ Administrative Tools
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
@@ -70,7 +70,7 @@
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
 | ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.    
 
-## ⚙️ Profiles:
+### ⚙️ Profiles:
 
 | Skill                                 | Description                                                                               |
 |---------------------------------------|-------------------------------------------------------------------------------------------|
