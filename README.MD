@@ -1,7 +1,8 @@
 # 👋 Hello! 
 ## Welcome to the Lucfreelance's Showcase/Portfolio's repository by Soe Lucas
 
-> I am a passionate frontend web developer with backend bases. Dedicated to creating involving digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and suitable solutions.
+> I am a passionate frontend web developer with backend bases. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby, Astro with Astro, even Bootstrap with CSS.
+
 >
 > - 🎯 Website: [www.lucfreelance.vercel.app](https://lucfreelance.vercel.app)
 > - 📫 Email: [lucfreelance@gmail.com](mailto:lucfreelance@gmail.com)
@@ -50,7 +51,7 @@
 | ![](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | Skilled in JavaScript for client-side interactivity.               |
 | ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.                       |
 | ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Expertise in CSS for styling and layout design.                    |
-| ![](https://img.icons8.com/color/48/000000/markdown.png) MarkDown   | Advance capability for build MD documents and blogging.            |
+| ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build MD documents and blogging.            |
 | ![](https://img.icons8.com/color/48/000000/liquid.png) Liquid     | Familiar with Liquid for customizing modern eshops and sites.      |
 | ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases.             |
 | ![](https://img.icons8.com/color/48/000000/astro.png) Astro     | For building apps with Astro framework + Astro language.           |
