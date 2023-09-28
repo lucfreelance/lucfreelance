@@ -48,10 +48,10 @@
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby.         |
 | ![](https://img.icons8.com/color/48/000000/express.png) Express      | Powerful tool to RESTful APIs with Node.js.              |
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development.       |
-| ![](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS | Proficient in using Tailwind CSS for rapid web development and design     |
-| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo            | Proficient in building static websites with Hugo.        |
-| ![](https://img.icons8.com/color/48/000000/astro.png) Astro          | Knowledge of Astro for efficient web development.        |
-| ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll        | Experienced in creating websites using Jekyll.           |
+| ![](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS   | Proficient in using Tailwind CSS for rapid web development and design.  |
+| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo                    | Skilled in building static websites with Hugo.                             |
+| ![](https://img.icons8.com/color/48/000000/astro.png) Astro                  | Familiar with Astro for efficient web development.                         |
+| ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll                | Experienced in creating websites using Jekyll.                            |
 
 
 ## ⚙️ Stacks To Bundle On Nice Websites:
