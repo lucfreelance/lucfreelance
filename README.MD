@@ -93,14 +93,14 @@ Now a mention, here are a few of my standout collabs that I'm working on, or rec
 
 ### 👌 Let's Connect
 
-If you're interested in working(https://wa.me/3157742332?text=Hello%20%20I%20came%20from%20your%20GitHub%20repository,)
+If you're interested in working(https://wa.me/3157742332?text=Hello,%20I%20came%20from%20your%20GitHub%20repository,)
 together or just want to say [hello](mailto:lucfreelance@gmail.com), feel free to reach out. I look forward to collaborating on incredible projects with you!
 
 ### 🙏 Thank You!
 
 Thanks for getting this far, and... A special thanks to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!
 ```
-
+🌎
 ▄▄███▀░░░░▀▄█▄▄▄▄█▄█▄▄
 ░▀████░░░▐▄▀█▐███████▐
 ░░▀█▀░░░░▄██▄███████░░
@@ -108,4 +108,3 @@ Thanks for getting this far, and... A special thanks to everyone who has support
 ░░░▀██▌░░░░█▌░░░░░█▀█░
 ░░░░▀█░░░░░░░░░░░░▀▀▀░
 ```
-> 🌎
