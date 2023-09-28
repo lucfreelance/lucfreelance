@@ -48,15 +48,16 @@
 
 ## ⚙️ Frameworks and Libraries:
 
-| Framework / Library | Description                                            |
-|----------------------|-------------------------------------------------------|Familiarity with Next.js for modern web applications. |
-| ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS        | Proficient in using ReactJS for building web interfaces. |
-| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap         | Skillful in utilizing Bootstrap for web design.       |
-| ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby           | Competent in building fast websites with Gatsby.      |
-| ![](https://img.icons8.com/color/48/000000/vite.png) Vite              | Proficient in using Vite for frontend development.    |
-| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo           | Proficient in building static websites with Hugo.     |
-| ![](https://img.icons8.com/color/48/000000/astro.png) Astro         | Knowledge of Astro for efficient web development.     |
-| ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll           | Experienced in creating websites using Jekyll.        |
+| Framework / Library                        | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in using ReactJS for building web interfaces. |
+| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap   | Skillful in utilizing Bootstrap for web design.       |
+| ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby       | Competent in building fast websites with Gatsby.      |
+| ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development.    |
+| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo            | Proficient in building static websites with Hugo.     |
+| ![](https://img.icons8.com/color/48/000000/astro.png) Astro          | Knowledge of Astro for efficient web development.     |
+| ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll        | Experienced in creating websites using Jekyll.        |
+
 
 ## ⚙️ Stacks To Bundle On Nice Websites:
 
