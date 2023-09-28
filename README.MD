@@ -1,5 +1,5 @@
 
-#👋 Hello! 
+# 👋 Hello! 
 
 ## Welcome to the Lucfreelance's Showcase/Portfolio's repository by Soe Lucas
 
