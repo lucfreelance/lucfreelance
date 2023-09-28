@@ -103,7 +103,7 @@ Here are a few of my standout projects that I'm working on or recently worked:
 
 ### 👌 Let's Connect
 
-If you're interested in [working](https://wa.me/3157742332?text=Hello%2C%20I%20came%20from%20your%20GitHub%20repository,)
+If you're interested in working(https://wa.me/3157742332?text=Hello%2C%20I%20came%20from%20your%20GitHub%20repository,)
 together or just want to say [hello](mailto:lucfreelance@gmail.com), feel free to reach out. I look forward to collaborating on incredible projects with you!
 
 ### 🙏 Thank You!
