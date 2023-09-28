@@ -80,8 +80,8 @@
 | ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | For task management, documentation, and collaboration.             |
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform colliding design at graphic and web. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
-| ![](https://img.icons8.com/color/48/000000/git.png)  | Control Version woth git.         |
-| ![](https://img.icons8.com/color/48/000000/github.png)  | Repositry hub for deply, collab and administrate code.         |
+| ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
+| ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.         |
 
 ## ⚙️ Technologies:
 
