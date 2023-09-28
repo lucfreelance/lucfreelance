@@ -78,7 +78,7 @@
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/javascript.png) | Skilled in JavaScript for client-side interactivity.               |
-| ⚡️ HTML       | Mastery in HTML for structuring web content.                       |
+| - ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.                       |
 | ![](https://img.icons8.com/color/48/000000/css3.png)        | Expertise in CSS for styling and layout design.                    |
 | ⚡️ MarkDown   | Advance capability for build MD documents and blogging.            |
 | ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites.      |
@@ -94,7 +94,7 @@
 | ⚡️ Next              | Familiarity with Next.js for modern web applications. |
 | ⚡️ Hugo              | Proficient in building static websites with Hugo.     |
 | ![](https://img.icons8.com/color/48/000000/astro.png)            | Knowledge of Astro for efficient web development.     |
-| ⚡️ ReactJS        | Proficient in using ReactJS for building web interfaces. |
+| ![](https://img.icons8.com/color/48/000000/javascript.png)        | Proficient in using ReactJS for building web interfaces. |
 | ![](https://img.icons8.com/color/48/000000/bootstrap.png)         | Skillful in utilizing Bootstrap for web design.       |
 | ![](https://img.icons8.com/color/48/000000/eleventy.png)         | Proficiency in Eleventy for static site generation.   |
 | ⚡️ Gatsby            | Competent in building fast websites with Gatsby.      |
