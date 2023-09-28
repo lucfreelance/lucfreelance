@@ -9,7 +9,8 @@
 > - 📷 Instagram: [@lucfreelance](https://www.instagram.com/lucfreelance/)
 > - 🐦 X: [@lucfreelance](https://twitter.com/lucfreelance)
 >
-> > ![](https://i.imgur.com/Vp82E1D.jpg) [Art by Shayna Fernandez]
+> > > ![](https://i.imgur.com/Vp82E1D.jpg)
+> > [Art by Shayna Fernandez]
 
 ## ⚙️ Stacks for Modern Web Design:
 
@@ -48,15 +49,14 @@
 ## ⚙️ Frameworks and Libraries:
 
 | Framework / Library | Description                                            |
-|----------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/next-js.png) Next             | Familiarity with Next.js for modern web applications. |
-| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo           | Proficient in building static websites with Hugo.     |
-| ![](https://img.icons8.com/color/48/000000/astro.png) Astro         | Knowledge of Astro for efficient web development.     |
+|----------------------|-------------------------------------------------------|Familiarity with Next.js for modern web applications. |
 | ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS        | Proficient in using ReactJS for building web interfaces. |
 | ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap         | Skillful in utilizing Bootstrap for web design.       |
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby           | Competent in building fast websites with Gatsby.      |
-| ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll           | Experienced in creating websites using Jekyll.        |
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite              | Proficient in using Vite for frontend development.    |
+| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo           | Proficient in building static websites with Hugo.     |
+| ![](https://img.icons8.com/color/48/000000/astro.png) Astro         | Knowledge of Astro for efficient web development.     |
+| ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll           | Experienced in creating websites using Jekyll.        |
 
 ## ⚙️ Stacks To Bundle On Nice Websites:
 
@@ -87,7 +87,7 @@
 ## 🎯 Featured Projects
 
 Now a mention, here are a few of my standout collabs that I'm working on, or recently worked:
-- ⭐⭐⭐⭐⭐  **Pragma**
+- ⭐⭐⭐⭐⭐&nbsp;&nbsp;**Pragma**
 - ⭐⭐⭐⭐ **Komensales**
 - ⭐⭐⭐ **Colaboradores**
 
