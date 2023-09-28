@@ -77,24 +77,24 @@
 
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/javascript.png) | Skilled in JavaScript for client-side interactivity.               |
+| ![](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | Skilled in JavaScript for client-side interactivity.               |
 | - ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.                       |
-| ![](https://img.icons8.com/color/48/000000/css3.png)        | Expertise in CSS for styling and layout design.                    |
-| ⚡️ MarkDown   | Advance capability for build MD documents and blogging.            |
-| ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites.      |
-| ![](https://img.icons8.com/color/48/000000/php.png)        | Capable to work with PHP data structure and databases.             |
-| ![](https://img.icons8.com/color/48/000000/astro.png)     | For building apps with Astro framework + Astro language.           |
-| ![](https://img.icons8.com/color/48/000000/ruby.png)      | For building apps with frameworks like Jekyll and Ruby on Rails .  |
-| ![](https://img.icons8.com/color/48/000000/golang.png)        | For building apps and integrations with Hugo framework.            |
+| ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Expertise in CSS for styling and layout design.                    |
+| ![](https://img.icons8.com/color/48/000000/markdown.png) MarkDown   | Advance capability for build MD documents and blogging.            |
+| ![](https://img.icons8.com/color/48/000000/liquid.png) Liquid     | Familiar with Liquid for customizing modern eshops and sites.      |
+| ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases.             |
+| ![](https://img.icons8.com/color/48/000000/astro.png) Astro     | For building apps with Astro framework + Astro language.           |
+| ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby     | For building apps with frameworks like Jekyll and Ruby on Rails .  |
+| ![](https://img.icons8.com/color/48/000000/golang.png) Go       | For building apps and integrations with Hugo framework.            |
 
 ## ⚡ Frameworks and Libraries:
 
 | Framework / Library | Description                                            |
 |----------------------|-------------------------------------------------------|
-| ⚡️ Next              | Familiarity with Next.js for modern web applications. |
-| ⚡️ Hugo              | Proficient in building static websites with Hugo.     |
+| ![](https://img.icons8.com/color/48/000000/next-js.png) Next              | Familiarity with Next.js for modern web applications. |
+| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo             | Proficient in building static websites with Hugo.     |
 | ![](https://img.icons8.com/color/48/000000/astro.png)            | Knowledge of Astro for efficient web development.     |
-| ![](https://img.icons8.com/color/48/000000/javascript.png)        | Proficient in using ReactJS for building web interfaces. |
+| ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS        | Proficient in using ReactJS for building web interfaces. |
 | ![](https://img.icons8.com/color/48/000000/bootstrap.png)         | Skillful in utilizing Bootstrap for web design.       |
 | ![](https://img.icons8.com/color/48/000000/eleventy.png)         | Proficiency in Eleventy for static site generation.   |
 | ⚡️ Gatsby            | Competent in building fast websites with Gatsby.      |
