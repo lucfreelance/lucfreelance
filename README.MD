@@ -1,5 +1,4 @@
-![](insert_image_url_here)
-# 👋 Hello all you! This is Lucfreelance's Showcase/Portfolio
+
 ```
 
 █▓▀██▀┼██┼██┼████┼█▀█┼▀▓█
@@ -7,6 +6,8 @@
 █▓┼██┼┼██▄██┼████┼┼┼┼┼┼▓█
 █▓▄██▄▄▄▀▀▀─┼┼┼┼┼┼┼┼┼┼┼▓█
 ```
+![](insert_image_url_here)
+# 👋 Hello all you! This is Lucfreelance's Showcase/Portfolio
 > I am a passionate frontend web developer with backend bases. Dedicated to creating involving digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and suitable solutions.
 >
 > - 🎯 Website: [www.lucfreelance.vercel.app](https://lucfreelance.vercel.app)
