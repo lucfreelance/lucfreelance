@@ -5,17 +5,17 @@
 >
 > ![](https://i.imgur.com/Vp82E1D.jpg)
 > > [Art by Shayna Fernandez]
-> > > 🎯 Website: www.lucfreelance.vercel.app  <i class="fas fa-desktop"></i>
-Código HTML: <a href="https://lucfreelance.vercel.app"><i class="fas fa-desktop"></i> Website</a>
+> > > 🎯 </i>Website</a> www.lucfreelance.vercel.app  <i class="fas fa-desktop"></i>
+Código HTML: <a href="https://lucfreelance.vercel.app"><i class="fas fa-desktop">
 > > > 
-> > > 📫 Email: lucfreelance@gmail.com <i class="far fa-envelope"></i>
-Código HTML: <a href="mailto:lucfreelance@gmail.com"><i class="far fa-envelope"></i> Email</a>
+> > > 📫 </i>Email</a>: lucfreelance@gmail.com <i class="far fa-envelope"></i>
+Código HTML: <a href="mailto:lucfreelance@gmail.com"><i class="far fa-envelope">
 > > > 
-> > >  📷 Instagram: @lucfreelance <i class="fab fa-instagram"></i>
-Código HTML: <a href="https://www.instagram.com/lucfreelance/"><i class="fab fa-instagram"></i> Instagram</a>
+> > >  📷 </i>Instagram</a> @lucfreelance <i class="fab fa-instagram"></i>
+Código HTML: <a href="https://www.instagram.com/lucfreelance/"><i class="fab fa-instagram">
 > > > 
-> > > 🐦 X: @lucfreelance <i class="fab fa-twitter"></i>
-Código HTML: <a href="https://twitter.com/lucfreelance"><i class="fab fa-twitter"></i> X</a
+> > > 🐦 </i> X</a> @lucfreelance <i class="fab fa-twitter"></i>
+Código HTML: <a href="https://twitter.com/lucfreelance"><i class="fab fa-twitter">
 
 ## ⚙️ Stacks for Modern Web Design:
 
