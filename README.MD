@@ -71,22 +71,24 @@
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
 | ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.    
 
-## ⚙️ Skills:
+## ⚙️ Profiles:
 
-| Skill                                       | Description                                                             |
-|---------------------------------------------|-------------------------------------------------------------------------|
-| 💻 Proficient in HTML5, CSS3, and JavaScript | Mastery in web development using HTML5, CSS3, and JavaScript.           |
-| 🎨 User Interface (UI) Design               | Crafting intuitive and visually appealing user interfaces.              |
-| 📱 Responsive Design                        | Creating websites that adapt seamlessly to various screen sizes.         |
-| 🚀 Web Performance Optimization             | Optimizing websites for lightning-fast loading and exceptional user experience. |
-| 🎥 CSS Animations and Visual Effects        | Adding engaging animations and visual effects using CSS.                 |
-| ⚙️ Frameworks and Libraries                | Proficiency in using frameworks like React and Bootstrap for efficient development. |
-| 📊 SEO Writing and Strategies               | Implementing SEO writing techniques and strategies to enhance website visibility. |
+| Skill                                 | Description                                                                               |
+|---------------------------------------|-------------------------------------------------------------------------------------------|
+| 💻 Web Design                         | Using HTML5, CSS3, and JavaScript, or another additional language set.                    |
+| 🎨 User Interface (UI) Design         | Crafting intuitive and visually appealing user interfaces.                                |
+| 🎨 Prompt Engineer                    | Since a was built components, blogs and websites with AI. Plus copy, imaginery and more.  |
+| 📱 Responsive Design                   | Creating websites that adapt seamlessly to various screen sizes.                          |
+| 🚀 Web Performance Optimization       | Optimizing websites for lightning-fast loading and exceptional user experience.           |
+| 🎥 CSS Animations and Effects         | Adding engaging animations and visual effects using CSS and libraries.                    |
+| 📊 SEO Writing and Strategies         | Implementing SEO writing techniques and strategies to enhance website visibility.         |
+| 🎨 User Experience (UX) Design        | For a truly coverage of a digital experience from client side.                            |
+| 📊 Testing                            | Requested measures to have trusted diagnostic to how code is working.                     |
 
 ## 🎯 Featured Projects
 
-Here are a few of my standout projects that I'm working on or recently worked:
-- ⭐⭐⭐⭐⭐ **Pragma**
+Now a mention, here are a few of my standout collabs that I'm working on, or recently worked:
+- ⭐⭐⭐⭐⭐  **Pragma**
 - ⭐⭐⭐⭐ **Komensales**
 - ⭐⭐⭐ **Colaboradores**
 
