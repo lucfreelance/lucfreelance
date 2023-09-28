@@ -97,7 +97,7 @@
 | ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS        | Proficient in using ReactJS for building web interfaces. |
 | ![](https://img.icons8.com/color/48/000000/bootstrap.png)         | Skillful in utilizing Bootstrap for web design.       |
 | ![](https://img.icons8.com/color/48/000000/eleventy.png)         | Proficiency in Eleventy for static site generation.   |
-| ⚡️ Gatsby            | Competent in building fast websites with Gatsby.      |
+| ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby           | Competent in building fast websites with Gatsby.      |
 | ![](https://img.icons8.com/color/48/000000/jekyll.png)            | Experienced in creating websites using Jekyll.        |
 | ![](https://img.icons8.com/color/48/000000/vite.png)              | Proficient in using Vite for frontend development.    |
 
@@ -107,11 +107,11 @@
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
-| ⚡️ Notion  | For task management, documentation, and collaboration.             |
-| ⚡️ Figma   | Design network platform colliding design at graphic and web. |
-| ⚡️ Trello  | Card-based project management that simplifies organization.        |
-| ⚡️ Asana   | Project and task management tool for teams and businesses.         |
-| ⚡️ Slack   | Team communication and collaboration, channels, messaging.         |
+| ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | For task management, documentation, and collaboration.             |
+| ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform colliding design at graphic and web. |
+| ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
+| ![](https://img.icons8.com/color/48/000000/git.png)  | Control Version woth git.         |
+| ![](https://img.icons8.com/color/48/000000/github.png)  | Repositry hub for deply, collab and administrate code.         |
 
 ## 🎯 Featured Projects
 
