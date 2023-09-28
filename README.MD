@@ -5,16 +5,7 @@
 >
 > ![](https://i.imgur.com/Vp82E1D.jpg)
 > > [Art by Shayna Fernandez]
-> > > <a> 🎯 <i>Website</i>www.lucfreelance.vercel.app  <i class="fas fa-desktop"></i>
- <a href="https://lucfreelance.vercel.app">
-> > > 📫 </i>Email</a>: lucfreelance@gmail.com <i class="far fa-envelope"></i>
-Código HTML: <a href="mailto:lucfreelance@gmail.com"><i class="far fa-envelope">
-> > > 
-> > >  📷 </i>Instagram</a> @lucfreelance <i class="fab fa-instagram"></i>
-Código HTML: <a href="https://www.instagram.com/lucfreelance/"><i class="fab fa-instagram">
-> > > 
-> > > 🐦 </i> X</a> @lucfreelance <i class="fab fa-twitter"></i>
-Código HTML: <a href="https://twitter.com/lucfreelance"><i class="fab fa-twitter">
+> > > <a> 🎯 <i>Showcase</i> <a href="https://lucfreelance.vercel.app">
 
 ## ⚙️ Stacks for Modern Web Design:
 
