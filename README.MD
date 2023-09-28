@@ -47,7 +47,7 @@
 
 | Technology                 | Description                                       |
 |----------------------------|---------------------------------------------------|
-| ![Figma](https://link_al_icono_de_figma.png) Web-based design and prototyping tool.         | Web-based design and prototyping tool.           |
+| ![Figma](https://link_al_icono_de_figma.png) Figma       | Web-based design and prototyping tool.           |
 | <i class="fab fa-git"></i> Git             | Version control system.                           |
 | <i class="fab fa-html5"></i> HTML5         | HyperText Markup Language for web content.        |
 | <i class="fab fa-illustrator"></i> Illustrator | Vector graphics editor.                       |
