@@ -5,9 +5,8 @@
 >
 > ![](https://i.imgur.com/Vp82E1D.jpg)
 > > [Art by Shayna Fernandez]
-> > > 🎯 </i>Website</a> www.lucfreelance.vercel.app  <i class="fas fa-desktop"></i>
-Código HTML: <a href="https://lucfreelance.vercel.app"><i class="fas fa-desktop">
-> > > 
+> > > <a> 🎯 <i>Website</i>www.lucfreelance.vercel.app  <i class="fas fa-desktop"></i>
+ <a href="https://lucfreelance.vercel.app">
 > > > 📫 </i>Email</a>: lucfreelance@gmail.com <i class="far fa-envelope"></i>
 Código HTML: <a href="mailto:lucfreelance@gmail.com"><i class="far fa-envelope">
 > > > 
