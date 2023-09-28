@@ -43,18 +43,6 @@
 | ⚙️ Frameworks and Libraries                | Proficiency in using frameworks like React and Bootstrap for efficient development. |
 | 📊 SEO Writing and Strategies               | Implementing SEO writing techniques and strategies to enhance website visibility. |
 
-## ⚙️ Technologies:
-
-| Technology                 | Description                                       |
-|----------------------------|---------------------------------------------------|
-| <i class="fab fa-figma"></i> Figma       | Web-based design and prototyping tool.           |
-| <i class="fab fa-git"></i> Git             | Version control system.                           |
-| <i class="fab fa-html5"></i> HTML5         | HyperText Markup Language for web content.        |
-| <i class="fab fa-illustrator"></i> Illustrator | Vector graphics editor.                       |
-| <i class="fab fa-java"></i> Java           | Object-oriented programming language.             |
-| <i class="fab fa-js"></i> JavaScript       | Programming language for web development.        |
-| <i class="fab fa-jest"></i> Jest           | JavaScript testing framework.                     |
-
 ## ⚙️ Programming & Markup Languages:
 
 | Language      | Description                                                        |
@@ -73,15 +61,14 @@
 
 | Framework / Library | Description                                            |
 |----------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/next-js.png) Next              | Familiarity with Next.js for modern web applications. |
-| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo             | Proficient in building static websites with Hugo.     |
-| ![](https://img.icons8.com/color/48/000000/astro.png)            | Knowledge of Astro for efficient web development.     |
+| ![](https://img.icons8.com/color/48/000000/next-js.png) Next             | Familiarity with Next.js for modern web applications. |
+| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo           | Proficient in building static websites with Hugo.     |
+| ![](https://img.icons8.com/color/48/000000/astro.png) Astro         | Knowledge of Astro for efficient web development.     |
 | ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS        | Proficient in using ReactJS for building web interfaces. |
-| ![](https://img.icons8.com/color/48/000000/bootstrap.png)         | Skillful in utilizing Bootstrap for web design.       |
-| ![](https://img.icons8.com/color/48/000000/eleventy.png)         | Proficiency in Eleventy for static site generation.   |
+| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap         | Skillful in utilizing Bootstrap for web design.       |
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby           | Competent in building fast websites with Gatsby.      |
-| ![](https://img.icons8.com/color/48/000000/jekyll.png)            | Experienced in creating websites using Jekyll.        |
-| ![](https://img.icons8.com/color/48/000000/vite.png)              | Proficient in using Vite for frontend development.    |
+| ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll           | Experienced in creating websites using Jekyll.        |
+| ![](https://img.icons8.com/color/48/000000/vite.png) Vite              | Proficient in using Vite for frontend development.    |
 
 ## ⚙️ Stacks To Bundle On Nice Websites:
 
@@ -94,6 +81,18 @@
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
 | ![](https://img.icons8.com/color/48/000000/git.png)  | Control Version woth git.         |
 | ![](https://img.icons8.com/color/48/000000/github.png)  | Repositry hub for deply, collab and administrate code.         |
+
+## ⚙️ Technologies:
+
+| Technology                 | Description                                       |
+|----------------------------|---------------------------------------------------|
+| <i class="fab fa-figma"></i> Figma       | Web-based design and prototyping tool.           |
+| <i class="fab fa-git"></i> Git             | Version control system.                           |
+| <i class="fab fa-html5"></i> HTML5         | HyperText Markup Language for web content.        |
+| <i class="fab fa-illustrator"></i> Illustrator | Vector graphics editor.                       |
+| <i class="fab fa-java"></i> Java           | Object-oriented programming language.             |
+| <i class="fab fa-js"></i> JavaScript       | Programming language for web development.        |
+| <i class="fab fa-jest"></i> Jest           | JavaScript testing framework.                     |
 
 ## 🎯 Featured Projects
 
