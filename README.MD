@@ -11,16 +11,6 @@
 >![](https://i.imgur.com/Vp82E1D.jpg) [Art by Shayna Fernandez]
 >
 
-## ⚡ What I can do:
-
-| Task type                                                      | Description                                        |
-|-----------------------------------------------------------|----------------------------------------------------|
-| 💻 Develop responsive websites using HTML, CSS, and JavaScript.  | Create websites that adapt to different devices and screen sizes. |
-| 💻 Design intuitive and attractive user interfaces.            | Craft user interfaces that are easy to navigate and visually appealing. |
-| 📊 Create animations and visual effects to enhance the user experience. | Add engaging animations and effects to make websites more interactive. |
-| 🚀 Optimize website performance and speed for fast loading.    | Ensure websites load quickly and efficiently for a smooth user experience. |
-| ⚙️ Collaborate with multidisciplinary teams to achieve exceptional results. | Work with diverse teams to deliver outstanding web projects. |
-
 ## ⚡ Stacks for Modern Web Design:
 
 | Stacks for modern web design stacks that I handle for |
