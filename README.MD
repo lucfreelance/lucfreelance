@@ -1,35 +1,21 @@
 # 👋 Hello! 
 ## Welcome to the Lucfreelance's Showcase/Portfolio's repository by Soe Lucas
 
-> I am a passionate frontend web developer with backend bases. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby, Astro with Astro, even Bootstrap with CSS.
->
->
+> I am a passionate frontend web developer with backend bases. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby, Astro with Astro, even Bootstrap with CSS.>
 >
 > ![](https://i.imgur.com/Vp82E1D.jpg)
-> [Art by Shayna Fernandez]
-🎯 Website: www.lucfreelance.vercel.app
-
-Icono moderno: <i class="fas fa-desktop"></i>
+> > [Art by Shayna Fernandez]
+> > > 🎯 Website: www.lucfreelance.vercel.app  <i class="fas fa-desktop"></i>
 Código HTML: <a href="https://lucfreelance.vercel.app"><i class="fas fa-desktop"></i> Website</a>
-📫 Email: lucfreelance@gmail.com
-
-Icono moderno: <i class="far fa-envelope"></i>
+> > > 
+> > > 📫 Email: lucfreelance@gmail.com <i class="far fa-envelope"></i>
 Código HTML: <a href="mailto:lucfreelance@gmail.com"><i class="far fa-envelope"></i> Email</a>
-📷 Instagram: @lucfreelance
-
-Icono moderno: <i class="fab fa-instagram"></i>
+> > > 
+> > >  📷 Instagram: @lucfreelance <i class="fab fa-instagram"></i>
 Código HTML: <a href="https://www.instagram.com/lucfreelance/"><i class="fab fa-instagram"></i> Instagram</a>
-🐦 X: @lucfreelance
-
-Icono moderno: <i class="fab fa-twitter"></i>
-Código HTML: <a href="https://twitter.com/lucfreelance"><i class="fab fa-twitter"></i> X</a>
-Estos iconos tienen un estilo más actual y fresco que puede ser más acorde con lo que estás buscando. Recuerda que puedes personalizar los estilos de estos iconos según tus preferencias de diseño.
-
-
-
-
-
-
+> > > 
+> > > 🐦 X: @lucfreelance <i class="fab fa-twitter"></i>
+Código HTML: <a href="https://twitter.com/lucfreelance"><i class="fab fa-twitter"></i> X</a
 
 ## ⚙️ Stacks for Modern Web Design:
 
