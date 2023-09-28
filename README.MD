@@ -77,15 +77,15 @@
 
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
-| ⚡️ JavaScript | Skilled in JavaScript for client-side interactivity.               |
+| ![](https://img.icons8.com/color/48/000000/javascript.png) | Skilled in JavaScript for client-side interactivity.               |
 | ⚡️ HTML       | Mastery in HTML for structuring web content.                       |
-| ⚡️ CSS        | Expertise in CSS for styling and layout design.                    |
+| ![](https://img.icons8.com/color/48/000000/css3.png)        | Expertise in CSS for styling and layout design.                    |
 | ⚡️ MarkDown   | Advance capability for build MD documents and blogging.            |
 | ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites.      |
 | ⚡️ PHP        | Capable to work with PHP data structure and databases.             |
-| ⚡️ Astro      | For building apps with Astro framework + Astro language.           |
-| ⚡️ Ruby       | For building apps with frameworks like Jekyll and Ruby on Rails .  |
-| ⚡️ Go         | For building apps and integrations with Hugo framework.            |
+| ![](https://img.icons8.com/color/48/000000/astro.png)     | For building apps with Astro framework + Astro language.           |
+| ![](https://img.icons8.com/color/48/000000/ruby.png)      | For building apps with frameworks like Jekyll and Ruby on Rails .  |
+| ![](https://img.icons8.com/color/48/000000/golang.png)        | For building apps and integrations with Hugo framework.            |
 
 ## ⚡ Frameworks and Libraries:
 
@@ -93,13 +93,13 @@
 |----------------------|-------------------------------------------------------|
 | ⚡️ Next              | Familiarity with Next.js for modern web applications. |
 | ⚡️ Hugo              | Proficient in building static websites with Hugo.     |
-| ⚡️ Astro             | Knowledge of Astro for efficient web development.     |
+| ![](https://img.icons8.com/color/48/000000/astro.png)            | Knowledge of Astro for efficient web development.     |
 | ⚡️ ReactJS        | Proficient in using ReactJS for building web interfaces. |
-| ⚡️ Bootstrap         | Skillful in utilizing Bootstrap for web design.       |
-| ⚡️ Eleventy          | Proficiency in Eleventy for static site generation.   |
+| ![](https://img.icons8.com/color/48/000000/bootstrap.png)         | Skillful in utilizing Bootstrap for web design.       |
+| ![](https://img.icons8.com/color/48/000000/eleventy.png)         | Proficiency in Eleventy for static site generation.   |
 | ⚡️ Gatsby            | Competent in building fast websites with Gatsby.      |
-| ⚡️ Jekyll            | Experienced in creating websites using Jekyll.        |
-| ⚡️ Vite              | Proficient in using Vite for frontend development.    |
+| ![](https://img.icons8.com/color/48/000000/jekyll.png)            | Experienced in creating websites using Jekyll.        |
+| ![](https://img.icons8.com/color/48/000000/vite.png)              | Proficient in using Vite for frontend development.    |
 
 ## ⚙️ Stacks To Bundle On Nice Websites:
 
