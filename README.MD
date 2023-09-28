@@ -26,8 +26,8 @@
 | Stacks for modern web design stacks that I handle for |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **PERN Stack** | 
-|  PostgreSQL, Express.js, React.js and Node.js. It's a full-stack web development stack that combines these technologies for building robust web applications.
-| ![](https://img.icons8.com/color/48/000000/postgresql.png) 🅟 PostgreSQL **PostgreSQL:** A powerful open-source relational database management system.
+|  MySQL, Express.js, React.js and Node.js. It's a full-stack web development stack that combines these technologies for building robust web applications.
+| ![](https://img.icons8.com/color/48/000000/mysql.png) MySQL 🅜 MySQL **MySQL:** A powerful open-source relational database management system.
 | ![](https://img.icons8.com/color/48/000000/express.png) 🅔 Express.js **Express.js:** A Node.js framework for building server-side applications.
 | ![](https://img.icons8.com/color/48/000000/react-native.png) 🅡 React.js **React.js:** A popular JavaScript library for building user interfaces.
 | ![](https://img.icons8.com/color/48/000000/nodejs.png) 🅝 Node.js **Node.js:** A runtime environment for server-side JavaScript.
