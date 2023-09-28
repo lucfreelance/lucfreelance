@@ -85,11 +85,9 @@
 | 🎨 User Experience (UX) Design        | For a truly coverage of a digital experience from client side.                            |
 | 📊 Testing                            | Requested measures to have trusted diagnostic to how code is working.                     |
 
-## 🎯 Featured Projects
+### 🎯 Featured Projects
 
-### Now a Mention
-
-Here are a few of my standout collabs that I'm working on, or recently worked:
+> Now a Mention Here are a few of my standout collabs that I'm working on, or recently worked:
 
 - ⭐⭐⭐⭐⭐&nbsp;&nbsp;**Pragma**
 - ⭐⭐⭐⭐ **Komensales**
