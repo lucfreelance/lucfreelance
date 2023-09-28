@@ -35,9 +35,7 @@
 | ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.                       |
 | ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Expertise in CSS for styling and layout design.                    |
 | ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build MD documents and blogging.            |
-| ![](https://img.icons8.com/color/48/000000/liquid.png) Liquid     | Familiar with Liquid for customizing modern eshops and sites.      |
 | ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases.             |
-| ![](https://img.icons8.com/color/48/000000/astro.png) Astro     | For building apps with Astro framework + Astro language.           |
 | ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby     | For building apps with frameworks like Jekyll and Ruby on Rails .  |
 | ![](https://img.icons8.com/color/48/000000/golang.png) Go       | For building apps and integrations with Hugo framework.            |
 
