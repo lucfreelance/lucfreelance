@@ -55,19 +55,22 @@
 
 ## ⚙️ Technologies:
 
-| Technology     | Description                                                     |
-|----------------|-----------------------------------------------------------------|
-| ⚡️ Visual Studio Code | Utilizing Visual Studio Code for development.            |
-| ⚡️ Node.js     | Experienced in server-side scripting with Node.js.              |
-| ⚡️ MySQL       | Experienced in database management with MySQL.                  |
-| ⚡️ GitHub      | Proficient in version control with GitHub.                      |
-| ⚡️ cPanel      | Experience with web hosting management via cPanel.              |
-| ⚡️ Taillwind   | Competent in integrating Bootstrap for web design.              |
-| ⚡️ LocalWP     | Knowledge of LocalWP for local WordPress build and develop.     |
-| ⚡️ WordPress   | Expertise in WordPress for develop themes with Elementor.       |
-| ⚡️ Flask       | Capable of building web applications with Flask.                |
-| ⚡️ OAuth       | Familiar in implementing OAuth for authentication.              |
-| ⚡️ Airtable | Database tool for creating and collaborating custom databases.  |
+| Technology | Description |
+|------------|-------------|
+| <img src="https://link_al_icono_de_azure.png" width="20" height="20"> Azure | Microsoft's cloud computing service. |
+| <img src="https://link_al_icono_de_blender.png" width="20" height="20"> Blender | Open-source 3D creation software. |
+| <img src="https://link_al_icono_de_c.png" width="20" height="20"> C | A general-purpose programming language. |
+| <img src="https://link_al_icono_de_chartjs.png" width="20" height="20"> Chart.js | JavaScript library for data visualization. |
+| <img src="https://link_al_icono_de_cplusplus.png" width="20" height="20"> C++ | An extension of the C programming language. |
+| <img src="https://link_al_icono_de_css3.png" width="20" height="20"> CSS3 | Cascading Style Sheets for web styling. |
+| <img src="https://link_al_icono_de_figma.png" width="20" height="20"> Figma | Web-based design and prototyping tool. |
+| <img src="https://link_al_icono_de_git.png" width="20" height="20"> Git | Version control system. |
+| <img src="https://link_al_icono_de_html5.png" width="20" height="20"> HTML5 | HyperText Markup Language for web content. |
+| <img src="https://link_al_icono_de_illustrator.png" width="20" height="20"> Illustrator | Vector graphics editor. |
+| <img src="https://link_al_icono_de_java.png" width="20" height="20"> Java | Object-oriented programming language. |
+| <img src="https://link_al_icono_de_javascript.png" width="20" height="20"> JavaScript | Programming language for web development. |
+| <img src="https://link_al_icono_de_jest.png" width="20" height="20"> Jest | JavaScript testing framework. |
+
 
 ## ⚙️ Programming & Markup Languages:
 
