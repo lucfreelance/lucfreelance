@@ -57,12 +57,6 @@
 
 | Technology                 | Description                                       |
 |----------------------------|---------------------------------------------------|
-| <i class="fab fa-azure"></i> Azure         | Microsoft's cloud computing service.             |
-| <i class="fab fa-blender"></i> Blender     | Open-source 3D creation software.                |
-| <i class="fab fa-c"></i> C                   | A general-purpose programming language.           |
-| <i class="fab fa-chartjs"></i> Chart.js   | JavaScript library for data visualization.        |
-| <i class="fab fa-cplusplus"></i> C++     | An extension of the C programming language.       |
-| <i class="fab fa-css3"></i> CSS3           | Cascading Style Sheets for web styling.           |
 | ![Figma](https://link_al_icono_de_figma.png) Web-based design and prototyping tool.         | Web-based design and prototyping tool.           |
 | <i class="fab fa-git"></i> Git             | Version control system.                           |
 | <i class="fab fa-html5"></i> HTML5         | HyperText Markup Language for web content.        |
@@ -78,7 +72,7 @@
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | Skilled in JavaScript for client-side interactivity.               |
-| - ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.                       |
+| ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.                       |
 | ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Expertise in CSS for styling and layout design.                    |
 | ![](https://img.icons8.com/color/48/000000/markdown.png) MarkDown   | Advance capability for build MD documents and blogging.            |
 | ![](https://img.icons8.com/color/48/000000/liquid.png) Liquid     | Familiar with Liquid for customizing modern eshops and sites.      |
