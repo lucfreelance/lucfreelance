@@ -55,21 +55,22 @@
 
 ## ⚙️ Technologies:
 
-| Technology | Description |
-|------------|-------------|
-| <img src="https://link_al_icono_de_azure.png" width="20" height="20"> Azure | Microsoft's cloud computing service. |
-| <img src="https://link_al_icono_de_blender.png" width="20" height="20"> Blender | Open-source 3D creation software. |
-| <img src="https://link_al_icono_de_c.png" width="20" height="20"> C | A general-purpose programming language. |
-| <img src="https://link_al_icono_de_chartjs.png" width="20" height="20"> Chart.js | JavaScript library for data visualization. |
-| <img src="https://link_al_icono_de_cplusplus.png" width="20" height="20"> C++ | An extension of the C programming language. |
-| <img src="https://link_al_icono_de_css3.png" width="20" height="20"> CSS3 | Cascading Style Sheets for web styling. |
-| <img src="https://link_al_icono_de_figma.png" width="20" height="20"> Figma | Web-based design and prototyping tool. |
-| <img src="https://link_al_icono_de_git.png" width="20" height="20"> Git | Version control system. |
-| <img src="https://link_al_icono_de_html5.png" width="20" height="20"> HTML5 | HyperText Markup Language for web content. |
-| <img src="https://link_al_icono_de_illustrator.png" width="20" height="20"> Illustrator | Vector graphics editor. |
-| <img src="https://link_al_icono_de_java.png" width="20" height="20"> Java | Object-oriented programming language. |
-| <img src="https://link_al_icono_de_javascript.png" width="20" height="20"> JavaScript | Programming language for web development. |
-| <img src="https://link_al_icono_de_jest.png" width="20" height="20"> Jest | JavaScript testing framework. |
+| Technology                 | Description                                       |
+|----------------------------|---------------------------------------------------|
+| <i class="fab fa-azure"></i> Azure         | Microsoft's cloud computing service.             |
+| <i class="fab fa-blender"></i> Blender     | Open-source 3D creation software.                |
+| <i class="fab fa-c"></i> C                   | A general-purpose programming language.           |
+| <i class="fab fa-chartjs"></i> Chart.js   | JavaScript library for data visualization.        |
+| <i class="fab fa-cplusplus"></i> C++     | An extension of the C programming language.       |
+| <i class="fab fa-css3"></i> CSS3           | Cascading Style Sheets for web styling.           |
+| <i class="fab fa-figma"></i> Figma         | Web-based design and prototyping tool.           |
+| <i class="fab fa-git"></i> Git             | Version control system.                           |
+| <i class="fab fa-html5"></i> HTML5         | HyperText Markup Language for web content.        |
+| <i class="fab fa-illustrator"></i> Illustrator | Vector graphics editor.                       |
+| <i class="fab fa-java"></i> Java           | Object-oriented programming language.             |
+| <i class="fab fa-js"></i> JavaScript       | Programming language for web development.        |
+| <i class="fab fa-jest"></i> Jest           | JavaScript testing framework.                     |
+
 
 
 ## ⚙️ Programming & Markup Languages:
