@@ -32,18 +32,6 @@
 | _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 
-## ⚙️ Skills:
-
-| Skill                                       | Description                                                             |
-|---------------------------------------------|-------------------------------------------------------------------------|
-| 💻 Proficient in HTML5, CSS3, and JavaScript | Mastery in web development using HTML5, CSS3, and JavaScript.           |
-| 🎨 User Interface (UI) Design               | Crafting intuitive and visually appealing user interfaces.              |
-| 📱 Responsive Design                        | Creating websites that adapt seamlessly to various screen sizes.         |
-| 🚀 Web Performance Optimization             | Optimizing websites for lightning-fast loading and exceptional user experience. |
-| 🎥 CSS Animations and Visual Effects        | Adding engaging animations and visual effects using CSS.                 |
-| ⚙️ Frameworks and Libraries                | Proficiency in using frameworks like React and Bootstrap for efficient development. |
-| 📊 SEO Writing and Strategies               | Implementing SEO writing techniques and strategies to enhance website visibility. |
-
 ## ⚙️ Programming & Markup Languages:
 
 | Language      | Description                                                        |
@@ -82,6 +70,18 @@
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
 | ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.    
+
+## ⚙️ Skills:
+
+| Skill                                       | Description                                                             |
+|---------------------------------------------|-------------------------------------------------------------------------|
+| 💻 Proficient in HTML5, CSS3, and JavaScript | Mastery in web development using HTML5, CSS3, and JavaScript.           |
+| 🎨 User Interface (UI) Design               | Crafting intuitive and visually appealing user interfaces.              |
+| 📱 Responsive Design                        | Creating websites that adapt seamlessly to various screen sizes.         |
+| 🚀 Web Performance Optimization             | Optimizing websites for lightning-fast loading and exceptional user experience. |
+| 🎥 CSS Animations and Visual Effects        | Adding engaging animations and visual effects using CSS.                 |
+| ⚙️ Frameworks and Libraries                | Proficiency in using frameworks like React and Bootstrap for efficient development. |
+| 📊 SEO Writing and Strategies               | Implementing SEO writing techniques and strategies to enhance website visibility. |
 
 ## 🎯 Featured Projects
 
