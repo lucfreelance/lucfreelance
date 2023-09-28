@@ -4,13 +4,13 @@
 > I am a passionate frontend web developer with backend bases. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby, Astro with Astro, even Bootstrap with CSS.
 >
 >
+>
+> > > ![](https://i.imgur.com/Vp82E1D.jpg)
+> > > [Art by Shayna Fernandez]
 > - 🎯 Website: [www.lucfreelance.vercel.app](https://lucfreelance.vercel.app)
 > - 📫 Email: [lucfreelance@gmail.com](mailto:lucfreelance@gmail.com)
 > - 📷 Instagram: [@lucfreelance](https://www.instagram.com/lucfreelance/)
 > - 🐦 X: [@lucfreelance](https://twitter.com/lucfreelance)
->
-> > > ![](https://i.imgur.com/Vp82E1D.jpg)
-> > [Art by Shayna Fernandez]
 
 ## ⚙️ Stacks for Modern Web Design:
 
