@@ -1,6 +1,12 @@
 ![](insert_image_url_here)
 # 👋 Hello all you! This is Lucfreelance's Showcase/Portfolio
+```
 
+█▓▀██▀┼██┼██┼████┼█▀█┼▀▓█
+█▓┼██┼┼██┼██┼██┼┼┼█▀█┼▀▓█
+█▓┼██┼┼██▄██┼████┼┼┼┼┼┼▓█
+█▓▄██▄▄▄▀▀▀─┼┼┼┼┼┼┼┼┼┼┼▓█
+```
 > I am a passionate frontend web developer with backend bases. Dedicated to creating involving digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and suitable solutions.
 >
 > - 🎯 Website: [www.lucfreelance.vercel.app](https://lucfreelance.vercel.app)
@@ -124,3 +130,12 @@ together or just want to say [hello](mailto:lucfreelance@gmail.com), feel free t
 ### 🎉 Thank You!
 
 Thanks for getting this far, and... A special thanks to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!
+```
+
+▄▄███▀░░░░▀▄█▄▄▄▄█▄█▄▄
+░▀████░░░▐▄▀█▐███████▐
+░░▀█▀░░░░▄██▄███████░░
+░░░▋▐▄░░░▀███▐▌▀█▀░░░░
+░░░▀██▌░░░░█▌░░░░░█▀█░
+░░░░▀█░░░░░░░░░░░░▀▀▀░
+```
