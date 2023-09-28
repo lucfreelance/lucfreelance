@@ -82,7 +82,7 @@
 | ![](https://img.icons8.com/color/48/000000/css3.png)        | Expertise in CSS for styling and layout design.                    |
 | ⚡️ MarkDown   | Advance capability for build MD documents and blogging.            |
 | ⚡️ Liquid     | Familiar with Liquid for customizing modern eshops and sites.      |
-| ⚡️ PHP        | Capable to work with PHP data structure and databases.             |
+| ![](https://img.icons8.com/color/48/000000/php.png)        | Capable to work with PHP data structure and databases.             |
 | ![](https://img.icons8.com/color/48/000000/astro.png)     | For building apps with Astro framework + Astro language.           |
 | ![](https://img.icons8.com/color/48/000000/ruby.png)      | For building apps with frameworks like Jekyll and Ruby on Rails .  |
 | ![](https://img.icons8.com/color/48/000000/golang.png)        | For building apps and integrations with Hugo framework.            |
