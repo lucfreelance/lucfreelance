@@ -1,6 +1,4 @@
-
 # 👋 Hello! 
-
 ## Welcome to the Lucfreelance's Showcase/Portfolio's repository by Soe Lucas
 
 > I am a passionate frontend web developer with backend bases. Dedicated to creating involving digital experiences. I love combining the beauty of design with the functionality of development to deliver unique and suitable solutions.
