@@ -11,7 +11,7 @@
 >![](https://i.imgur.com/Vp82E1D.jpg) [Art by Shayna Fernandez]
 >
 
-## ⚡ Stacks for Modern Web Design:
+## ⚙️ Stacks for Modern Web Design:
 
 | Stacks for modern web design stacks that I handle for |
 |----------------------------------------------------------------------------------------------------------------------------------------|
@@ -31,7 +31,7 @@
 | _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 
-## ⚡ Skills:
+## ⚙️ Skills:
 
 | Skill                                       | Description                                                             |
 |---------------------------------------------|-------------------------------------------------------------------------|
@@ -55,8 +55,6 @@
 | <i class="fab fa-js"></i> JavaScript       | Programming language for web development.        |
 | <i class="fab fa-jest"></i> Jest           | JavaScript testing framework.                     |
 
-
-
 ## ⚙️ Programming & Markup Languages:
 
 | Language      | Description                                                        |
@@ -71,7 +69,7 @@
 | ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby     | For building apps with frameworks like Jekyll and Ruby on Rails .  |
 | ![](https://img.icons8.com/color/48/000000/golang.png) Go       | For building apps and integrations with Hugo framework.            |
 
-## ⚡ Frameworks and Libraries:
+## ⚙️ Frameworks and Libraries:
 
 | Framework / Library | Description                                            |
 |----------------------|-------------------------------------------------------|
@@ -100,16 +98,16 @@
 ## 🎯 Featured Projects
 
 Here are a few of my standout projects that I'm working on or recently worked:
-- ⚡️ **Pragma**
-- ⚡️ **Komensales**
-- ⚡️ **Colaboradores**
+- ⭐⭐⭐⭐⭐ **Pragma**
+- ⭐⭐⭐⭐ **Komensales**
+- ⭐⭐⭐ **Colaboradores**
 
-### ⚡ Let's Connect
+### 👌 Let's Connect
 
 If you're interested in [working](https://wa.me/3157742332?text=Hello%2C%20I%20came%20from%20your%20GitHub%20repository,)
 together or just want to say [hello](mailto:lucfreelance@gmail.com), feel free to reach out. I look forward to collaborating on incredible projects with you!
 
-### 🎉 Thank You!
+### 🙏 Thank You!
 
 Thanks for getting this far, and... A special thanks to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!
 ```
@@ -121,3 +119,4 @@ Thanks for getting this far, and... A special thanks to everyone who has support
 ░░░▀██▌░░░░█▌░░░░░█▀█░
 ░░░░▀█░░░░░░░░░░░░▀▀▀░
 ```
+> 🌎
