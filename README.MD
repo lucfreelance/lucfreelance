@@ -13,17 +13,17 @@
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **MERN Stack** | 
 |  MySQL, Express.js, React.js and Node.js. It's a full-stack web development stack that combines these technologies for building robust web applications.
-| ![](https://img.icons8.com/color/48/000000/mysql.png) 🅜 MySQL MySQL **MySQL:** A powerful open-source relational database management system.
-| ![](https://img.icons8.com/color/48/000000/express.png) 🅔 Express.js **Express.js:** A Node.js framework for building server-side applications.
-| ![](https://img.icons8.com/color/48/000000/react-native.png) 🅡 React.js **React.js:** A popular JavaScript library for building user interfaces.
-| ![](https://img.icons8.com/color/48/000000/nodejs.png) 🅝 Node.js **Node.js:** A runtime environment for server-side JavaScript.
+| 🅜![](https://img.icons8.com/color/48/000000/mysql.png) MySQL MySQL **MySQL:** A powerful open-source relational database management system.
+| 🅔![](https://img.icons8.com/color/48/000000/express.png) Express.js **Express.js:** A Node.js framework for building server-side applications.
+| 🅡![](https://img.icons8.com/color/48/000000/react-native.png) React.js **React.js:** A popular JavaScript library for building user interfaces.
+| 🅝![](https://img.icons8.com/color/48/000000/nodejs.png) Node.js **Node.js:** A runtime environment for server-side JavaScript.
 | _MERN Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 | **JAM Stack**  |
 | The JAM (JavaScript, APIs, and Markup) stack is a modern web development architecture that decouples the frontend and backend.
-| ![](https://img.icons8.com/color/48/000000/javascript.png) 🅙 JavaScript **JavaScript:** Used for frontend interactivity.
-| ![](https://img.icons8.com/color/48/000000/api-settings.png) 🅐 API **APIs:** Services or microservices that handle server-side logic and data retrieval.
-| ![](https://img.icons8.com/color/48/000000/markdown.png) 🅜 Markup **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
+| 🅙![](https://img.icons8.com/color/48/000000/javascript.png) JavaScript **JavaScript:** Used for frontend interactivity.
+| 🅐![](https://img.icons8.com/color/48/000000/api-settings.png) API **APIs:** Services or microservices that handle server-side logic and data retrieval.
+| 🅜![](https://img.icons8.com/color/48/000000/markdown.png) Markup **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
 | _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 
