@@ -5,7 +5,7 @@
 >
 >
 >
-> > > ![](https://i.imgur.com/Vp82E1D.jpg)
+> ![](https://i.imgur.com/Vp82E1D.jpg)
 > > > [Art by Shayna Fernandez]
 > - 🎯 Website: [www.lucfreelance.vercel.app](https://lucfreelance.vercel.app)
 > - 📫 Email: [lucfreelance@gmail.com](mailto:lucfreelance@gmail.com)
