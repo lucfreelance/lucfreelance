@@ -7,10 +7,29 @@
 >
 > ![](https://i.imgur.com/Vp82E1D.jpg)
 > [Art by Shayna Fernandez]
-> - 🎯 Website: [www.lucfreelance.vercel.app](https://lucfreelance.vercel.app)
-> - 📫 Email: [lucfreelance@gmail.com](mailto:lucfreelance@gmail.com)
-> - 📷 Instagram: [@lucfreelance](https://www.instagram.com/lucfreelance/)
-> - 🐦 X: [@lucfreelance](https://twitter.com/lucfreelance)
+🎯 Website: www.lucfreelance.vercel.app
+
+Icono moderno: <i class="fas fa-desktop"></i>
+Código HTML: <a href="https://lucfreelance.vercel.app"><i class="fas fa-desktop"></i> Website</a>
+📫 Email: lucfreelance@gmail.com
+
+Icono moderno: <i class="far fa-envelope"></i>
+Código HTML: <a href="mailto:lucfreelance@gmail.com"><i class="far fa-envelope"></i> Email</a>
+📷 Instagram: @lucfreelance
+
+Icono moderno: <i class="fab fa-instagram"></i>
+Código HTML: <a href="https://www.instagram.com/lucfreelance/"><i class="fab fa-instagram"></i> Instagram</a>
+🐦 X: @lucfreelance
+
+Icono moderno: <i class="fab fa-twitter"></i>
+Código HTML: <a href="https://twitter.com/lucfreelance"><i class="fab fa-twitter"></i> X</a>
+Estos iconos tienen un estilo más actual y fresco que puede ser más acorde con lo que estás buscando. Recuerda que puedes personalizar los estilos de estos iconos según tus preferencias de diseño.
+
+
+
+
+
+
 
 ## ⚙️ Stacks for Modern Web Design:
 
@@ -89,9 +108,9 @@
 
 > Now a Mention Here are a few of my standout collabs that I'm working on, or recently worked:
 
-| ⭐⭐⭐⭐⭐&nbsp;&nbsp;**Pragma** | 
-| ⭐⭐⭐⭐ **Komensales** | 
-| ⭐⭐⭐ **Colaboradores** | 
+> | ⭐⭐⭐⭐⭐&nbsp;&nbsp;**Pragma** | 
+> | ⭐⭐⭐⭐ **Komensales** | 
+> | ⭐⭐⭐ **Colaboradores** | 
 
 ### 🤝 Let's Connect
 
@@ -101,11 +120,11 @@ If you're interested in [working together](https://wa.me/573157742332?text=Hello
 
 Thanks for getting this far, and... A special thanks to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!
 ```
-🌎
 ▄▄███▀░░░░▀▄█▄▄▄▄█▄█▄▄
 ░▀████░░░▐▄▀█▐███████▐
 ░░▀█▀░░░░▄██▄███████░░
 ░░░▋▐▄░░░▀███▐▌▀█▀░░░░
 ░░░▀██▌░░░░█▌░░░░░█▀█░
 ░░░░▀█░░░░░░░░░░░░▀▀▀░
+🌎
 ```
