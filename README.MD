@@ -25,13 +25,13 @@
 
 | Stacks for modern web design stacks that I handle for |
 |----------------------------------------------------------------------------------------------------------------------------------------|
-| **PERN Stack** | 
+| **MERN Stack** | 
 |  MySQL, Express.js, React.js and Node.js. It's a full-stack web development stack that combines these technologies for building robust web applications.
-| ![](https://img.icons8.com/color/48/000000/mysql.png) MySQL 🅜 MySQL **MySQL:** A powerful open-source relational database management system.
+| ![](https://img.icons8.com/color/48/000000/mysql.png) 🅜 MySQL MySQL **MySQL:** A powerful open-source relational database management system.
 | ![](https://img.icons8.com/color/48/000000/express.png) 🅔 Express.js **Express.js:** A Node.js framework for building server-side applications.
 | ![](https://img.icons8.com/color/48/000000/react-native.png) 🅡 React.js **React.js:** A popular JavaScript library for building user interfaces.
 | ![](https://img.icons8.com/color/48/000000/nodejs.png) 🅝 Node.js **Node.js:** A runtime environment for server-side JavaScript.
-| _PERN Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
+| _MERN Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 | **JAM Stack**  |
 | The JAM (JavaScript, APIs, and Markup) stack is a modern web development architecture that decouples the frontend and backend.
