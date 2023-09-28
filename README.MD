@@ -48,7 +48,7 @@
 
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/javascript.png) JavaScript | Skilled in JavaScript for client-side interactivity.               |
+| ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side interactivity.               |
 | ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.                       |
 | ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Expertise in CSS for styling and layout design.                    |
 | ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build MD documents and blogging.            |
@@ -81,19 +81,7 @@
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform colliding design at graphic and web. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
-| ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.         |
-
-## ⚙️ Technologies:
-
-| Technology                 | Description                                       |
-|----------------------------|---------------------------------------------------|
-| <i class="fab fa-figma"></i> Figma       | Web-based design and prototyping tool.           |
-| <i class="fab fa-git"></i> Git             | Version control system.                           |
-| <i class="fab fa-html5"></i> HTML5         | HyperText Markup Language for web content.        |
-| <i class="fab fa-illustrator"></i> Illustrator | Vector graphics editor.                       |
-| <i class="fab fa-java"></i> Java           | Object-oriented programming language.             |
-| <i class="fab fa-js"></i> JavaScript       | Programming language for web development.        |
-| <i class="fab fa-jest"></i> Jest           | JavaScript testing framework.                     |
+| ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.    
 
 ## 🎯 Featured Projects
 
