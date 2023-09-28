@@ -85,9 +85,9 @@
 
 > Now a Mention Here are a few of my standout collabs that I'm working on, or recently worked:
 
-> | ⭐⭐⭐⭐⭐&nbsp;&nbsp;**Pragma** | 
-> | ⭐⭐⭐⭐ **Komensales** | 
-> | ⭐⭐⭐ **Colaboradores** | 
+> ⭐⭐⭐⭐⭐&nbsp;&nbsp;**Pragma**
+> ⭐⭐⭐⭐ **Komensales** 
+> ⭐⭐⭐ **Colaboradores** 
 
 ### 🤝 Let's Connect
 
