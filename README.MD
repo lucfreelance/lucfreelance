@@ -70,15 +70,15 @@
 
 | Skill                                 | Description                                                                               |
 |---------------------------------------|-------------------------------------------------------------------------------------------|
-| 💻 Web Design                         | Using HTML5, CSS3, and JavaScript, or another additional language set.                    |
-| 🎨 User Interface (UI) Design         | Crafting intuitive and visually appealing user interfaces.                                |
-| 🎨 Prompt Engineer                    | Since a was built components, blogs and websites with AI. Plus copy, imaginery and more.  |
-| 📱 Responsive Design                   | Creating websites that adapt seamlessly to various screen sizes.                          |
-| 🚀 Web Performance Optimization       | Optimizing websites for lightning-fast loading and exceptional user experience.           |
-| 🎥 CSS Animations and Effects         | Adding engaging animations and visual effects using CSS and libraries.                    |
-| 📊 SEO Writing and Strategies         | Implementing SEO writing techniques and strategies to enhance website visibility.         |
-| 🎨 User Experience (UX) Design        | For a truly coverage of a digital experience from client side.                            |
-| 📊 Testing                            | Requested measures to have trusted diagnostic to how code is working.                     |
+| 💻 Web Design                         | Skilled in using HTML5, CSS3, and JavaScript for web design.                              |
+| 📱 Responsive Design                   | Capable of creating websites that adapt seamlessly to various screen sizes.                |
+| 🎨 User Interface (UI) Design         | Proficient in crafting intuitive and visually appealing user interfaces.                 |
+| 🎨 User Experience (UX) Design        | Experienced in creating a comprehensive digital experience for clients.                    |
+| 🤖 Artificial Intelligence (AI)       | Experienced in building components, blogs, and websites with AI, including copy and imagery. |
+| 🚀 Web Performance Optimization       | Adept at optimizing websites for lightning-fast loading and exceptional user experience.    |
+| 🎥 CSS Animations and Effects         | Skilled in adding engaging animations and visual effects using CSS and libraries.         |
+| 📊 SEO Writing and copy               | Proficient in implementing SEO writing techniques and strategies to enhance website authority. |
+| 🧪 Testing                            | Proficient in conducting tests to ensure code reliability and functionality.               |
 
 ### 🎯 Featured Projects
 
