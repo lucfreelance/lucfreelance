@@ -1,7 +1,7 @@
 # 👋 Hello! 
 ## Welcome to the Lucfreelance's Showcase/Portfolio's repository by Soe Lucas
 
-> I am a passionate frontend web developer with backend bases. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby, Astro with Astro, even Bootstrap with CSS.>
+> I am a passionate frontend web developer with backend bases. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby, Astro with Astro, even CSS TailWInd and Bootstrap.
 >
 > ![](https://i.imgur.com/Vp82E1D.jpg)
 > > [Art by Shayna Fernandez]
@@ -48,6 +48,7 @@
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby.         |
 | ![](https://img.icons8.com/color/48/000000/express.png) Express      | Powerful tool to RESTful APIs with Node.js.              |
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development.       |
+| ![](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS | Proficient in using Tailwind CSS for rapid web development and design     |
 | ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo            | Proficient in building static websites with Hugo.        |
 | ![](https://img.icons8.com/color/48/000000/astro.png) Astro          | Knowledge of Astro for efficient web development.        |
 | ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll        | Experienced in creating websites using Jekyll.           |
@@ -86,14 +87,6 @@
 #### **Pragma** &nbsp;&nbsp;⭐⭐⭐⭐⭐
 #### **Komensales**  ⭐⭐⭐⭐ 
 #### **Colaboradores**  ⭐⭐⭐ 
-
-### 🤝 Let's Connect
-
-If you're interested in [working together](https://wa.me/573157742332?text=Hello,%20I%20came%20from%20your%20GitHub%20repository) or just want to say [hello](mailto:lucfreelance@gmail.com), feel free to reach out. I look forward to collaborating on incredible projects with you!
-
-### 🙏 Thank You!
-
-Thanks for getting this far, and... A special thanks to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!
 ```
 ▄▄███▀░░░░▀▄█▄▄▄▄█▄█▄▄
 ░▀████░░░▐▄▀█▐███████▐
@@ -103,3 +96,10 @@ Thanks for getting this far, and... A special thanks to everyone who has support
 ░░░░▀█░░░░░░░░░░░░▀▀▀░
 🌎
 ```
+### 🤝 Let's Connect
+
+If you're interested in [working together](https://wa.me/573157742332?text=Hello,%20I%20came%20from%20your%20GitHub%20repository) or just want to say [hello](mailto:lucfreelance@gmail.com), feel free to reach out. I look forward to collaborating on incredible projects with you!
+
+### 🙏 Thank You!
+
+Thanks for getting this far, and... A special thanks to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!
