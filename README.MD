@@ -68,7 +68,7 @@
 
 ### ⚙️ Profiles:
 
-| Skill                                 | Description                                                                               |
+| Profile Type                           | Description                                                                               |
 |---------------------------------------|-------------------------------------------------------------------------------------------|
 | 💻 Web Design                         | Skilled in using HTML5, CSS3, and JavaScript for web design.                              |
 | 📱 Responsive Design                   | Capable of creating websites that adapt seamlessly to various screen sizes.                |
