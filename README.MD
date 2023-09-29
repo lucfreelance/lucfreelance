@@ -76,7 +76,7 @@
 | 🎨 User Experience (UX) Design        | Experienced in creating a comprehensive digital experience for clients.                    |
 | 🚀 Web Performance Optimization       | Adept at optimizing websites for lightning-fast loading and exceptional user experience.    |
 | 🎥 CSS Animations and Effects         | Skilled in adding engaging animations and visual effects using CSS and libraries.         |
-| 🤖 Artificial Intelligence (AI)       | Experienced in building components, blogs, and websites with AI, including copy and imagery. |
+| 🤖 Artificial Intelligence (AI)       | Experienced in prompt engineer to building with code, besides to generate copy and imagery. |
 | 📊 SEO Writing and copy               | Proficient in implementing SEO writing techniques and strategies to enhance website authority. |
 | 🧪 Testing                            | Proficient in conducting tests to ensure code reliability and functionality.               |
 
@@ -84,9 +84,9 @@
 
 #### Now a Mention Here are a few of my standout collabs that I'm working on, or recently worked:
 >
-#### **Pragma** &nbsp;&nbsp;⭐⭐⭐⭐⭐
-#### **Komensales**  ⭐⭐⭐⭐ 
-#### **Colaboradores**  ⭐⭐⭐ 
+#### 🙌 **Pragma** &nbsp;&nbsp;⭐⭐⭐⭐⭐
+#### 🙌 **Komensales**  ⭐⭐⭐⭐
+#### 🙌 **Colaboradores**  ⭐⭐⭐
 ```
 ▄▄███▀░░░░▀▄█▄▄▄▄█▄█▄▄
 ░▀████░░░▐▄▀█▐███████▐
