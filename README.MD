@@ -69,7 +69,7 @@
 ### ⚙️ Profiles:
 
 | Profile Type                           | Description                                                                               |
-|---------------------------------------|-------------------------------------------------------------------------------------------|
+|----------------------------------------|-------------------------------------------------------------------------------------------|
 | 💻 Web Design                         | Skilled in using HTML5, CSS3, and JavaScript for web design.                              |
 | 📱 Responsive Design                   | Capable of creating websites that adapt seamlessly to various screen sizes.                |
 | 🎨 User Interface (UI) Design         | Proficient in crafting intuitive and visually appealing user interfaces.                 |
@@ -77,8 +77,8 @@
 | 🚀 Web Performance Optimization       | Adept at optimizing websites for lightning-fast loading and exceptional user experience.    |
 | 🎥 CSS Animations and Effects         | Skilled in adding engaging animations and visual effects using CSS and libraries.         |
 | 🤖 Artificial Intelligence (AI)       | Experienced in prompt engineer to building with code, besides to generate copy and imagery. |
-| 📊 SEO Write and Copy               | Proficient in implementing SEO writing techniques and strategies to enhance website authority. |
-| 🧪 Testing                            | Proficient in conducting tests to ensure code reliability and functionality.               |
+| 📊 SEO Write and Copy                 | Proficient in implementing SEO writing techniques and strategies to enhance website authority. |
+| 🧪 Testing Web                        | Proficient in conducting tests to ensure code reliability and functionality.               |
 
 ### 🎯 Featured Projects
 
