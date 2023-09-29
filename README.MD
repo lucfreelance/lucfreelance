@@ -54,7 +54,7 @@
 | ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll                | Experienced in creating websites using Jekyll.                            |
 
 
-## ⚙️ Stacks To Bundle On Nice Websites:
+## ⚙️ Additional Kit Tool To Bundle On Nice Websites:
 
 ### ⚙️ Administrative Tools
 
