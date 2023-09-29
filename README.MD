@@ -77,7 +77,7 @@
 | 🚀 Web Performance Optimization       | Adept at optimizing websites for lightning-fast loading and exceptional user experience.    |
 | 🎥 CSS Animations and Effects         | Skilled in adding engaging animations and visual effects using CSS and libraries.         |
 | 🤖 Artificial Intelligence (AI)       | Experienced in prompt engineer to building with code, besides to generate copy and imagery. |
-| 📊 SEO Writing and copy               | Proficient in implementing SEO writing techniques and strategies to enhance website authority. |
+| 📊 SEO Write and Copy               | Proficient in implementing SEO writing techniques and strategies to enhance website authority. |
 | 🧪 Testing                            | Proficient in conducting tests to ensure code reliability and functionality.               |
 
 ### 🎯 Featured Projects
