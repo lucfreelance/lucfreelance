@@ -39,23 +39,22 @@
 | ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby     | Building apps with frameworks like Jekyll and ROR .  |
 | ![](https://img.icons8.com/color/48/000000/golang.png) Go       | For building apps and integrations with Hugo framework.            |
 
-## ⚙️ Frameworks and :
+## ⚙️ Frameworks to build new nice projects fastly and robust with modern web design:
 
 | Framework / Library                        | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  | Skillful in utilizing Bootstrap for web design.          |
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby.         |
-| ![](https://img.icons8.com/color/48/000000/express.png) Express      | Powerful tool to RESTful APIs with Node.js.              |
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development.       |
 | ![](https://img.icons8.com/color/48/000000/nextjs.png) Next | For server-side rendering and static website generated nice websites. |
-|  ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experienced in creating websites using Jekyll.      |
+| ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experienced in creating websites using Jekyll.      |
 | ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Proficient use of Tailwind CSS styled web development.  |
 | ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo                    | Skilled in building static websites with Hugo.         |
 | ![](https://img.icons8.com/color/48/000000/astro.png) Astro                  | Familiar with Astro for efficient web development.      |
 
 ## JavaScript libraries to enhance display and functionality
 
-| Ecommerce Provider                     | Description                                            |
+| JavaScript library                   | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in using ReactJS for building web interfaces. |
 | ![](https://img.icons8.com/color/48/000000/chartjs.png) Chart.js | Experience in creating interactive visually appealing charts. |
@@ -66,18 +65,16 @@
 | ![](https://img.icons8.com/color/48/000000/react.png) react-router-dom | Capability using React Router for navigation in React apps. |
 | ![](https://img.icons8.com/color/48/000000/css3.png) styled-components | hability in using styled-components for CSS React components. |
 | ![](https://img.icons8.com/color/48/000000/javascript.png) eslint | Proficient in setting up ESLint for code linting and formatting. |
+| ![](https://img.icons8.com/color/48/000000/javascript.png) helmet | To put any significant code on HTMl head in modern websites. |
 
+## ⚙️ CMS for more blogging cycles
 
-
-## ⚙️ CMS for Massive Blogging
-
-| CMS                     | Description                                            |
+| CMS suite                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Proficient in using ReactJS for building web interfaces. |
 | ![](https://img.icons8.com/color/48/000000/drupal.png) Drupal  | Robust and improved solution for wide range web needs.          |
 | ![](https://img.icons8.com/color/48/000000/joomla.png)  Joomla      | Powerful and highly extensible CMS.         |
 | ![](https://img.icons8.com/color/48/000000/ghost.png) Ghost      | Nice for blogs with a special touch.              |
-| ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development.       |
 
 ## Ecommerce Solution
 
@@ -94,17 +91,16 @@
 | ![](https://img.icons8.com/color/48/000000/graphql.png) GraphQL  | Not only relation for important targets.          |
 | ![](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  | Adaptative and easier to handle ecommerce solution.          |
 
-## Backend Proficient to Track and Controlling Code Work
+## Backend Proficient to Build, Track and Controlling Code Work
 
-| Database Type                     | Description                                            |
+| Backend Type                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/nodejs.png) Node | As back-end JS runtime environment.         |
 | ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.         |
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
+| ![](https://img.icons8.com/color/48/000000/express.png) Express      | Powerful tool to RESTful APIs with Node.js.              |
 
-## ⚙️ Kit Tool Set Plus for Bundle On Nice Websites:
-
-### ⚙️ Administrative Tools
+## ⚙️ Kit tool set plus for administrative stuff:
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
@@ -113,7 +109,26 @@
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform colliding design at graphic and web. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
 
-### ⚙️ Profiles:
+## Microsoft  universe of Services to empower any project compatible with Microsoft technology:
+
+| Microsoft -aaS                     | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/microsoft-teams.png) Microsoft Teams | For suitable workflow for remote collaborational work.  |
+| ![](https://img.icons8.com/color/48/000000/live.png) Live | Incorporating Live services for seamless collaboration and online experiences.
+| ![](https://img.icons8.com/color/48/000000/azure.png) Azure      | Leveraging the Azure power of Microsoft for clouding processes.   |
+
+## Google workspace  Extended universe of Services to empower any project compatible with Microsoft technology:
+
+| Google -aaS                     | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/drive.png) Drive | Integrating for secure cloud storage and collaborative file management        |
+| ![](https://img.icons8.com/color/48/000000/gmail.png) Gmail | Leveraging efficient email communication and streamlined workflow processes.  |
+| ![](https://img.icons8.com/color/48/000000/analytics.png) Analytics | Utilizing for in-depth website and app performance analysis.         |
+| ![](https://img.icons8.com/color/48/000000/search-console.png) Searc Console      | to enhancing web presence and SEO strategies.         |
+
+---
+
+### ⚙️ Dev profiles to commit me work as a:
 
 | Profile Type                           | Description                                                                               |
 |----------------------------------------|-------------------------------------------------------------------------------------------|
@@ -144,6 +159,7 @@
 🌎
 ```
 ---
+
 ##### 🙏 Thank You!
 
 Thanks for getting this far, and... A special thanks to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!
