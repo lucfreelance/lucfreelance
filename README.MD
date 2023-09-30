@@ -4,7 +4,7 @@
 > I am a passionate frontend web developer with backend basis. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby; Astro with Astro, even CSS in TailWind and Bootstrap.
 >
 > > <a> 💼 [Showcase](https://lucfreelance.vercel.app) <i class="fas fa-desktop"></i>
-> > > [Send me an emailo](mailto:idasgann@gmail.com)
+> > > [Email me](mailto:idasgann@gmail.com)
 
 --- 
 
