@@ -1,7 +1,7 @@
 # 👋 Hello! 
-## Welcome to the Lucfreelance's Showcase/Portfolio's repository by Soe Lucas
+## Welcome to the Lucfreelance's Soe Lucas Showcase/Portfolio's
 
-> I am a passionate frontend web developer with backend bases. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby, Astro with Astro, even CSS TailWInd and Bootstrap.
+> I am a passionate frontend web developer with backend basis. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby; Astro with Astro, even CSS in TailWind and Bootstrap.
 >
 > ![](https://i.imgur.com/Vp82E1D.jpg)
 > > [Art by Shayna Fernandez]
@@ -85,6 +85,7 @@
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Prompt engineering for build since code, pieces, concepts.             |
 | ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | For task management, documentation, and collaboration.             |
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform colliding design at graphic and web. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
