@@ -39,11 +39,10 @@
 | ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby     | Building apps with frameworks like Jekyll and ROR .  |
 | ![](https://img.icons8.com/color/48/000000/golang.png) Go       | For building apps and integrations with Hugo framework.            |
 
-## ⚙️ Frameworks and Libraries:
+## ⚙️ Frameworks and :
 
 | Framework / Library                        | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in using ReactJS for building web interfaces. |
 | ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  | Skillful in utilizing Bootstrap for web design.          |
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby.         |
 | ![](https://img.icons8.com/color/48/000000/express.png) Express      | Powerful tool to RESTful APIs with Node.js.              |
@@ -53,6 +52,22 @@
 | ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Proficient use of Tailwind CSS styled web development.  |
 | ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo                    | Skilled in building static websites with Hugo.         |
 | ![](https://img.icons8.com/color/48/000000/astro.png) Astro                  | Familiar with Astro for efficient web development.      |
+
+## JavaScript libraries to enhance display and functionality
+
+| Ecommerce Provider                     | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in using ReactJS for building web interfaces. |
+| ![](https://img.icons8.com/color/48/000000/chartjs.png) Chart.js | Experience in creating interactive visually appealing charts. |
+| ![](https://img.icons8.com/ios-filled/50/000000/framer.png) Framer | Familiarity with Framer for prototyping and interactive design. |
+| ![](https://img.icons8.com/ios/50/000000/confetti.png) canvas-confetti | Utilized for creating dynamic confetti animations canvas element. |
+| ![](https://img.icons8.com/color/48/000000/react.png) react-helmet | Implemented for managing document head tags in React applications. |
+| ![](https://img.icons8.com/color/48/000000/react.png) react-icons | Integrated for easily adding popular icon libraries to React projects. |
+| ![](https://img.icons8.com/color/48/000000/react.png) react-router-dom | Capability using React Router for navigation in React apps. |
+| ![](https://img.icons8.com/color/48/000000/css3.png) styled-components | hability in using styled-components for CSS React components. |
+| ![](https://img.icons8.com/color/48/000000/javascript.png) eslint | Proficient in setting up ESLint for code linting and formatting. |
+
+
 
 ## ⚙️ CMS for Massive Blogging
 
@@ -69,7 +84,7 @@
 | Ecommerce Provider                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Maybe best eshop with big customizing choices. |
-| ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative and easier to handle ecommerce solution.          |
+| ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative and easier to handle ecommerce solution.       |
 
 ## Databases
 
