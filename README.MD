@@ -49,9 +49,9 @@
 | ![](https://img.icons8.com/color/48/000000/nextjs.png) Next | For server-side rendering and static website generated nice websites. |
 | ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experienced in creating websites using Jekyll.      |
 | ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Proficient use of Tailwind CSS styled web development.  |
-| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo                    | Skilled in building static websites with Hugo.         |
-| ![](https://i.imgur.com/9VQN8bV.png) Astro                  | Familiar with Astro for efficient web development.      |
-
+| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Familiar with Astro for efficient web development.      |
+| ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo.         |
+ ![](https://img.icons8.com/color/48/000000/hugo.png) ![](https://img.icons8.com/color/48/000000/astro.png)
 ## JavaScript libraries to enhance display and functionality
 
 | JavaScript library                   | Description                                            |
@@ -109,22 +109,22 @@
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform colliding design at graphic and web. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
 
-## Microsoft  universe of Services to empower any project compatible with Microsoft technology:
+## ![](https://img.icons8.com/color/48/000000/microsoft.png) Microsoft Universe of Services to Empower Any project Compatible with Microsoft Technologies:
 
 | Microsoft -aaS                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/microsoft-teams.png) Microsoft Teams | For suitable workflow for remote collaborational work.  |
-| ![](https://img.icons8.com/color/48/000000/live.png) Live | Incorporating Live services for seamless collaboration and online experiences.
-| ![](https://img.icons8.com/color/48/000000/azure.png) Azure      | Leveraging the Azure power of Microsoft for clouding processes.   |
+| ![](https://img.icons8.com/color/48/000000/microsoft-live.png) Live | Incorporating Live services for seamless collaboration and online experiences.
+| ![](https://img.icons8.com/color/48/000000/microsoft-azure.png) Azure      | Leveraging the Azure power of Microsoft for clouding processes.   |
 
-## Google workspace  Extended universe of Services to empower any project compatible with Microsoft technology:
+## ![](https://img.icons8.com/color/48/000000/google.png) Google Workspace Universe of Services to Empower Any Compatible Project  with Google Technologies:
 
 | Google -aaS                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/drive.png) Drive | Integrating for secure cloud storage and collaborative file management        |
+| ![](https://img.icons8.com/color/48/000000/google-drive.png) Drive | Integrating for secure cloud storage and collaborative file management        |
 | ![](https://img.icons8.com/color/48/000000/gmail.png) Gmail | Leveraging efficient email communication and streamlined workflow processes.  |
 | ![](https://img.icons8.com/color/48/000000/analytics.png) Analytics | Utilizing for in-depth website and app performance analysis.         |
-| ![](https://img.icons8.com/color/48/000000/search-console.png) Searc Console      | to enhancing web presence and SEO strategies.         |
+| ![](https://img.icons8.com/color/48/000000/google-search-console.png) Searc Console      | to enhancing web presence and SEO strategies.         |
 
 ---
 
