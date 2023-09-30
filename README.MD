@@ -148,15 +148,15 @@
 
 | Profile Type                      |
 |-----------------------------------|
-| 🎨 User Interface (UI) Design     |
-| 🎨 User Experience (UX) Design     |
-| 🎥 CSS Animations and Effects     |
-| 📊 SEO Write and Copy              |
-| 🚀 Web Optimization   |
-| 📱 Responsive Design              |
-| 🤖 Prompt Engineer                |
-| 🧪 Testing Web                    |
 | 💻 Web Design                     |
+| 🎨 User Interface (UI) Design     |
+| 🚀 Web Optimization   |
+| 🤖 Prompt Engineer                |
+| 📊 SEO Write and Copy              |
+| 🎥 CSS Animations and Effects     |
+| 📱 Responsive Design              |
+| 🎨 User Experience (UX) Design     |
+| 🧪 Testing Web                    |
 
 ---
 ---
