@@ -1,5 +1,5 @@
 # 👋 Hello! 
-## Welcome to the Lucfreelance's Soe Lucas Showcase/Portfolio's
+## Welcome to the Lucfreelance's Soe Lucas Showcase/Portfolio 
 
 > I am a passionate frontend web developer with backend basis. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby; Astro with Astro, even CSS in TailWind and Bootstrap.
 >
