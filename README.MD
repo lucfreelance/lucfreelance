@@ -49,12 +49,36 @@
 | ![](https://img.icons8.com/color/48/000000/express.png) Express      | Powerful tool to RESTful APIs with Node.js.              |
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development.       |
 | ![](https://img.icons8.com/color/48/000000/nextjs.png) Next | For server-side rendering and static website generated nice websites. |
+|  ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experienced in creating websites using Jekyll.                            |
 | ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Proficient in using Tailwind CSS for rapid web development and design.  |
 | ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo                    | Skilled in building static websites with Hugo.                             |
-|  ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experienced in creating websites using Jekyll.                            |
 | ![](https://img.icons8.com/color/48/000000/astro.png) Astro                  | Familiar with Astro for efficient web development.                         |
 
- 
+## ⚙️ CMS for Massive Blogging
+
+| CMS                     | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Proficient in using ReactJS for building web interfaces. |
+| ![](https://img.icons8.com/color/48/000000/drupal.png) Drupal  | Robust and improved solution for wide range web needs.          |
+| ![](https://img.icons8.com/color/48/000000/joomla.png)  Joomla      | Powerful and highly extensible CMS.         |
+| ![](https://img.icons8.com/color/48/000000/ghost.png) Ghost      | Nice for blogs with a special touch.              |
+| ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development.       |
+
+## Ecommerce Solution
+
+| Ecommerce Provider                     | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Maybe best eshop with big customizing choices. |
+| ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative and easier to handle ecommerce solution.          |
+
+## Databases
+
+| Database Type                     | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/mysql.png) MySQL | Relational databases solution for db. |
+| ![](https://img.icons8.com/color/48/000000/graphql.png) GraphQL  | Not only relation for important targets.          |
+| ![](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  | Adaptative and easier to handle ecommerce solution.          |
+
 ## ⚙️ Additional Kit Tool To Bundle On Nice Websites:
 
 ### ⚙️ Administrative Tools
