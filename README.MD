@@ -114,8 +114,6 @@
 | Microsoft -aaS                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/microsoft-teams.png) Microsoft Teams | For suitable workflow for remote collaborational work.  |
-| ![](https://img.icons8.com/color/48/000000/microsoft-live.png) Live | Incorporating Live services for seamless collaboration and online experiences.
-| ![](https://img.icons8.com/color/48/000000/microsoft-azure.png) Azure      | Leveraging the Azure power of Microsoft for clouding processes.   |
 
 ## ![](https://img.icons8.com/color/48/000000/google.png) Google Workspace Universe of Services to Empower Any Compatible Project  with Google Technologies:
 
@@ -124,7 +122,7 @@
 | ![](https://img.icons8.com/color/48/000000/google-drive.png) Drive | Integrating for secure cloud storage and collaborative file management        |
 | ![](https://img.icons8.com/color/48/000000/gmail.png) Gmail | Leveraging efficient email communication and streamlined workflow processes.  |
 | ![](https://img.icons8.com/color/48/000000/analytics.png) Analytics | Utilizing for in-depth website and app performance analysis.         |
-| ![](https://img.icons8.com/color/48/000000/google-search-console.png) Searc Console      | to enhancing web presence and SEO strategies.         |
+| ![](https://img.icons8.com/color/48/000000/console.png) Search Console      | to enhancing web presence and SEO strategies.         |
 
 ---
 
