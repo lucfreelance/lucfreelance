@@ -36,7 +36,7 @@
 | ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Expertise in CSS for styling and layout design.                    |
 | ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build MD documents and blogging.            |
 | ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases.             |
-| ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby     | For building apps with frameworks like Jekyll and Ruby on Rails .  |
+| ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby     | Building apps with frameworks like Jekyll and ROR .  |
 | ![](https://img.icons8.com/color/48/000000/golang.png) Go       | For building apps and integrations with Hugo framework.            |
 
 ## ⚙️ Frameworks and Libraries:
@@ -49,10 +49,10 @@
 | ![](https://img.icons8.com/color/48/000000/express.png) Express      | Powerful tool to RESTful APIs with Node.js.              |
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development.       |
 | ![](https://img.icons8.com/color/48/000000/nextjs.png) Next | For server-side rendering and static website generated nice websites. |
-|  ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experienced in creating websites using Jekyll.                            |
-| ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Proficient in using Tailwind CSS for rapid web development and design.  |
-| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo                    | Skilled in building static websites with Hugo.                             |
-| ![](https://img.icons8.com/color/48/000000/astro.png) Astro                  | Familiar with Astro for efficient web development.                         |
+|  ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experienced in creating websites using Jekyll.      |
+| ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Proficient use of Tailwind CSS styled web development.  |
+| ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo                    | Skilled in building static websites with Hugo.         |
+| ![](https://img.icons8.com/color/48/000000/astro.png) Astro                  | Familiar with Astro for efficient web development.      |
 
 ## ⚙️ CMS for Massive Blogging
 
@@ -79,19 +79,24 @@
 | ![](https://img.icons8.com/color/48/000000/graphql.png) GraphQL  | Not only relation for important targets.          |
 | ![](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  | Adaptative and easier to handle ecommerce solution.          |
 
-## ⚙️ Additional Kit Tool To Bundle On Nice Websites:
+## Backend Proficient to Track and Controlling Code Work
+
+| Database Type                     | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/nodejs.png) Node | As back-end JS runtime environment.         |
+| ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.         |
+| ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
+
+## ⚙️ Kit Tool Set Plus for Bundle On Nice Websites:
 
 ### ⚙️ Administrative Tools
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Prompt engineering for build since code, pieces, concepts.             |
+| ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Prompt engineering for build since code, pieces, concepts.     |
 | ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | For task management, documentation, and collaboration.             |
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform colliding design at graphic and web. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
-| ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
-| ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.         |
-| ![](https://img.icons8.com/color/48/000000/nodejs.png) Node | As back-end JS runtime environment.         |
 
 ### ⚙️ Profiles:
 
