@@ -146,11 +146,17 @@
 
 ### ⚙️ Dev profiles to commit me work as a:
 
-| Profile Type                                     |
-| 💻 Web Design | 📱 Responsive Design | 🎨 User Interface (UI) Design | 
-| 🚀 Web Performance Optimization | 🎥 CSS Animations and Effects | 🤖 Prompt Engineer | 
-| 📊 SEO Write and Copy | 🎨 User Experience (UX) Design | 🧪 Testing Web |
-
+| Profile Type                      |
+|-----------------------------------|
+| 🎨 User Interface (UI) Design     |
+| 🎨 User Experience (UX) Design     |
+| 🎥 CSS Animations and Effects     |
+| 📊 SEO Write and Copy              |
+| 🚀 Web Optimization   |
+| 📱 Responsive Design              |
+| 🤖 Prompt Engineer                |
+| 🧪 Testing Web                    |
+| 💻 Web Design                     |
 
 ---
 ---
