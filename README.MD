@@ -7,6 +7,8 @@
 > > [Art by Shayna Fernandez]
 > > > <a> 💼 [Showcase](https://lucfreelance.vercel.app) <i class="fas fa-desktop"></i>
 
+--- 
+
 ## ⚙️ Stacks for Modern Web Design:
 
 | Stacks for modern web design stacks that I handle for |
@@ -27,6 +29,8 @@
 | _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 
+--- 
+
 ## ⚙️ Programming & Markup Languages:
 
 | Language      | Description                                                        |
@@ -38,6 +42,8 @@
 | ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases.             |
 | ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby     | Building apps with frameworks like Jekyll and ROR .  |
 | ![](https://img.icons8.com/color/48/000000/golang.png) Go       | For building apps and integrations with Hugo framework.            |
+
+--- 
 
 ## ⚙️ Frameworks to build new nice projects fastly and robust with modern web design:
 
@@ -51,8 +57,8 @@
 | ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Proficient use of Tailwind CSS styled web development.  |
 | ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Familiar with Astro for efficient web development.      |
 | ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo.         |
-
---- ![](https://img.icons8.com/color/48/000000/hu-go.png) ![](https://img.icons8.com/color/48/000000/withastro.png)
+![](https://img.icons8.com/color/48/000000/hu-go.png) ![](https://img.icons8.com/color/48/000000/withastro.png)
+--- 
 ## JavaScript libraries to enhance display and functionality
 
 | JavaScript library                   | Description                                            |
