@@ -3,7 +3,7 @@
 
 > I am a passionate frontend web developer with backend basis. I have work in building websites with JS framework builders like NextJS or Vite. Theremore beyond other languages frameworks like Hugo with Go, Jekyll and Ruby On Rails with Ruby; Astro with Astro, even CSS in TailWind and Bootstrap.
 >
-> > <a> 💼 [Showcase](https://lucfreelance.vercel.app) <i class="fas fa-desktop"></i>
+> > <a> 💼 [Portfolio](https://lucfreelance.vercel.app) <i class="fas fa-desktop"></i>
 > > > [Email me](mailto:idasgann@gmail.com)
 
 --- 
@@ -60,12 +60,12 @@
 --- 
 ## JavaScript libraries to enhance display and functionality
 
-| JavaScript library                   | Description                                            |
+| JavaScript Library                   | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in using ReactJS for building web interfaces. |
 | ![](https://img.icons8.com/color/48/000000/chart-js.png) Chart.js | Experience in creating interactive visually appealing charts. |
 | ![](https://img.icons8.com/ios/50/000000/confetti.png) canvas-confetti | Utilized for creating dynamic confetti animations canvas element. |
-| ![](https://img.icons8.com/color/48/000000/css3.png) styled-components | hability in using styled-components for CSS React components. |
+| ![](https://img.icons8.com/color/48/000000/css3.png) Styled Components | hability in using styled-components for CSS React components. |
 | ![](https://img.icons8.com/color/48/000000/javascript.png) esLint | Proficient in setting up ESLint for code linting and formatting. |
 | ![](https://img.icons8.com/color/48/000000/helmet.png) Helmet | To put any significant code on HTMl head in modern websites. |
 
@@ -97,7 +97,6 @@
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/mysql.png) MySQL | Relational databases solution for db. |
 | ![](https://img.icons8.com/color/48/000000/graphql.png) GraphQL  | Not only relation for important targets.          |
-| ![](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  | Adaptative and easier to handle ecommerce solution.          |
 
 ---
 
@@ -108,7 +107,7 @@
 | ![](https://img.icons8.com/color/48/000000/nodejs.png) Node | As back-end JS runtime environment.         |
 | ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.         |
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
-| ![](https://img.icons8.com/color/48/000000/express.png) Express      | Powerful tool to RESTful APIs with Node.js.              |
+| ![](https://img.icons8.com/color/48/000000/express.png) Express.JS      | Powerful tool to RESTful APIs with Node.js.              |
 
 ---
 
