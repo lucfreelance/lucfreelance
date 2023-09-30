@@ -146,6 +146,8 @@
 | ![](https://img.icons8.com/color/48/000000/console.png) Search Console      | To track and enhancing web presence and SEO strategies.       |
 
 ---
+---
+---
 
 ### ⚙️ Dev profiles to commit me work as a:
 
