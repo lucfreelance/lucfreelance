@@ -51,7 +51,8 @@
 | ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Proficient use of Tailwind CSS styled web development.  |
 | ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Familiar with Astro for efficient web development.      |
 | ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo.         |
- ![](https://img.icons8.com/color/48/000000/hugo.png) ![](https://img.icons8.com/color/48/000000/astro.png)
+
+--- ![](https://img.icons8.com/color/48/000000/hu-go.png) ![](https://img.icons8.com/color/48/000000/withastro.png)
 ## JavaScript libraries to enhance display and functionality
 
 | JavaScript library                   | Description                                            |
@@ -67,6 +68,8 @@
 | ![](https://img.icons8.com/color/48/000000/javascript.png) eslint | Proficient in setting up ESLint for code linting and formatting. |
 | ![](https://img.icons8.com/color/48/000000/javascript.png) helmet | To put any significant code on HTMl head in modern websites. |
 
+---
+
 ## ⚙️ CMS for more blogging cycles
 
 | CMS suite                     | Description                                            |
@@ -76,12 +79,16 @@
 | ![](https://img.icons8.com/color/48/000000/joomla.png)  Joomla      | Powerful and highly extensible CMS.         |
 | ![](https://img.icons8.com/color/48/000000/ghost.png) Ghost      | Nice for blogs with a special touch.              |
 
+---
+
 ## Ecommerce Solution
 
 | Ecommerce Provider                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Maybe best eshop with big customizing choices. |
 | ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative and easier to handle ecommerce solution.       |
+
+---
 
 ## Databases
 
@@ -90,6 +97,8 @@
 | ![](https://img.icons8.com/color/48/000000/mysql.png) MySQL | Relational databases solution for db. |
 | ![](https://img.icons8.com/color/48/000000/graphql.png) GraphQL  | Not only relation for important targets.          |
 | ![](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB  | Adaptative and easier to handle ecommerce solution.          |
+
+---
 
 ## Backend Proficient to Build, Track and Controlling Code Work
 
@@ -100,6 +109,8 @@
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
 | ![](https://img.icons8.com/color/48/000000/express.png) Express      | Powerful tool to RESTful APIs with Node.js.              |
 
+---
+
 ## ⚙️ Kit tool set plus for administrative stuff:
 
 | Tool      | Description                                                          |
@@ -109,11 +120,15 @@
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform colliding design at graphic and web. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
 
+---
+
 ## ![](https://img.icons8.com/color/48/000000/microsoft.png) Microsoft Universe of Services to Empower Any project Compatible with Microsoft Technologies:
 
 | Microsoft -aaS                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/microsoft-teams.png) Microsoft Teams | For suitable workflow for remote collaborational work.  |
+
+---
 
 ## ![](https://img.icons8.com/color/48/000000/google.png) Google Workspace Universe of Services to Empower Any Compatible Project  with Google Technologies:
 
@@ -122,7 +137,7 @@
 | ![](https://img.icons8.com/color/48/000000/google-drive.png) Drive | Integrating for secure cloud storage and collaborative file management        |
 | ![](https://img.icons8.com/color/48/000000/gmail.png) Gmail | Leveraging efficient email communication and streamlined workflow processes.  |
 | ![](https://img.icons8.com/color/48/000000/analytics.png) Analytics | Utilizing for in-depth website and app performance analysis.         |
-| ![](https://img.icons8.com/color/48/000000/console.png) Search Console      | to enhancing web presence and SEO strategies.         |
+| ![](https://img.icons8.com/color/48/000000/console.png) Search Console      | To track and enhancing web presence and SEO strategies.       |
 
 ---
 
@@ -139,6 +154,8 @@
 | 🤖 Artificial Intelligence (AI)       | Experienced in prompt engineer to building with code, besides to generate copy and imagery. |
 | 📊 SEO Write and Copy                 | Proficient in implementing SEO writing techniques and strategies to enhance website authority. |
 | 🧪 Testing Web                        | Proficient in conducting tests to ensure code reliability and functionality.               |
+
+---
 
 ### 🎯 Featured Projects
 
