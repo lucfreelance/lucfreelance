@@ -48,12 +48,13 @@
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby.         |
 | ![](https://img.icons8.com/color/48/000000/express.png) Express      | Powerful tool to RESTful APIs with Node.js.              |
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development.       |
+| ![](https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667) | For server-side rendering and static website generated nice websites. |
+
 | ![](https://img.icons8.com/color/48/000000/tailwind-css.png) Tailwind CSS   | Proficient in using Tailwind CSS for rapid web development and design.  |
 | ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo                    | Skilled in building static websites with Hugo.                             |
 | ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll                | Experienced in creating websites using Jekyll.                            |
 | ![](https://img.icons8.com/color/48/000000/astro.png) Astro                  | Familiar with Astro for efficient web development.                         |
 
-| ![](https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667) NextJS            | For server-side rendering and static website generated nice websites.       |
  
 ## ⚙️ Additional Kit Tool To Bundle On Nice Websites:
 
