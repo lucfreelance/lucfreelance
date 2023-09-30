@@ -66,13 +66,9 @@
 | ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in using ReactJS for building web interfaces. |
 | ![](https://img.icons8.com/color/48/000000/chart-js.png) Chart.js | Experience in creating interactive visually appealing charts. |
 | ![](https://img.icons8.com/ios/50/000000/confetti.png) canvas-confetti | Utilized for creating dynamic confetti animations canvas element. |
-| ![](https://img.icons8.com/color/48/000000/react-icons.png) react-icons | Integrated for adding popular icon libraries to React projects. |
-| ![](https://img.icons8.com/color/48/000000/react-router-dom.png) react-router-dom | Skilled using React Router for navigation React apps. |
 | ![](https://img.icons8.com/color/48/000000/css3.png) styled-components | hability in using styled-components for CSS React components. |
-| ![](https://img.icons8.com/color/48/000000/javascript.png) eslint | Proficient in setting up ESLint for code linting and formatting. |
-| ![](https://img.icons8.com/color/48/000000/javascript.png) helmet | To put any significant code on HTMl head in modern websites. |
-| ![](https://img.icons8.com/color/48/000000/helmet.png) react-helmet | Implemented for managing document head tags in React applications. |
-| ![](https://img.icons8.com/ios-filled/50/000000/framer.png) Framer | Familiarity with Framer for prototyping and interactive design. |
+| ![](https://img.icons8.com/color/48/000000/javascript.png) esLint | Proficient in setting up ESLint for code linting and formatting. |
+| ![](https://img.icons8.com/color/48/000000/helmet.png) Helmet | To put any significant code on HTMl head in modern websites. |
 
 ---
 
@@ -163,6 +159,7 @@
 | 📊 SEO Write and Copy                 | Proficient in implementing SEO writing techniques and strategies to enhance website authority. |
 | 🧪 Testing Web                        | Proficient in conducting tests to ensure code reliability and functionality.               |
 
+---
 ---
 
 ### 🎯 Featured Projects
