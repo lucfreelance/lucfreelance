@@ -53,7 +53,8 @@
 | ![](https://img.icons8.com/color/48/000000/jekyll.png) Jekyll                | Experienced in creating websites using Jekyll.                            |
 | ![](https://img.icons8.com/color/48/000000/astro.png) Astro                  | Familiar with Astro for efficient web development.                         |
 
-
+| ![](https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667) NextJS            | For server-side rendering and static website generated nice websites.       |
+ 
 ## ⚙️ Additional Kit Tool To Bundle On Nice Websites:
 
 ### ⚙️ Administrative Tools
@@ -64,7 +65,8 @@
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform colliding design at graphic and web. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello  | Card-based project management that simplifies organization.        |
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
-| ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.    
+| ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.         |
+| ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) Node | As back-end JS runtime environment.         |
 
 ### ⚙️ Profiles:
 
