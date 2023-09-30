@@ -138,6 +138,7 @@
 | ![](https://img.icons8.com/color/48/000000/gmail.png) Gmail | Leveraging efficient email communication and streamlined workflow processes.  |
 | ![](https://img.icons8.com/color/48/000000/analytics.png) Analytics | Utilizing for in-depth website and app performance analysis.         |
 | ![](https://img.icons8.com/color/48/000000/console.png) Search Console      | To track and enhancing web presence and SEO strategies.       |
+| ![](https://img.icons8.com/color/48/000000/google-meet.png) Meet      | Easyling remote meetings to proper workflow and comms.       |
 
 ---
 ---
