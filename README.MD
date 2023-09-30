@@ -50,7 +50,7 @@
 | ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experienced in creating websites using Jekyll.      |
 | ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Proficient use of Tailwind CSS styled web development.  |
 | ![](https://img.icons8.com/color/48/000000/hugo.png) Hugo                    | Skilled in building static websites with Hugo.         |
-| ![](https://img.icons8.com/color/48/000000/astro.png) Astro                  | Familiar with Astro for efficient web development.      |
+| ![](https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png) Astro                  | Familiar with Astro for efficient web development.      |
 
 ## JavaScript libraries to enhance display and functionality
 
