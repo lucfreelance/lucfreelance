@@ -40,9 +40,9 @@
 
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side framework designs. |
+| ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side framework design. |
 | ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases. |
-| ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby | Building apps with frameworks like ROR . |
+| ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby | Developing with frameworks like ROR. |
 | ![](https://img.icons8.com/color/48/000000/golang.png) Go    | For building apps and integrations with Hugo framework.   |
 
 --- 
@@ -54,7 +54,7 @@
 |---------------|--------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Expertise in HTML for structuring web content.    |
 | ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build documents and blogging. |
-| ![](https://img.icons8.com/color/48/000000/json.png) JSON        | To structure data interchange with this ligh language. |
+| ![](https://img.icons8.com/color/48/000000/json.png) JSON  | To structure data interchange with this ligh language. |
 | ![](https://i.imgur.com/DRBrLiP.png) BBCode | Let put publications with great style in forums and more. |
 
 ---
@@ -74,9 +74,9 @@
 | JS Framework                        | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Proficient with Astro for efficient web development.      |
-| ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experience in creating websites using Jekyll. |
+| ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll | Experience in creating websites using Jekyll. |
 | ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo by Google. |
-| ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development. |
+| ![](https://img.icons8.com/color/48/000000/vite.png) Vite        | Proficient in using Vite for frontend development. |
 | ![](https://img.icons8.com/color/48/000000/nextjs.png) Next | For server-side rendering and static website generating. |
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby. |
 ![](https://img.icons8.com/color/48/000000/hu-go.png) ![](https://img.icons8.com/color/48/000000/withastro.png)
@@ -88,7 +88,7 @@
 
 | CSS Framework                       | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  | Skillful in utilizing Bootstrap for web design.   |
+| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap | Skillful in utilizing Bootstrap for web design.   |
 | ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Familiar use of Tailwind CSS framework.  |
 
 --- 
@@ -99,8 +99,9 @@
 | JavaScript Library                   | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in using ReactJS building interfaces. |
-| ![](https://img.icons8.com/ios/50/000000/confetti.png) canvas-confetti | Perfect for creating confetti animations canvas. |
-| ![](https://img.icons8.com/color/48/000000/css3.png) Styled Components | Hability using styled-components for inline CSS. |
+| ![](https://img.icons8.com/ios/50/000000/confetti.png) canvas-confetti | Perfect for creating confetti animations. |
+| ![](https://img.icons8.com/color/48/000000/css3.png) Styled Components | Skill use of styled-components for inline CSS. |
+| ![](https://img.icons8.com/color/48/000000/redux.png) Redux |  Skilled in using Redux for state management in JS apps. |
 | ![](https://img.icons8.com/color/48/000000/javascript.png) esLint | Proficient in setting up ESLint for code linting. |
 | ![](https://img.icons8.com/color/48/000000/helmet.png) Helmet | To put any significant tracking code on HTMl heads. |
 
@@ -112,7 +113,7 @@
 | Backend Type                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/nodejs.png) Node | As back-end JS runtime environment.         |
-| ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.  |
+| ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and admin code.  |
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
 | ![](https://img.icons8.com/color/48/000000/express.png) Express.JS      | Powerful tool to RESTful APIs with Node.js.              |
 
@@ -132,10 +133,10 @@
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Prompt engineering for build code, pieces, concepts.  |
-| ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | For task management, documentation, and collaboration.  |
-| ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform colliding design, graphic and web. |
-| ![](https://img.icons8.com/color/48/000000/trello.png) Trello | Card-based project manageme that simplifies organization. |
+| ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Prompt engineering for build code, pieces, ideas.  |
+| ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | For task management, documentation, and collabs.  |
+| ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform mixing design, graphic and web. |
+| ![](https://img.icons8.com/color/48/000000/trello.png) Trello | Card-based project management that simplifies notes. |
 
 ---
 
@@ -153,11 +154,11 @@
 
 | Google -aaS                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/google-drive.png) Drive | Integrates for storage and collaborative management. |
-| ![](https://img.icons8.com/color/48/000000/gmail.png) Gmail | Leveraging efficient email communication and streamlined.  |
-| ![](https://img.icons8.com/color/48/000000/analytics.png) Analytics | Utilizing for in-depth website and app analysis.   |
-| ![](https://img.icons8.com/color/48/000000/console.png) Search Console  | To track and enhancing web presence and SEO.    |
-| ![](https://img.icons8.com/color/48/000000/google-meet.png) Meet | Easyling remote meetings to proper workflow and comms. |
+| ![](https://img.icons8.com/color/48/000000/google-drive.png) Drive | Integrates for storage and collabs management. |
+| ![](https://img.icons8.com/color/48/000000/gmail.png) Gmail | Leveraging efficient email comms and streamlined.  |
+| ![](https://img.icons8.com/color/48/000000/analytics.png) Analytics | Utilizing for in-depth web and app analysis.   |
+| ![](https://img.icons8.com/color/48/000000/console.png) Search Console  | To track and enhance web presence and SEO.    |
+| ![](https://img.icons8.com/color/48/000000/google-meet.png) Meet | Easyling remote meeting to good workflow and comms. |
 
 ---
 
@@ -165,7 +166,7 @@
 
 | CMS suite                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/drupal.png) Drupal  | Robust and improved solution for wide range web needs.   |
+| ![](https://img.icons8.com/color/48/000000/drupal.png) Drupal  | Robust and improved solution for a range of web needs. |
 | ![](https://img.icons8.com/color/48/000000/joomla.png)  Joomla      | Powerful and highly extensible CMS.         |
 | ![](https://img.icons8.com/color/48/000000/ghost.png) Ghost      | Nice for blogs with a special touch.              |
 
@@ -176,7 +177,7 @@
 | Ecommerce Provider                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Maybe best eshop with big customizing choices. |
-| ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative and easier to handle ecommerce solution.       |
+| ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative handle ecommerce solution.       |
 
 ---
 ---
