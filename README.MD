@@ -17,15 +17,15 @@
 | 🅜![](https://img.icons8.com/color/48/000000/mysql.png) MySQL MySQL **MySQL:** A powerful open-source relational database management system.
 | 🅔![](https://img.icons8.com/color/48/000000/express.png) Express.js **Express.js:** A Node.js framework for building server-side applications.
 | 🅡![](https://img.icons8.com/color/48/000000/react-native.png) React.js **React.js:** A popular JavaScript library for building user interfaces.
-| 🅝![](https://img.icons8.com/color/48/000000/nodejs.png) Node.js **Node.js:** A runtime environment for server-side JavaScript.
+| 🅝![](https://img.icons8.com/color/48/000000/nodejs.png) Node.js **Node.js:** A runtime environment for server-side JavaScript. |
 ||
-| **JAM Stack:** JS, API, and Markup web / app modern stack develop architecture that I work for Vercel, Netlify and GitHub Pages deploys.
+| **JAM Stack:** JS, API, and Markup web / app modern stack develop architecture that I work for Vercel, Netlify and GitHub Pages deploys. |
 | _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 | 🅙![](https://img.icons8.com/color/48/000000/javascript.png) JavaScript **JavaScript:** Used for frontend interactivity.
 | 🅐![](https://img.icons8.com/color/48/000000/api-settings.png) API **APIs:** Services or microservices that handle server-side logic and data retrieval.
-| 🅜![](https://img.icons8.com/color/48/000000/markdown.png) Markup **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
+| 🅜![](https://img.icons8.com/color/48/000000/markdown.png) Markup **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN). |
 ||
-| **WordPress Stack:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and spon keys in evolving websites.
+| **WordPress Stack:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and spon keys in evolving websites. |
 | _Using software like Elementor, Yoast, Woocommerce, and more, WordPress allows to build powerful websites properly.
 | ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Suitable to make websites, blogs, and ecommerces. |
 ||
