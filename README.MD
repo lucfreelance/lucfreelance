@@ -9,9 +9,9 @@
 --- 
 
 ## ⚙️ Stacks for Modern Web Design
+### Stacks For Modern Web Design That I Handle For
 
 ||
-| Stacks for modern web design that I handle for |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **MERN Stack** | 
 |  MySQL, Express.js, React.js and Node.js for web / app develop that bundle these technologies for building robust systems.
