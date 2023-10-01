@@ -99,7 +99,6 @@
 | JavaScript Library                   | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in using ReactJS building interfaces. |
-| ![](https://img.icons8.com/color/48/000000/chart-js.png) Chart.js | Experience in creating visually appealing charts. |
 | ![](https://img.icons8.com/ios/50/000000/confetti.png) canvas-confetti | Perfect for creating confetti animations canvas. |
 | ![](https://img.icons8.com/color/48/000000/css3.png) Styled Components | Hability using styled-components for inline CSS. |
 | ![](https://img.icons8.com/color/48/000000/javascript.png) esLint | Proficient in setting up ESLint for code linting. |
