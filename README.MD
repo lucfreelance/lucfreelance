@@ -36,11 +36,11 @@
 --- 
 
 ## ⚙️ Programming Languages
+### That I Have Skill Level To Modern Develop
 
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side framework designs. |
-| ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build MD documents and blogging. |
 | ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases. |
 | ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby  | Building apps with frameworks like ROR .  |
 | ![](https://img.icons8.com/color/48/000000/golang.png) Go       | For building apps and integrations with Hugo framework.            |
@@ -48,8 +48,7 @@
 --- 
 
 ## ⚙️ Markup Languages
-
-| ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.     |
+### Important Plus and Core to Structuring and Remarking 
 
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
@@ -61,7 +60,10 @@
 ---
 
 ## ⚙️ Style Languages
+### Allowing Responsiveness That Looks Well On Every Screen Plus Make Beautifull Stuff 
 
+| Language      | Description                                                        |
+|---------------|--------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Capability in CSS for styling and layout design.     |
 
 ---
@@ -92,7 +94,7 @@
 
 --- 
 
-## JavaScript Libraries
+## ⚙️ JavaScript Libraries
 ### To Enhance Display and Functionality in JS Projects
 
 | JavaScript Library                   | Description                                            |
@@ -106,37 +108,7 @@
 
 ---
 
-## ⚙️ Likely CMS
-### That I'll love to have the opportunity to work with; (tell me about it)
-
-| CMS suite                     | Description                                            |
-|--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/drupal.png) Drupal  | Robust and improved solution for wide range web needs.          |
-| ![](https://img.icons8.com/color/48/000000/joomla.png)  Joomla      | Powerful and highly extensible CMS.         |
-| ![](https://img.icons8.com/color/48/000000/ghost.png) Ghost      | Nice for blogs with a special touch.              |
-
----
-
-## ⚙️ Ecommerce Solution
-### With Initial Integrating Experience 
-
-| Ecommerce Provider                     | Description                                            |
-|--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Maybe best eshop with big customizing choices. |
-| ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative and easier to handle ecommerce solution.       |
-
----
-
-## ⚙️ Databases 
-### Making Real Interactive Dynamic Projects
-
-| Database Type                     | Description                                            |
-|--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/mysql.png) MySQL | Relational databases solution for db. |
-
----
-
-## Backend Set Tool
+## ⚙️ Backend Set Tool
 ### Proficient to Build, Track and Controlling Code Work
 
 | Backend Type                     | Description                                            |
@@ -145,6 +117,15 @@
 | ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and administrate code.         |
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
 | ![](https://img.icons8.com/color/48/000000/express.png) Express.JS      | Powerful tool to RESTful APIs with Node.js.              |
+
+---
+
+## ⚙️ Databases 
+### For Making Real Interactive Dynamic Projects
+
+| Database Type                     | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/mysql.png) MySQL | Relational databases solution for db. |
 
 ---
 
@@ -179,6 +160,25 @@
 | ![](https://img.icons8.com/color/48/000000/analytics.png) Analytics | Utilizing for in-depth website and app performance analysis.         |
 | ![](https://img.icons8.com/color/48/000000/console.png) Search Console      | To track and enhancing web presence and SEO strategies.       |
 | ![](https://img.icons8.com/color/48/000000/google-meet.png) Meet      | Easyling remote meetings to proper workflow and comms.       |
+
+---
+
+## ⚙️ CMSs ### That I'll love to have the opportunity to work with; (tell me about it)
+
+| CMS suite                     | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/drupal.png) Drupal  | Robust and improved solution for wide range web needs.          |
+| ![](https://img.icons8.com/color/48/000000/joomla.png)  Joomla      | Powerful and highly extensible CMS.         |
+| ![](https://img.icons8.com/color/48/000000/ghost.png) Ghost      | Nice for blogs with a special touch.              |
+
+---
+
+## ⚙️ Ecommerce Solution ### With Initial Integrating Experience 
+
+| Ecommerce Provider                     | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Maybe best eshop with big customizing choices. |
+| ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative and easier to handle ecommerce solution.       |
 
 ---
 ---
