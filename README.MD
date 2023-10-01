@@ -37,7 +37,6 @@
 |---------------|--------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side framework design. |
 | ![](https://img.icons8.com/color/48/000000/python.png) Python    | Hability to work arounf PY scripts and environments. |
-| ![](https://img.icons8.com/color/48/000000/golang.png) Go    | For building apps and integrations with Hugo framework.   |
 
 --- 
 
