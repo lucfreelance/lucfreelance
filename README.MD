@@ -129,7 +129,7 @@
 
 ---
 
-## ⚙️ Administrative and Productivity Kit T
+## ⚙️ Administrative and Productivity Kit Tool
 ### Incredible Tools To Make The Work Better
 
 | Tool      | Description                                                          |
@@ -188,14 +188,14 @@
 
 | Profile Type                      |
 |-----------------------------------|
-| 💻 Web Design                     || 📊 SEO Write and Copy              |
-| 🎨 User Interface (UI) Design     || 🎥 CSS Animations and Effects     |
-| 🚀 Web Optimization   || 📱 Responsive Design              |
-| 🤖 Prompt Engineer                || 🎨 User Experience (UX) Design     |
-| 📊 SEO Write and Copy              || 🧪 Testing Web                    |
-| 🎥 CSS Animations and Effects     |
+| 💻 Web Design                     |
+| 🎨 User Interface (UI)      |
+| 🚀 Web Optimization   |
+| 🤖 Prompt Engineer                |
+| 📊 SEO Write and Copy              |
+| 🎥 CSS Animations Effects     |
 | 📱 Responsive Design              |
-| 🎨 User Experience (UX) Design     |
+| 🎨 User Experience (UX)     |
 
 
 ---
