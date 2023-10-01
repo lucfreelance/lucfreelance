@@ -163,7 +163,7 @@
 
 ---
 
-## ⚙️ CMSs ### That I'll love to have the opportunity to work with; (tell me about it)
+### ⚙️ CMSs - That I'll love to have the opportunity to work with; (tell me about it)
 
 | CMS suite                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -173,7 +173,7 @@
 
 ---
 
-## ⚙️ Ecommerce Solution ### With Initial Integrating Experience 
+### ⚙️ Ecommerce CMSs - With Initial Integrating Experience 
 
 | Ecommerce Provider                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -184,7 +184,7 @@
 ---
 ---
 
-### ⚙️ Dev profiles to commit me work as a:
+#### ⚙️ Dev profiles to commit me work as a:
 
 | Profile Type                      |
 |-----------------------------------|
@@ -201,7 +201,7 @@
 ---
 ---
 
-### 🎯 Featured Projects
+#### 🎯 Featured Projects
 
 #### Now a mention here are a few of my standout collabs that I'm working on, or recently worked:
 >
