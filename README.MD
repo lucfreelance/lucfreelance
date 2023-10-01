@@ -30,7 +30,7 @@
 | **WordPress Stack**  |
 | Mostly for monetazing purposes focused in digital marketing tools like ads, MLM and spon keys in evolving websites.
 | ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Suitable to make websites, blogs, and ecommerces. |
-| _Always on worldwide traffic top count, WordPress is and will a great environment to build wonderful earning projects ._|
+| _Using software like Elementor, Yoast, Woocommerce, and many more, WordPress allow to build powerful websites fastly._|
 ||
 
 --- 
@@ -66,7 +66,8 @@
 
 ---
 
-## ⚙️ JS Frameworks to Build Fastly New Projects With Robust Setting With Modern Web Design:
+## ⚙️ JS Frameworks
+### To Build Fastly New Projects With Robust Setting With Modern Web Design
 
 | JS Framework                        | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -81,7 +82,7 @@
 
 --- 
 
-## ⚙️ CSS Frameworks to build new nice projects fastly and robust with modern web design:
+## ⚙️ CSS Frameworks to Build New Nice Projects Fastly and Robust With Modern Web Design:
 
 | CSS Framework                       | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -90,7 +91,7 @@
 
 --- 
 
-## JavaScript libraries to enhance display and functionality
+## JavaScript Libraries to Enhance Display and Functionality
 
 | JavaScript Library                   | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
