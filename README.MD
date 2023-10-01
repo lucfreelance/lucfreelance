@@ -30,7 +30,7 @@
 | **WordPress Stack**  |
 | Mostly for monetazing purposes focused in digital marketing tools like ads, MLM and spon keys in evolving websites.
 | ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Suitable to make websites, blogs, and ecommerces. |
-| _Using software like Elementor, Yoast, Woocommerce, and many more, WordPress allow to build powerful websites fastly._|
+| _Using software like Elementor, Yoast, Woocommerce, and more, WordPress allows to build powerful websites properly._|
 ||
 
 --- 
@@ -184,7 +184,7 @@
 ---
 ---
 
-#### ⚙️ Dev profiles to commit me work as a:
+#### ⚙️ Dev profiles to commit me:
 
 | Profile Type                      |
 |-----------------------------------|
@@ -203,7 +203,7 @@
 
 #### 🎯 Featured Projects
 
-#### Now a mention here are a few of my standout collabs that I'm working on, or recently worked:
+#### Now as a mention here are a few of my standout collabs that I'd work or eventually working on:
 >
 #### 🙌 **Pragma** &nbsp;&nbsp;⭐⭐⭐⭐⭐
 #### 🙌 **Komensales**  ⭐⭐⭐⭐
