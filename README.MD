@@ -13,9 +13,9 @@
 
 | MERN stack · JAM stack · WORDPRESS develop |
 |----------------------------------------------------------------------------------------------------------------------------------------|
-| **MERN Stack:** MySQL, Express.js, React.js and Node.js for web / app develop that bundle these technologies for building robust systems. | 
+| **MERN Stack:** MongoDB, Express.js, React.js and Node.js for web / app develop that bundle these technologies for building robust systems. | 
 | _MERN Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
-| 🅜![](https://img.icons8.com/color/48/000000/mysql.png) MySQL MySQL **MySQL:** A powerful open-source relational database management system. |
+| 🅜![](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB **MongoDB:** A Not Only relational database management system. |
 | 🅔![](https://img.icons8.com/color/48/000000/express.png) Express.js **Express.js:** A Node.js framework for building server-side applications. |
 | 🅡![](https://img.icons8.com/color/48/000000/react-native.png) React.js **React.js:** A popular JavaScript library for building user interfaces. |
 | 🅝![](https://img.icons8.com/color/48/000000/nodejs.png) Node.js **Node.js:** A runtime environment for server-side JavaScript. |
