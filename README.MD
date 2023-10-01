@@ -11,7 +11,7 @@
 ## ⚙️ Stacks for Modern Web Design
 ### Stacks For Modern Web Design That I Handle For
 
-||
+| MERN stack - JAM stack - WORDPRESS develop |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **MERN Stack:** MySQL, Express.js, React.js and Node.js for web / app develop that bundle these technologies for building robust systems. | 
 | _MERN Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
@@ -24,7 +24,7 @@
 | 🅙![](https://img.icons8.com/color/48/000000/javascript.png) JavaScript **JavaScript:** Used for frontend interactivity. |
 | 🅐![](https://img.icons8.com/color/48/000000/api-settings.png) API **APIs:** Services or microservices that handle server-side logic and data retrieval. |
 | 🅜![](https://img.icons8.com/color/48/000000/markdown.png) Markup **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN). |
-| **WordPress Stack:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and spon keys in evolving websites. |
+| **WordPress Develop:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and spon keys in evolving websites. |
 | _WordPress Stac uusing software like Elementor, Yoast, Woocommerce, and more, WordPress allows to build powerful websites properly. |
 | ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Suitable to make websites, blogs, and ecommerces. |
 
