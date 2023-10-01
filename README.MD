@@ -62,17 +62,18 @@
 
 ---
 
-## ⚙️ JS Frameworks
+## ⚙️ JS and Other languages Frameworks
 ### To Build Fastly New Projects With Robust Setting With Modern Web Design
 
 | JS Framework                        | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Proficient with Astro for efficient web development.      |
 | ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll | Experience in creating websites using Jekyll. |
-| ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo by Google. |
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite        | Proficient in using Vite for frontend development. |
 | ![](https://img.icons8.com/color/48/000000/nextjs.png) Next | For server-side rendering and static website generating. |
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby. |
+| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Proficient with Astro for efficient web devs with Astro.  |
+| ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo and Go. |
+| ![](https://img.icons8.com/color/48/000000/flask.png) Flask  |  Flask developer crafting Python web apps as a learner. |
 
 --- 
 
