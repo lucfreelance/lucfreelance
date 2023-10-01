@@ -8,7 +8,7 @@
 
 --- 
 
-## ⚙️ Stacks for Modern Web Design:
+## ⚙️ Stacks for Modern Web Design
 
 | Stacks for modern web design that I handle for |
 |----------------------------------------------------------------------------------------------------------------------------------------|
@@ -35,7 +35,7 @@
 
 --- 
 
-## ⚙️ Programming Languages:
+## ⚙️ Programming Languages
 
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
@@ -47,7 +47,7 @@
 
 --- 
 
-## ⚙️ Markup Languages:
+## ⚙️ Markup Languages
 
 | ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.     |
 
@@ -60,7 +60,7 @@
 
 ---
 
-## ⚙️ Style Languages:
+## ⚙️ Style Languages
 
 | ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Capability in CSS for styling and layout design.     |
 
@@ -82,7 +82,8 @@
 
 --- 
 
-## ⚙️ CSS Frameworks to Build New Nice Projects Fastly and Robust With Modern Web Design:
+## ⚙️ CSS Frameworks
+### To Build New Nice Projects Fastly and Robust With Modern Web Design:
 
 | CSS Framework                       | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -91,7 +92,8 @@
 
 --- 
 
-## JavaScript Libraries to Enhance Display and Functionality
+## JavaScript Libraries
+### To Enhance Display and Functionality in JS Projects
 
 | JavaScript Library                   | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -104,7 +106,8 @@
 
 ---
 
-## ⚙️ CMS that I'll love to have the opportunity to work with; (tell me about it)
+## ⚙️ Likely CMS
+### That I'll love to have the opportunity to work with; (tell me about it)
 
 | CMS suite                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -114,7 +117,8 @@
 
 ---
 
-## Ecommerce Solution With Initial Integrating Experience 
+## ⚙️ Ecommerce Solution
+### With Initial Integrating Experience 
 
 | Ecommerce Provider                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -123,7 +127,8 @@
 
 ---
 
-## Databases 
+## ⚙️ Databases 
+### Making Real Interactive Dynamic Projects
 
 | Database Type                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -131,7 +136,8 @@
 
 ---
 
-## Backend Proficient to Build, Track and Controlling Code Work
+## Backend Set Tool
+### Proficient to Build, Track and Controlling Code Work
 
 | Backend Type                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -142,7 +148,8 @@
 
 ---
 
-## ⚙️ Kit tool set plus for administrative stuff:
+## ⚙️ Administrative and Productivity Kit T
+### Incredible Tools To Make The Work Better
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
@@ -153,7 +160,8 @@
 
 ---
 
-## ![](https://img.icons8.com/color/48/000000/microsoft.png) Microsoft Universe of Services to Empower Any project Compatible with Microsoft Technologies:
+## ![](https://img.icons8.com/color/48/000000/microsoft.png) Microsoft Suite
+### Universe of Services to Empower Any project Compatible With Microsoft Technologies:
 
 | Microsoft -aaS                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -161,7 +169,8 @@
 
 ---
 
-## ![](https://img.icons8.com/color/48/000000/google.png) Google Workspace Universe of Services to Empower Any Compatible Project  with Google Technologies:
+## ![](https://img.icons8.com/color/48/000000/google.png) Google Workspace
+### Universe of Services to Empower Compatible Project  with Google Technologies:
 
 | Google -aaS                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -179,15 +188,15 @@
 
 | Profile Type                      |
 |-----------------------------------|
-| 💻 Web Design                     |
-| 🎨 User Interface (UI) Design     |
-| 🚀 Web Optimization   |
-| 🤖 Prompt Engineer                |
-| 📊 SEO Write and Copy              |
+| 💻 Web Design                     || 📊 SEO Write and Copy              |
+| 🎨 User Interface (UI) Design     || 🎥 CSS Animations and Effects     |
+| 🚀 Web Optimization   || 📱 Responsive Design              |
+| 🤖 Prompt Engineer                || 🎨 User Experience (UX) Design     |
+| 📊 SEO Write and Copy              || 🧪 Testing Web                    |
 | 🎥 CSS Animations and Effects     |
 | 📱 Responsive Design              |
 | 🎨 User Experience (UX) Design     |
-| 🧪 Testing Web                    |
+
 
 ---
 ---
