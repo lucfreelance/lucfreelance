@@ -101,8 +101,8 @@
 
 ---
 
-## ⚙️ Backend Set Tool
-### Proficient to Build, Track and Controlling Code Work
+## ⚙️ Backend + Framework Set Tool
+### Proficient to Build Apps, Webs, APIs and more utils.
 
 | Backend Type                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -114,7 +114,7 @@
 ---
 
 ## ⚙️ Databases 
-### For Making Real Interactive Dynamic Projects
+### For Making Robust, Persistent, Dynamic Data Feed Projects
 
 | Database Type                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -124,7 +124,7 @@
 ---
 
 ## ⚙️ Administrative and Productivity Kit Tool
-### Incredible Tools To Make The Work Better
+### Incredible Tools To Push Develop, Administration, Creativity, Documentation and More 
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
