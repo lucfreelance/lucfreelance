@@ -73,13 +73,12 @@
 
 | JS Framework                        | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  | Skillful in utilizing Bootstrap for web design.  |
-| ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby. |
+| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Proficient with Astro for efficient web development.      |
+| ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experience in creating websites using Jekyll. |
+| ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo by Google. |
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development. |
 | ![](https://img.icons8.com/color/48/000000/nextjs.png) Next | For server-side rendering and static website generating. |
-| ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experience in creating websites using Jekyll. |
-| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Proficient with Astro for efficient web development.      |
-| ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo by Google. |
+| ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby. |
 ![](https://img.icons8.com/color/48/000000/hu-go.png) ![](https://img.icons8.com/color/48/000000/withastro.png)
 
 --- 
