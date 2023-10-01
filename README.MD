@@ -40,7 +40,6 @@
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side framework designs. |
-| ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Expertise in CSS for styling and layout design.       |
 | ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build MD documents and blogging. |
 | ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases. |
 | ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby  | Building apps with frameworks like ROR .  |
@@ -54,19 +53,22 @@
 
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side interactivity.               |
-| ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.                       |
-| ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Expertise in CSS for styling and layout design.                    |
-| ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build MD documents and blogging.            |
-| ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases.             |
-| ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby     | Building apps with frameworks like Jekyll and ROR .  |
-| ![](https://img.icons8.com/color/48/000000/golang.png) Go       | For building apps and integrations with Hugo framework.            |
+| ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Expertise in HTML for structuring web content.    |
+| ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build documents and blogging. |
+| ![](https://img.icons8.com/color/48/000000/json.png) JSON        | To structure data interchange with this ligh language. |
+| ![](https://img.icons8.com/color/48/000000/bbcode.png) BBCode | Let put publications with great style in forums and more. |
 
---- 
+---
+
+## ⚙️ Style Languages:
+
+| ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Capability in CSS for styling and layout design.     |
+
+---
 
 ## ⚙️ JS Frameworks to Build Fastly New Projects With Robust Setting With Modern Web Design:
 
-| Framework / Library                        | Description                                            |
+| JS Framework                        | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  | Skillful in utilizing Bootstrap for web design.  |
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby. |
@@ -81,7 +83,7 @@
 
 ## ⚙️ CSS Frameworks to build new nice projects fastly and robust with modern web design:
 
-| Framework / Library                        | Description                                            |
+| CSS Framework                       | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  | Skillful in utilizing Bootstrap for web design.   |
 | ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Familiar use of Tailwind CSS framework.  |
@@ -111,7 +113,7 @@
 
 ---
 
-## Ecommerce Solution
+## Ecommerce Solution With Initial Integrating Experience 
 
 | Ecommerce Provider                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
@@ -120,7 +122,7 @@
 
 ---
 
-## Databases
+## Databases 
 
 | Database Type                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
