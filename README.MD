@@ -25,7 +25,7 @@
 | 🅐![](https://img.icons8.com/color/48/000000/api-settings.png) API **APIs:** Services or microservices that handle server-side logic and data retrieval. |
 | 🅜![](https://img.icons8.com/color/48/000000/markdown.png) Markup **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN). |
 | **WordPress Develop:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and spon keys in evolving websites. |
-| _WordPress Stac uusing software like Elementor, Yoast, Woocommerce, and more, WordPress allows to build powerful websites properly. |
+| _WordPress develop using top performance addons and plugins like Elementor, Yoast, Woocommerce, and others, WordPress allows to build powerful websites properly. |
 | ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Suitable to make websites, blogs, and ecommerces. |
 
 --- 
