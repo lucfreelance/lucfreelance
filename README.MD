@@ -10,6 +10,7 @@
 
 ## ⚙️ Stacks for Modern Web Design
 
+||
 | Stacks for modern web design that I handle for |
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **MERN Stack** | 
@@ -78,7 +79,6 @@
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite        | Proficient in using Vite for frontend development. |
 | ![](https://img.icons8.com/color/48/000000/nextjs.png) Next | For server-side rendering and static website generating. |
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby. |
-![](https://img.icons8.com/color/48/000000/hu-go.png) ![](https://img.icons8.com/color/48/000000/withastro.png)
 
 --- 
 
@@ -114,7 +114,7 @@
 | ![](https://img.icons8.com/color/48/000000/nodejs.png) Node | As back-end JS runtime environment.         |
 | ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and admin code.  |
 | ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
-| ![](https://img.icons8.com/color/48/000000/express.png) Express.JS      | Powerful tool to RESTful APIs with Node.js.              |
+| ![](https://img.icons8.com/color/48/000000/express.png) Express.JS      | Powerful tool to RESTful APIs with Node.js.  |
 
 ---
 
@@ -195,7 +195,6 @@
 | 🎥 CSS Animations Effects     |
 | 📱 Responsive Design              |
 | 🎨 User Experience (UX)     |
-
 
 ---
 ---
