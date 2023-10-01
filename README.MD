@@ -41,8 +41,7 @@
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side framework design. |
-| ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases. |
-| ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby | Developing with frameworks like ROR. |
+| ![](https://img.icons8.com/color/48/000000/python.png) Python    | Hability to work arounf PY scripts and environments. |
 | ![](https://img.icons8.com/color/48/000000/golang.png) Go    | For building apps and integrations with Hugo framework.   |
 
 --- 
