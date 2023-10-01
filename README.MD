@@ -186,7 +186,7 @@
 | 🚀 Web Optimization   |
 | 🤖 Prompt Engineer                |
 | 📊 SEO Write and Copy              |
-| 🎥 CSS Animations Effects     |
+| 🎥 CSS Animation Effects     |
 | 📱 Responsive Design              |
 | 🎨 User Experience (UX)     |
 
