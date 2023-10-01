@@ -35,7 +35,22 @@
 
 --- 
 
-## ⚙️ Programming & Markup Languages:
+## ⚙️ Programming Languages:
+
+| Language      | Description                                                        |
+|---------------|--------------------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side framework designs. |
+| ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Expertise in CSS for styling and layout design.       |
+| ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build MD documents and blogging. |
+| ![](https://img.icons8.com/color/48/000000/php.png) PHP        | Capable to work with PHP data structure and databases. |
+| ![](https://img.icons8.com/color/48/000000/ruby-programming-language.png) Ruby  | Building apps with frameworks like ROR .  |
+| ![](https://img.icons8.com/color/48/000000/golang.png) Go       | For building apps and integrations with Hugo framework.            |
+
+--- 
+
+## ⚙️ Markup Languages:
+
+| ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Mastery in HTML for structuring web content.     |
 
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
@@ -49,20 +64,30 @@
 
 --- 
 
-## ⚙️ Frameworks to build new nice projects fastly and robust with modern web design:
+## ⚙️ JS Frameworks to Build Fastly New Projects With Robust Setting With Modern Web Design:
 
 | Framework / Library                        | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  | Skillful in utilizing Bootstrap for web design.          |
-| ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby.         |
-| ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development.       |
-| ![](https://img.icons8.com/color/48/000000/nextjs.png) Next | For server-side rendering and static website generated nice websites. |
-| ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experienced in creating websites using Jekyll.      |
-| ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Proficient use of Tailwind CSS styled web development.  |
-| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Familiar with Astro for efficient web development.      |
-| ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo.         |
+| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  | Skillful in utilizing Bootstrap for web design.  |
+| ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby. |
+| ![](https://img.icons8.com/color/48/000000/vite.png) Vite            | Proficient in using Vite for frontend development. |
+| ![](https://img.icons8.com/color/48/000000/nextjs.png) Next | For server-side rendering and static website generating. |
+| ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll    | Experience in creating websites using Jekyll. |
+| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Proficient with Astro for efficient web development.      |
+| ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo by Google. |
 ![](https://img.icons8.com/color/48/000000/hu-go.png) ![](https://img.icons8.com/color/48/000000/withastro.png)
+
 --- 
+
+## ⚙️ CSS Frameworks to build new nice projects fastly and robust with modern web design:
+
+| Framework / Library                        | Description                                            |
+|--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap  | Skillful in utilizing Bootstrap for web design.   |
+| ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Familiar use of Tailwind CSS framework.  |
+
+--- 
+
 ## JavaScript libraries to enhance display and functionality
 
 | JavaScript Library                   | Description                                            |
