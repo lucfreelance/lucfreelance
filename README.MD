@@ -28,6 +28,7 @@
 | **WordPress Stack:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and spon keys in evolving websites.
 | _Using software like Elementor, Yoast, Woocommerce, and more, WordPress allows to build powerful websites properly.
 | ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Suitable to make websites, blogs, and ecommerces. |
+||
 
 --- 
 
