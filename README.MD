@@ -28,8 +28,8 @@
 | _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
 | **WordPress Stack**  |
-| For monetazing purposes, proyecting blogging involving WordPress
-| ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Making easier for users that want do it quickly. |
+| Mostly for monetazing purposes focused in digital marketing tools like ads, MLM and sponsorship for involving websites.
+| ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Structured to make websites, blogs and many more. |
 | _Always on worldwide traffic top count, WordPress is and will a great environment to build wonderful earning projects ._|
 ||
 
