@@ -27,6 +27,11 @@
 | 🅜![](https://img.icons8.com/color/48/000000/markdown.png) Markup **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN).
 | _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 ||
+| **WordPress Stack**  |
+| For monetazing purposes, proyecting blogging involving WordPress
+| ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Making easier for users that want do it quickly. |
+| _Always on worldwide traffic top count, WordPress is and will a great environment to build wonderful earning projects ._|
+||
 
 --- 
 
@@ -71,11 +76,10 @@
 
 ---
 
-## ⚙️ CMS for more blogging cycles
+## ⚙️ CMS that I'll love to have the opportunity to work with; (tell me about it)
 
 | CMS suite                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/wordpress.png)  WordPress | Proficient in using ReactJS for building web interfaces. |
 | ![](https://img.icons8.com/color/48/000000/drupal.png) Drupal  | Robust and improved solution for wide range web needs.          |
 | ![](https://img.icons8.com/color/48/000000/joomla.png)  Joomla      | Powerful and highly extensible CMS.         |
 | ![](https://img.icons8.com/color/48/000000/ghost.png) Ghost      | Nice for blogs with a special touch.              |
