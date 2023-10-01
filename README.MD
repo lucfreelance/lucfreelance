@@ -123,7 +123,8 @@
 
 | Database Type                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/mysql.png) MySQL | Relational databases solution for db. |
+| ![](https://img.icons8.com/color/48/000000/mysql.png) MySQL | Relational databases solution for data bases. |
+| ![](https://img.icons8.com/color/48/000000/sqlite.png) SQLite | Light database solution for custom request. |
 
 ---
 
