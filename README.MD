@@ -27,8 +27,8 @@
 | 🅜![](https://img.icons8.com/color/48/000000/markdown.png) **MarkDown:** Static markup that is pre-built at build time. |
 | **WordPress Develop:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and more websites. |
 | _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins |
-| 🅦![](https://img.icons8.com/color/48/000000/wordpress.png) WordPress *WordPress:* Widely use and significant impact to. |
-| &nbsp&nbsp ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
+| 🅦![](https://img.icons8.com/color/48/000000/wordpress.png) *WordPress:* Widely use and significant impact to contents. |
+|    ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
 
 --- 
 
