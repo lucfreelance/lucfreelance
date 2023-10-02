@@ -28,7 +28,7 @@
 | **WordPress Develop:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and more websites. |
 | _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins |
 | 🅦![](https://img.icons8.com/color/48/000000/wordpress.png) *WordPress* is widely used and significant impact to contents. |
-| ___ ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
+| __ ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
 
 --- 
 
