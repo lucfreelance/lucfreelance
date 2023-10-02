@@ -16,17 +16,17 @@
 |----------------------------------------------------------------------------------------------------------------------------------------|
 | **MERN Stack:** MongoDB, Express.js, React.js and Node.js for web / app develop that bundle these technologies for building robust systems. | 
 | _MERN Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
-| 🅜![](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB **MongoDB:** A Not Only relational database management system. |
-| 🅔![](https://img.icons8.com/color/48/000000/express.png) Express.js **Express.js:** A Node.js framework for building server-side applications. |
-| 🅡![](https://img.icons8.com/color/48/000000/react-native.png) React.js **React.js:** A popular JavaScript library for building user interfaces. |
-| 🅝![](https://img.icons8.com/color/48/000000/nodejs.png) Node.js **Node.js:** A runtime environment for server-side JavaScript. |
-| **JAM Stack:** JS, API, and Markup web / app modern stack develop architecture that I work for Vercel, Netlify and GitHub Pages deploys. |
-| _JAM Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
-| 🅙![](https://img.icons8.com/color/48/000000/javascript.png) JavaScript **JavaScript:** Used for frontend interactivity. |
-| 🅐![](https://img.icons8.com/color/48/000000/api-settings.png) API **APIs:** Services or microservices that handle server-side logic and data retrieval. |
-| 🅜![](https://img.icons8.com/color/48/000000/markdown.png) Markup **Markup:** Static HTML markup that is pre-built at build time and served via a content delivery network (CDN). |
-| **WordPress Develop:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and spon keys in evolving websites. |
-| _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins like Elementor, Yoast, Woocommerce, and others, WordPress allows to build powerful websites properly. |
+| 🅜![](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB:** A Not Only relational database management system. |
+| 🅔![](https://img.icons8.com/color/48/000000/express.png) **Express.js:** Node.js framework for server-side building. |
+| 🅡![](https://img.icons8.com/color/48/000000/react-native.png) **React.js:** JavaScript library for build user interfaces. |
+| 🅝![](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js:** A runtime environment for server-side JavaScript. |
+| **JAM Stack:** JS, API, and MD stack develop architecture that I work mostly for Vercel, Netlify and GitHub Pages deploys. |
+| _JAM Stack offers up performance and simplifies deployment development processes. Suitable for various types of websites._ |
+| 🅙![](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript:** Used for frontend interactivity. |
+| 🅐![](https://img.icons8.com/color/48/000000/api-settings.png) **APIs:** Services or microservices with data requests. |
+| 🅜![](https://img.icons8.com/color/48/000000/markdown.png) **MarkDown:** Static markup that is pre-built at build time. |
+| **WordPress Develop:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and more websites. |
+| _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins |
 | 🅦![](https://img.icons8.com/color/48/000000/wordpress.png) WordPress *WordPress:* Widely use and significant impact to. |
 | &nbsp&nbsp ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
 
