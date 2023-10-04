@@ -1,14 +1,6 @@
 # 👋 Hello! 
 ## Welcome to the Lucfreelance's Soe Lucas Showcase/Portfolio 
 
-> Frontend web developer with backend basis. I have work in building websites with JS framework builders like Jekyll or Astro. CSS frameworks like Bootstrap. Even theremore beyond develop with other frameworks like Hugo. I also work with WordPress.
->
->For my code work I usually use VSCode as editor, WSL2 as runtime environment, Git as version control and GitHub as repository hub, coworking.
-> > <a> 💼 [Portfolio](https://lucfreelance.vercel.app) <i class="fas fa-desktop"></i>
-> > > [Email Me](mailto:lucfreelance@gmail.com)
-
---- 
-
 ## ⚙️ Stacks for Modern Web Design
 ### Stacks For Modern Web Design That I Handle For
 
@@ -178,6 +170,14 @@
 ---
 ---
 ---
+> Frontend web developer with backend basis. I have work in building websites with JS framework builders like Jekyll or Astro. CSS frameworks like Bootstrap. Even theremore beyond develop with other frameworks like Hugo. I also work with WordPress.
+>
+>For my code work I usually use VSCode as editor, WSL2 as runtime environment, Git as version control and GitHub as repository hub, coworking.
+> > <a> 💼 [Portfolio](https://lucfreelance.vercel.app) <i class="fas fa-desktop"></i>
+> > > [Email Me](mailto:lucfreelance@gmail.com)
+---
+---
+---
 
 #### ⚙️ Dev profiles to commit me:
 
@@ -211,7 +211,7 @@
 ░░░░▀█░░░░░░░░░░░░░░░░▀▀▀
 🌎
 ```
----
+--- 
 
 ##### 🙏 Thank You!
 
