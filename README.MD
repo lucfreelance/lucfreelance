@@ -219,3 +219,11 @@ Thanks for getting this far, and... A special thanks to everyone who has support
 ##### 🤝 Let's Connect
 
 If you're interested in [working together](https://wa.me/573157742332?text=Hello,%20I%20came%20from%20your%20GitHub%20repository) or just want to say [hello](mailto:lucfreelance@gmail.com), feel free to reach out. I look forward to collaborating on incredible projects with you!
+
+---
+
+
+
+| Profile Type                      |
+|-----------------------------------|
+| 🎯 |  🎯| 🎯 |
