@@ -17,10 +17,10 @@
 | 🅐![](https://img.icons8.com/color/48/000000/api-settings.png) **APIs:** Services or microservices with data requests. |
 | 🅜![](https://img.icons8.com/color/48/000000/markdown.png) **MarkDown:** Static markup that is pre-built at build time. |
 | **WordPres:** cPanel, PHP, Apache, MySQL...  |
-| _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins. Besides is focused for monetazing purposes in digital marketing tools like ads, MLM and more websites. |
+| _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins. Besides is focused for monetazing purposes in digital marketing tools like ads, MLM and more websites._ |
 | 🅦![](https://img.icons8.com/color/48/000000/wordpress.png) *WordPress* is widely used impacting the web content. worldwide around |
-| __ ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
-
+| ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
+| ![](https://img.icons8.com/color/48/000000/control-panel.png) cPanel |
 --- 
 
 ## ⚙️ Programming Languages
