@@ -1,5 +1,5 @@
 # 👋 Hello! 
-## Welcome to the Lucfreelance's Soe Lucas Showcase/Portfolio 
+## Welcome to the Lucfreelance's Soe Lucas / Showcase / Portfolio 
 
 ---
 ---
