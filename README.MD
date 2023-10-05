@@ -6,7 +6,6 @@
 | MERN stack + JAM stack + WORDPRESS develop |
 |------------------------------------------------------------------------------------------------------------------------|
 | **MERN Stack:** MongoDB, Express.js, React.js and Node.js     | 
-| 
 | _MERN Stack for web / app develop that bring these techs for building robust systems. offers improved security, scalability, performance, simplifies development and deployment. Suitable for  websites, including blogs, e-commerce, and SPA._ |
 | 🅜![](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB:** A Not Only relational database management system. |
 | 🅔![](https://img.icons8.com/color/48/000000/express.png) **Express.js:** Node.js framework for server-side building. |
