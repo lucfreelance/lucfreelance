@@ -169,9 +169,9 @@
 ---
 ---
 ---
-> > > Frontend web developer with backend basis. I have work in building websites with JS framework builders like Jekyllo. 
-> > > <a> 💼 [Portfolio](https://lucfreelance.vercel.app) <i class="fas fa-desktop"></i>
-> > > [Email Me](mailto:lucfreelance@gmail.com)
+> > > Frontend web developer with backend basis. I'd have been work building websites with JS framework builders like Jekyll or Eleventy; CSS frameworks like Tailwind CSS and Bootstrap. Besides other languages based frameworks like Astro with Astro, Hugo with Go. For my code work I usually use VSCode as editor, WSL2 as runtime environment, Git as version control and GitHub as repository hub, coworking.
+> > > <a> [Portfolio](https://lucfreelance.vercel.app)💼
+> > > [Email Me](mailto:lucfreelance@gmail.com)📧
 ---
 ---
 ---
