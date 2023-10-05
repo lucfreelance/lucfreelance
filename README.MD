@@ -3,9 +3,10 @@
 
 ## ⚙️ Stacks for Modern Web Design That I Handle For
 
-| MERN stack · JAM stack · WORDPRESS develop |
-|----------------------------------------------------------------------------------------------------------------------------------------|
-| **MERN Stack:** MongoDB, Express.js, React.js and Node.js for web / app develop that bundle these technologies for building robust systems. | 
+| MERN stack + JAM stack + WORDPRESS develop |
+|------------------------------------------------------------------------------------------------------------------------|
+| **MERN Stack:**  | 
+| MongoDB, Express.js, React.js and Node.js for web / app develop that bundle these techs for building robust systems. | 
 | _MERN Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
 | 🅜![](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB:** A Not Only relational database management system. |
 | 🅔![](https://img.icons8.com/color/48/000000/express.png) **Express.js:** Node.js framework for server-side building. |
