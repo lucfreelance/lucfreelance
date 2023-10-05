@@ -13,18 +13,18 @@
 
 | MERN stack + JAM stack + WORDPRESS develop |
 |------------------------------------------------------------------------------------------------------------------------|
-| **MERN Stack:** MongoDB, Express.js, React.js and Node.js     | 
+| **1. MERN Stack:** MongoDB, Express.js, React.js and Node.js     | 
 | _MERN Stack for web / app develop that bring these techs for building robust systems. offers improved security, scalability, performance, simplifies development and deployment. Suitable for  websites, including blogs, e-commerce, and SPA._ |
 | 🅜![](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB:** A Not Only relational database management system. |
 | 🅔![](https://img.icons8.com/color/48/000000/express.png) **Express.js:** Node.js framework for server-side building. |
 | 🅡![](https://img.icons8.com/color/48/000000/react-native.png) **React.js:** JavaScript library for build user interfaces. |
 | 🅝![](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js:** A runtime environment for server-side JavaScript. |
-| **JAM Stack:** JS, API, and MD | 
+| **2. JAM Stack:** JS, API, and MD | 
 | _JAM Stack develop architecture that I work mostly for deploys custom projects in Vercel, Netlify and GitHub Pages. offers up performance and simplifies deployment development processes. Suitable for certain types of websites._ |
 | 🅙![](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript:** Used for frontend interactivity. |
 | 🅐![](https://img.icons8.com/color/48/000000/api-settings.png) **APIs:** Services or microservices with data requests. |
 | 🅜![](https://img.icons8.com/color/48/000000/markdown.png) **MarkDown:** Static markup that is pre-built at build time. |
-| **WordPres:** cPanel, PHP, Apache, MySQL...  |
+| **3. WordPres:** cPanel, PHP, Apache, MySQL...  |
 | _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins. Besides is focused for monetazing purposes in digital marketing tools like ads, MLM and more websites._ |
 | 🅦![](https://img.icons8.com/color/48/000000/wordpress.png) *WordPress* is widely used impacting the web content. worldwide around |
 | ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
