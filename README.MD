@@ -1,8 +1,7 @@
 # 👋 Hello! 
 ## Welcome to the Lucfreelance's Soe Lucas Showcase/Portfolio 
 
-## ⚙️ Stacks for Modern Web Design
-### Stacks For Modern Web Design That I Handle For
+## ⚙️ Stacks for Modern Web Design That I Handle For
 
 | MERN stack · JAM stack · WORDPRESS develop |
 |----------------------------------------------------------------------------------------------------------------------------------------|
