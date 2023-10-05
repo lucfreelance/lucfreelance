@@ -5,21 +5,21 @@
 
 | MERN stack + JAM stack + WORDPRESS develop |
 |------------------------------------------------------------------------------------------------------------------------|
-| **MERN Stack:**  | 
-| MongoDB, Express.js, React.js and Node.js for web / app develop that bundle these techs for building robust systems. | 
-| _MERN Stack offers improved security, scalability, and performance, simplifies development and deployment processes, and is suitable for various types of websites, including blogs, e-commerce, and single-page applications._ |
+| **MERN Stack:** MongoDB, Express.js, React.js and Node.js     | 
+| 
+| _MERN Stack for web / app develop that bring these techs for building robust systems. offers improved security, scalability, performance, simplifies development and deployment. Suitable for  websites, including blogs, e-commerce, and SPA._ |
 | 🅜![](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB:** A Not Only relational database management system. |
 | 🅔![](https://img.icons8.com/color/48/000000/express.png) **Express.js:** Node.js framework for server-side building. |
 | 🅡![](https://img.icons8.com/color/48/000000/react-native.png) **React.js:** JavaScript library for build user interfaces. |
 | 🅝![](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js:** A runtime environment for server-side JavaScript. |
-| **JAM Stack:** JS, API, and MD stack develop architecture that I work mostly for Vercel, Netlify and GitHub Pages deploys. |
-| _JAM Stack offers up performance and simplifies deployment development processes. Suitable for various types of websites._ |
+| **JAM Stack:** JS, API, and MD | 
+| _JAM Stack develop architecture that I work mostly for deploys custom projects in Vercel, Netlify and GitHub Pages. offers up performance and simplifies deployment development processes. Suitable for certain types of websites._ |
 | 🅙![](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript:** Used for frontend interactivity. |
 | 🅐![](https://img.icons8.com/color/48/000000/api-settings.png) **APIs:** Services or microservices with data requests. |
 | 🅜![](https://img.icons8.com/color/48/000000/markdown.png) **MarkDown:** Static markup that is pre-built at build time. |
-| **WordPress Develop:** Suitable for focused monetazing purposes in digital marketing tools like ads, MLM and more websites. |
-| _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins |
-| 🅦![](https://img.icons8.com/color/48/000000/wordpress.png) *WordPress* is widely used and significant impact to contents. |
+| **WordPres:** cPanel, PHP, Apache, MySQL...  |
+| _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins. Besides is focused for monetazing purposes in digital marketing tools like ads, MLM and more websites. |
+| 🅦![](https://img.icons8.com/color/48/000000/wordpress.png) *WordPress* is widely used impacting the web content. worldwide around |
 | __ ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
 
 --- 
