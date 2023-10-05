@@ -1,6 +1,14 @@
 # 👋 Hello! 
 ## Welcome to the Lucfreelance's Soe Lucas Showcase/Portfolio 
 
+---
+---
+---
+> > > Frontend web developer with backend basis. I'd have been work building websites with JS framework builders like Jekyll or Eleventy; CSS frameworks like Tailwind CSS and Bootstrap. Besides other languages based frameworks like Astro with Astro, Hugo with Go. For my code work I usually use VSCode as editor, WSL2 as runtime environment, Git as version control and GitHub as repository hub, coworking. · <a> [Portfolio](https://lucfreelance.vercel.app)💼 · [Email Me](mailto:lucfreelance@gmail.com)📧
+---
+---
+---
+
 ## ⚙️ Stacks for Modern Web Design That I Handle For
 
 | MERN stack + JAM stack + WORDPRESS develop |
@@ -40,7 +48,6 @@
 |---------------|--------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/html-5.png) HTML      | Expertise in HTML for structuring web content.    |
 | ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build documents and blogging. |
-| ![](https://img.icons8.com/color/48/000000/json.png) JSON  | To structure data interchange with this ligh language. |
 | ![](https://i.imgur.com/DRBrLiP.png) BBCode | Let put publications with great style in forums and more. |
 
 ---
@@ -166,15 +173,7 @@
 | ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Maybe best eshop with big customizing choices. |
 | ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative handle ecommerce solution.       |
 
----
----
----
-> > > Frontend web developer with backend basis. I'd have been work building websites with JS framework builders like Jekyll or Eleventy; CSS frameworks like Tailwind CSS and Bootstrap. Besides other languages based frameworks like Astro with Astro, Hugo with Go. For my code work I usually use VSCode as editor, WSL2 as runtime environment, Git as version control and GitHub as repository hub, coworking.
-> > > <a> [Portfolio](https://lucfreelance.vercel.app)💼
-> > > [Email Me](mailto:lucfreelance@gmail.com)📧
----
----
----
+
 
 #### ⚙️ Dev profiles to commit me:
 
