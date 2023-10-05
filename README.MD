@@ -226,4 +226,4 @@ If you're interested in [working together](https://wa.me/573157742332?text=Hello
 
 | Profile Type                  |
 |------------------------------|
-| 🎯 | 🎯 | 🎯 |
+| 🎯 | 👋 | 🙌 |
