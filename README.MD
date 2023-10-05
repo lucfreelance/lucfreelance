@@ -1,17 +1,17 @@
 # 👋 Hello! 
-## Welcome to the Lucfreelance's Soe Lucas / Showcase / Portfolio 
+## Welcome to the Lucfreelance's Showcase / Portfolio 
 
 ---
 ---
 ---
-> > > Frontend web developer with backend basis. I'd have been work building websites with JS framework builders like Jekyll or Eleventy; CSS frameworks like Tailwind CSS and Bootstrap. Besides other languages based frameworks like Astro with Astro, Hugo with Go. For my code work I usually use VSCode as editor, WSL2 as runtime environment, Git as version control and GitHub as repository hub, coworking. · <a> [Portfolio](https://lucfreelance.vercel.app)💼
+> > > Soe Lucas Frontend web developer with backend basis. I'd have been work building websites with JS framework builders like Jekyll or Eleventy; CSS frameworks like Tailwind CSS and Bootstrap. Besides other languages based frameworks like Astro with Astro, Hugo with Go. For my code work I usually use VSCode as editor, WSL2 as runtime environment, Git as version control and GitHub as repository hub, coworking. · <a> [Portfolio](https://lucfreelance.vercel.app)💼
 ---
 ---
 ---
 
 ## ⚙️ Stacks for Modern Web Design That I Handle For
 
-| MERN stack + JAM stack + WORDPRESS develop |
+| 𝕄𝔼ℝN stack + 𝕁A𝕄 stack + 𝕎𝕆ℝ𝔻ℙℝ𝔼𝕊𝕊 develop |
 |------------------------------------------------------------------------------------------------------------------------|
 | **1. MERN Stack:** MongoDB, Express.js, React.js and Node.js     | 
 | _MERN Stack for web / app develop that bring these techs for building robust systems. offers improved security, scalability, performance, simplifies development and deployment. Suitable for  websites, including blogs, e-commerce, and SPA._ |
@@ -24,7 +24,7 @@
 | 🅙![](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript:** Used for frontend interactivity. |
 | 🅐![](https://img.icons8.com/color/48/000000/api-settings.png) **APIs:** Services or microservices with data requests. |
 | 🅜![](https://img.icons8.com/color/48/000000/markdown.png) **MarkDown:** Static markup that is pre-built at build time. |
-| **3. WordPres:** cPanel, PHP, Apache, MySQL...  |
+| **3. WordPress:** cPanel, PHP, Apache, MySQL...  |
 | _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins. Besides is focused for monetazing purposes in digital marketing tools like ads, MLM and more websites._ |
 | 🅦![](https://img.icons8.com/color/48/000000/wordpress.png) *WordPress* is widely used impacting the web content. worldwide around |
 | ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
