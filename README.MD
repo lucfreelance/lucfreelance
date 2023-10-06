@@ -113,28 +113,29 @@
 ---
 
 ## ⚙️ Administrative and Productivity Kit Tool
-### Incredible Tools To Push Develop, Administration, Creativity, Documentation and More 
+### Set Tools To Push Develop, Administrate, Create, Documentate, Collaborate and more. 
 
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Prompt engineering for build code, pieces, ideas.  |
-| ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | For task management, documentation, and collabs.  |
+| ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | For task management, documentation, and collabs. |
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform mixing design, graphic and web. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello | Card-based project management that simplifies notes. |
 
 ---
 
-## ![](https://img.icons8.com/color/48/000000/microsoft.png) Microsoft Suite
-### Universe of Services to Empower Any project Compatible With Microsoft Technologies:
+## ⚙️ ![](https://img.icons8.com/color/48/000000/microsoft.png) Microsoft Suite
+### Microsoft Universe of Services to Empower Any project Compatible With That Technologies:
 
 | Microsoft -aaS                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/microsoft-teams.png) Microsoft Teams | For suitable remote workflow collab.  |
+| ![](https://img.icons8.com/color/48/000000/azure.png) Azure | For clouding and integrations eith cloud services.  |
 
 ---
 
-## ![](https://img.icons8.com/color/48/000000/google.png) Google Workspace
-### Universe of Services to Empower Compatible Project  with Google Technologies:
+## ⚙️ ![](https://img.icons8.com/color/48/000000/google.png) Google Workspace
+### Google Universe of Services to Empower Compatible Projects with This Technologies:
 
 | Google -aaS                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
