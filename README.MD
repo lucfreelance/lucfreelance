@@ -1,14 +1,6 @@
 # 👋 Hello! 
 ## Welcome to the Lucfreelance's Showcase / Portfolio 
 
----
----
----
-> > > Frontend web developer with backend basis. I'd have been work building websites with JS framework builders like Jekyll or Eleventy; CSS frameworks like Tailwind CSS and Bootstrap. Besides other languages based frameworks like Astro with Astro, Hugo with Go. For my code work I usually use VSCode as editor, WSL2 as runtime environment, Git as version control and GitHub as repository hub, coworking. · <a> [Portfolio](https://lucfreelance.vercel.app)💼
----
----
----
-
 ## ⚙️ Stacks for Modern Web Design That I Handle For
 
 | 𝕄𝔼ℝℕ stack + 𝕁𝔸𝕄 stack + 𝕎𝕆ℝ𝔻ℙℝ𝔼𝕊𝕊 develop |
@@ -164,41 +156,13 @@
 | ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Maybe best eshop with big customizing choices. |
 | ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative handle ecommerce solution.       |
 
-
-
-#### ⚙️ Dev profiles to commit me:
-
-| Profile Type                      |
-|-----------------------------------|
-| 💻 Web Design                     |
-| 🎨 User Interface (UI)      |
-| 🚀 Web Optimization   |
-| 🤖 Prompt Engineer                |
-| 📊 SEO Write and Copy              |
-| 🎥 CSS Animation Effects     |
-| 📱 Responsive Design              |
-| 🎨 User Experience (UX)     |
-
 ---
 ---
-
-#### 🎯 Featured Projects
-
-#### Now as a mention here are a few of my standout collabs that I'd work or eventually working on:
->
-#### 🙌 **Pragma** &nbsp;&nbsp;⭐⭐⭐⭐⭐
-#### 🙌 **Komensales**  ⭐⭐⭐⭐
-#### 🙌 **Colaboradores**  ⭐⭐⭐
-```
-▄▄███▀░░░░░▀▄█▄▄▄▄█▄█▄▄░░
-░▀████░░░░▐▄▀█▐███████▐░░
-░░▀█▀░░░░░▄██▄███████░░░░
-░░░▋▐▄░░░░▀███▐▌▀█▀░░░░░
-░░░▀██▌░░░░░█▌░░░░░░░░█▀█
-░░░░▀█░░░░░░░░░░░░░░░░▀▀▀
-🌎
-```
---- 
+---
+> > > Frontend web developer with backend basis. I'd have been work building websites with JS framework builders like Jekyll or Eleventy; CSS frameworks like Tailwind CSS and Bootstrap. Besides other languages based frameworks like Astro with Astro, Hugo with Go. For my code work I usually use VSCode as editor, WSL2 as runtime environment, Git as version control and GitHub as repository hub, coworking. · <a> [Portfolio](https://lucfreelance.vercel.app)💼
+---
+---
+---
 
 ##### 🙏 Thank You!
 
