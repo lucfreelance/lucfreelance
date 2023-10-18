@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to the Lucfreelance's Showcase / Portfolio 
+# 👋 Hello! Welcome to Lucfreelance's Tool Set Showcase 
 | ⚙️ 𝕄𝔼ℝℕ stack + 𝕁𝔸𝕄 stack + 𝕎𝕆ℝ𝔻ℙℝ𝔼𝕊𝕊 develop |
 |------------------------------------------------------------------------------------------------------------------------|
 | **1️⃣ MERN Stack:** MongoDB + Express.js + React.js + Node.js     | 
